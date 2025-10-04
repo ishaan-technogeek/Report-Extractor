@@ -1,0 +1,41 @@
+{
+    "patient_info": {
+        "Name _": "Ms. RATHNA GABRIAL Gender . Female LabID ~: 50635928369",
+        "Age’ =": "79 Years Mob. No. : Pt. ID",
+        "B2B": "EMAMI FRANK ROSS LIMITED Ref.By . Pt. Loc",
+        "Reg Date and Time - 30-Jun-2025 16": "13 Report Date and Time <: 30-Jun-2025 18:18 Ref Id1",
+        "Sample Received at": "KA-Shivajinagar Ref Id2",
+        "Serum Coll. Time": "30-Jun-2025 16:14",
+        "Note": ""
+    },
+    "lab_results": [
+        {
+            "TEST": {
+                "value": "Active B12",
+                "confidence": 92.0
+            },
+            "RESULTS": {
+                "value": "> 256.0",
+                "confidence": 95.0
+            },
+            "UNIT": {
+                "value": "pmol/L",
+                "confidence": 96.0
+            },
+            "BIOLOGICAL REF RANGE REMARKS": {
+                "value": "25.1 165.0",
+                "confidence": 92.0
+            }
+        }
+    ],
+    "metadata": {
+        "extraction_method": "dynamic_rule_based_v6",
+        "num_tests_extracted": 1,
+        "detected_columns": [
+            "TEST",
+            "RESULTS",
+            "UNIT",
+            "BIOLOGICAL REF RANGE REMARKS"
+        ]
+    }
+}

@@ -1,0 +1,2818 @@
+[
+    {
+        "text": "Neuberg@",
+        "conf": 79.0,
+        "bbox": {
+            "left": 111,
+            "top": 89,
+            "width": 464,
+            "height": 95
+        },
+        "page": 5
+    },
+    {
+        "text": "Anand",
+        "conf": 92.0,
+        "bbox": {
+            "left": 596,
+            "top": 93,
+            "width": 263,
+            "height": 71
+        },
+        "page": 5
+    },
+    {
+        "text": "REFERENCE",
+        "conf": 94.0,
+        "bbox": {
+            "left": 219,
+            "top": 208,
+            "width": 234,
+            "height": 21
+        },
+        "page": 5
+    },
+    {
+        "text": "LABORATORY",
+        "conf": 95.0,
+        "bbox": {
+            "left": 487,
+            "top": 208,
+            "width": 268,
+            "height": 21
+        },
+        "page": 5
+    },
+    {
+        "text": "MC-6072",
+        "conf": 91.0,
+        "bbox": {
+            "left": 2010,
+            "top": 300,
+            "width": 133,
+            "height": 26
+        },
+        "page": 5
+    },
+    {
+        "text": "LABORATORY",
+        "conf": 96.0,
+        "bbox": {
+            "left": 830,
+            "top": 379,
+            "width": 290,
+            "height": 32
+        },
+        "page": 5
+    },
+    {
+        "text": "REPORT",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1135,
+            "top": 379,
+            "width": 171,
+            "height": 32
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 70.0,
+        "bbox": {
+            "left": 1332,
+            "top": 397,
+            "width": 11,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "FINAL",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1375,
+            "top": 379,
+            "width": 118,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "MM",
+        "conf": 39.0,
+        "bbox": {
+            "left": 1878,
+            "top": 355,
+            "width": 298,
+            "height": 83
+        },
+        "page": 5
+    },
+    {
+        "text": "Name",
+        "conf": 18.0,
+        "bbox": {
+            "left": 163,
+            "top": 462,
+            "width": 99,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "_",
+        "conf": 18.0,
+        "bbox": {
+            "left": 267,
+            "top": 458,
+            "width": 5,
+            "height": 45
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 79.0,
+        "bbox": {
+            "left": 298,
+            "top": 470,
+            "width": 4,
+            "height": 20
+        },
+        "page": 5
+    },
+    {
+        "text": "Mr",
+        "conf": 55.0,
+        "bbox": {
+            "left": 321,
+            "top": 462,
+            "width": 43,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "K",
+        "conf": 55.0,
+        "bbox": {
+            "left": 377,
+            "top": 462,
+            "width": 24,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "P",
+        "conf": 89.0,
+        "bbox": {
+            "left": 415,
+            "top": 462,
+            "width": 22,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "SHRAVAN",
+        "conf": 90.0,
+        "bbox": {
+            "left": 449,
+            "top": 462,
+            "width": 182,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Gender:",
+        "conf": 7.0,
+        "bbox": {
+            "left": 1243,
+            "top": 462,
+            "width": 186,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Male",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1452,
+            "top": 462,
+            "width": 77,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "LabID",
+        "conf": 44.0,
+        "bbox": {
+            "left": 1834,
+            "top": 462,
+            "width": 110,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 16.0,
+        "bbox": {
+            "left": 1992,
+            "top": 470,
+            "width": 3,
+            "height": 20
+        },
+        "page": 5
+    },
+    {
+        "text": "50641000301",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2016,
+            "top": 463,
+            "width": 222,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Age\u2019:",
+        "conf": 9.0,
+        "bbox": {
+            "left": 162,
+            "top": 523,
+            "width": 68,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "40",
+        "conf": 93.0,
+        "bbox": {
+            "left": 320,
+            "top": 524,
+            "width": 39,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Years",
+        "conf": 93.0,
+        "bbox": {
+            "left": 373,
+            "top": 523,
+            "width": 99,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Mob.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1244,
+            "top": 523,
+            "width": 83,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "No.",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1342,
+            "top": 523,
+            "width": 56,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 86.0,
+        "bbox": {
+            "left": 1426,
+            "top": 531,
+            "width": 3,
+            "height": 20
+        },
+        "page": 5
+    },
+    {
+        "text": "9035707662",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1451,
+            "top": 524,
+            "width": 205,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Pt.ID",
+        "conf": 49.0,
+        "bbox": {
+            "left": 1833,
+            "top": 523,
+            "width": 92,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 49.0,
+        "bbox": {
+            "left": 1992,
+            "top": 531,
+            "width": 3,
+            "height": 20
+        },
+        "page": 5
+    },
+    {
+        "text": "6186848",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2016,
+            "top": 524,
+            "width": 143,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "B2B_",
+        "conf": 2.0,
+        "bbox": {
+            "left": 164,
+            "top": 587,
+            "width": 70,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "SC:",
+        "conf": 39.0,
+        "bbox": {
+            "left": 298,
+            "top": 595,
+            "width": 4,
+            "height": 20
+        },
+        "page": 5
+    },
+    {
+        "text": "Ref.",
+        "conf": 65.0,
+        "bbox": {
+            "left": 1244,
+            "top": 587,
+            "width": 66,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "By",
+        "conf": 65.0,
+        "bbox": {
+            "left": 1326,
+            "top": 587,
+            "width": 44,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "=",
+        "conf": 34.0,
+        "bbox": {
+            "left": 1426,
+            "top": 597,
+            "width": 3,
+            "height": 22
+        },
+        "page": 5
+    },
+    {
+        "text": "VIKRAM",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1451,
+            "top": 587,
+            "width": 139,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "KAMATH",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1606,
+            "top": 587,
+            "width": 150,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Pt.Loc",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1833,
+            "top": 587,
+            "width": 122,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 84.0,
+        "bbox": {
+            "left": 1992,
+            "top": 595,
+            "width": 3,
+            "height": 20
+        },
+        "page": 5
+    },
+    {
+        "text": "Reg",
+        "conf": 95.0,
+        "bbox": {
+            "left": 164,
+            "top": 655,
+            "width": 65,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "Date",
+        "conf": 95.0,
+        "bbox": {
+            "left": 244,
+            "top": 655,
+            "width": 78,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "and",
+        "conf": 93.0,
+        "bbox": {
+            "left": 334,
+            "top": 655,
+            "width": 64,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Time",
+        "conf": 72.0,
+        "bbox": {
+            "left": 411,
+            "top": 655,
+            "width": 86,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "=:",
+        "conf": 39.0,
+        "bbox": {
+            "left": 558,
+            "top": 663,
+            "width": 3,
+            "height": 20
+        },
+        "page": 5
+    },
+    {
+        "text": "29-Jun-2025",
+        "conf": 93.0,
+        "bbox": {
+            "left": 582,
+            "top": 655,
+            "width": 208,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "06:37",
+        "conf": 96.0,
+        "bbox": {
+            "left": 803,
+            "top": 656,
+            "width": 91,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Report",
+        "conf": 96.0,
+        "bbox": {
+            "left": 972,
+            "top": 655,
+            "width": 117,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "Date",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1103,
+            "top": 655,
+            "width": 78,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "and",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1193,
+            "top": 655,
+            "width": 63,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Time:",
+        "conf": 44.0,
+        "bbox": {
+            "left": 1269,
+            "top": 655,
+            "width": 126,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "29-Jun-2025",
+        "conf": 80.0,
+        "bbox": {
+            "left": 1416,
+            "top": 655,
+            "width": 208,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "11:11",
+        "conf": 80.0,
+        "bbox": {
+            "left": 1639,
+            "top": 656,
+            "width": 82,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Ref",
+        "conf": 72.0,
+        "bbox": {
+            "left": 1768,
+            "top": 655,
+            "width": 57,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Id1",
+        "conf": 64.0,
+        "bbox": {
+            "left": 1838,
+            "top": 655,
+            "width": 46,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Sample",
+        "conf": 96.0,
+        "bbox": {
+            "left": 162,
+            "top": 716,
+            "width": 131,
+            "height": 37
+        },
+        "page": 5
+    },
+    {
+        "text": "Received",
+        "conf": 96.0,
+        "bbox": {
+            "left": 307,
+            "top": 716,
+            "width": 159,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "at",
+        "conf": 48.0,
+        "bbox": {
+            "left": 480,
+            "top": 718,
+            "width": 31,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 48.0,
+        "bbox": {
+            "left": 558,
+            "top": 724,
+            "width": 3,
+            "height": 20
+        },
+        "page": 5
+    },
+    {
+        "text": "KA-Bannergatta",
+        "conf": 90.0,
+        "bbox": {
+            "left": 584,
+            "top": 716,
+            "width": 263,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "Road",
+        "conf": 96.0,
+        "bbox": {
+            "left": 861,
+            "top": 716,
+            "width": 84,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Ref",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1768,
+            "top": 716,
+            "width": 57,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Id2",
+        "conf": 78.0,
+        "bbox": {
+            "left": 1838,
+            "top": 716,
+            "width": 51,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Sample",
+        "conf": 96.0,
+        "bbox": {
+            "left": 162,
+            "top": 776,
+            "width": 131,
+            "height": 37
+        },
+        "page": 5
+    },
+    {
+        "text": "Collected",
+        "conf": 95.0,
+        "bbox": {
+            "left": 305,
+            "top": 776,
+            "width": 165,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "at;",
+        "conf": 7.0,
+        "bbox": {
+            "left": 484,
+            "top": 778,
+            "width": 77,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "TEST",
+        "conf": 95.0,
+        "bbox": {
+            "left": 162,
+            "top": 929,
+            "width": 95,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "RESULTS",
+        "conf": 96.0,
+        "bbox": {
+            "left": 862,
+            "top": 929,
+            "width": 168,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "UNIT",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1225,
+            "top": 929,
+            "width": 84,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "BIOLOGICAL",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1448,
+            "top": 929,
+            "width": 224,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "REF",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1686,
+            "top": 929,
+            "width": 70,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "RANGE",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1771,
+            "top": 929,
+            "width": 128,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "REMARKS",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1929,
+            "top": 929,
+            "width": 181,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "LIPID",
+        "conf": 96.0,
+        "bbox": {
+            "left": 978,
+            "top": 1052,
+            "width": 102,
+            "height": 32
+        },
+        "page": 5
+    },
+    {
+        "text": "PROFILE",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1095,
+            "top": 1052,
+            "width": 165,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "STANDARD",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1274,
+            "top": 1052,
+            "width": 231,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "Cholesterol",
+        "conf": 94.0,
+        "bbox": {
+            "left": 163,
+            "top": 1195,
+            "width": 187,
+            "height": 45
+        },
+        "page": 5
+    },
+    {
+        "text": "118",
+        "conf": 96.0,
+        "bbox": {
+            "left": 860,
+            "top": 1200,
+            "width": 57,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "mg/dL",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1227,
+            "top": 1199,
+            "width": 101,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "Desirable",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1453,
+            "top": 1195,
+            "width": 154,
+            "height": 45
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 67.0,
+        "bbox": {
+            "left": 1737,
+            "top": 1207,
+            "width": 5,
+            "height": 20
+        },
+        "page": 5
+    },
+    {
+        "text": "<200",
+        "conf": 83.0,
+        "bbox": {
+            "left": 1756,
+            "top": 1200,
+            "width": 81,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Enzymatic",
+        "conf": 96.0,
+        "bbox": {
+            "left": 165,
+            "top": 1238,
+            "width": 133,
+            "height": 53
+        },
+        "page": 5
+    },
+    {
+        "text": "Borderline",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1453,
+            "top": 1241,
+            "width": 167,
+            "height": 46
+        },
+        "page": 5
+    },
+    {
+        "text": "High",
+        "conf": 85.0,
+        "bbox": {
+            "left": 1634,
+            "top": 1241,
+            "width": 72,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 85.0,
+        "bbox": {
+            "left": 1733,
+            "top": 1249,
+            "width": 5,
+            "height": 20
+        },
+        "page": 5
+    },
+    {
+        "text": "200-239",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1751,
+            "top": 1242,
+            "width": 135,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "High",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1453,
+            "top": 1282,
+            "width": 72,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 34.0,
+        "bbox": {
+            "left": 1739,
+            "top": 1290,
+            "width": 5,
+            "height": 20
+        },
+        "page": 5
+    },
+    {
+        "text": ">239",
+        "conf": 34.0,
+        "bbox": {
+            "left": 1758,
+            "top": 1283,
+            "width": 81,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Triglyceride",
+        "conf": 96.0,
+        "bbox": {
+            "left": 163,
+            "top": 1375,
+            "width": 191,
+            "height": 45
+        },
+        "page": 5
+    },
+    {
+        "text": "154",
+        "conf": 96.0,
+        "bbox": {
+            "left": 860,
+            "top": 1380,
+            "width": 58,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "mg/dL",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1227,
+            "top": 1379,
+            "width": 101,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "<150",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1452,
+            "top": 1380,
+            "width": 81,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "mg/dL",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1548,
+            "top": 1379,
+            "width": 101,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1662,
+            "top": 1395,
+            "width": 9,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "Normal",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1685,
+            "top": 1379,
+            "width": 116,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Glycerol",
+        "conf": 90.0,
+        "bbox": {
+            "left": 165,
+            "top": 1439,
+            "width": 106,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Phosphate",
+        "conf": 96.0,
+        "bbox": {
+            "left": 280,
+            "top": 1439,
+            "width": 137,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Oxidase",
+        "conf": 96.0,
+        "bbox": {
+            "left": 427,
+            "top": 1439,
+            "width": 105,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "150-1",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1454,
+            "top": 1422,
+            "width": 85,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "99",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1547,
+            "top": 1422,
+            "width": 39,
+            "height": 46
+        },
+        "page": 5
+    },
+    {
+        "text": "mg/",
+        "conf": 78.0,
+        "bbox": {
+            "left": 1601,
+            "top": 1422,
+            "width": 60,
+            "height": 46
+        },
+        "page": 5
+    },
+    {
+        "text": "dL",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1662,
+            "top": 1421,
+            "width": 40,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1715,
+            "top": 1437,
+            "width": 9,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "Borderline",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1453,
+            "top": 1463,
+            "width": 167,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "high",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1634,
+            "top": 1463,
+            "width": 66,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "200-499",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1452,
+            "top": 1505,
+            "width": 134,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "mg/dL",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1601,
+            "top": 1504,
+            "width": 101,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1715,
+            "top": 1520,
+            "width": 9,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "High",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1738,
+            "top": 1504,
+            "width": 73,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": ">",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1452,
+            "top": 1557,
+            "width": 19,
+            "height": 17
+        },
+        "page": 5
+    },
+    {
+        "text": "500",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1484,
+            "top": 1547,
+            "width": 60,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "mg/dL",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1558,
+            "top": 1546,
+            "width": 101,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1672,
+            "top": 1562,
+            "width": 9,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "Very",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1694,
+            "top": 1546,
+            "width": 75,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "high",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1783,
+            "top": 1546,
+            "width": 66,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "HDL",
+        "conf": 96.0,
+        "bbox": {
+            "left": 165,
+            "top": 1643,
+            "width": 72,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Cholesterol",
+        "conf": 88.0,
+        "bbox": {
+            "left": 249,
+            "top": 1643,
+            "width": 186,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "45.0",
+        "conf": 96.0,
+        "bbox": {
+            "left": 857,
+            "top": 1644,
+            "width": 71,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "mg/dL",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1227,
+            "top": 1643,
+            "width": 101,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "No",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1463,
+            "top": 1643,
+            "width": 44,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "risk",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1521,
+            "top": 1643,
+            "width": 56,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1590,
+            "top": 1659,
+            "width": 9,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": ">",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1612,
+            "top": 1654,
+            "width": 19,
+            "height": 17
+        },
+        "page": 5
+    },
+    {
+        "text": "55",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1644,
+            "top": 1644,
+            "width": 39,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Accelerator",
+        "conf": 96.0,
+        "bbox": {
+            "left": 163,
+            "top": 1702,
+            "width": 150,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "Selective",
+        "conf": 96.0,
+        "bbox": {
+            "left": 320,
+            "top": 1702,
+            "width": 117,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "Detergent",
+        "conf": 96.0,
+        "bbox": {
+            "left": 447,
+            "top": 1702,
+            "width": 127,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Moderate",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1463,
+            "top": 1685,
+            "width": 154,
+            "height": 46
+        },
+        "page": 5
+    },
+    {
+        "text": "risk",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1632,
+            "top": 1685,
+            "width": 55,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1700,
+            "top": 1701,
+            "width": 9,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "35",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1722,
+            "top": 1686,
+            "width": 40,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "-55",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1775,
+            "top": 1686,
+            "width": 51,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "High",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1464,
+            "top": 1726,
+            "width": 72,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "risk",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1551,
+            "top": 1726,
+            "width": 55,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1619,
+            "top": 1742,
+            "width": 9,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "<",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1641,
+            "top": 1737,
+            "width": 19,
+            "height": 17
+        },
+        "page": 5
+    },
+    {
+        "text": "35",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1673,
+            "top": 1727,
+            "width": 40,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "LDL",
+        "conf": 96.0,
+        "bbox": {
+            "left": 165,
+            "top": 1823,
+            "width": 65,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Cholesterol",
+        "conf": 96.0,
+        "bbox": {
+            "left": 243,
+            "top": 1823,
+            "width": 186,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "(Direct)",
+        "conf": 96.0,
+        "bbox": {
+            "left": 443,
+            "top": 1823,
+            "width": 118,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "L",
+        "conf": 92.0,
+        "bbox": {
+            "left": 760,
+            "top": 1823,
+            "width": 17,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "32",
+        "conf": 96.0,
+        "bbox": {
+            "left": 858,
+            "top": 1824,
+            "width": 39,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "mg/dL",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1227,
+            "top": 1823,
+            "width": 101,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "<100",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1452,
+            "top": 1824,
+            "width": 81,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1558,
+            "top": 1839,
+            "width": 9,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "Optimal",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1590,
+            "top": 1823,
+            "width": 126,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "Enzymatic",
+        "conf": 96.0,
+        "bbox": {
+            "left": 165,
+            "top": 1883,
+            "width": 133,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "assay",
+        "conf": 96.0,
+        "bbox": {
+            "left": 306,
+            "top": 1889,
+            "width": 77,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "using",
+        "conf": 96.0,
+        "bbox": {
+            "left": 391,
+            "top": 1884,
+            "width": 68,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "selective",
+        "conf": 96.0,
+        "bbox": {
+            "left": 468,
+            "top": 1884,
+            "width": 113,
+            "height": 22
+        },
+        "page": 5
+    },
+    {
+        "text": "clearance",
+        "conf": 96.0,
+        "bbox": {
+            "left": 590,
+            "top": 1884,
+            "width": 125,
+            "height": 22
+        },
+        "page": 5
+    },
+    {
+        "text": "with",
+        "conf": 97.0,
+        "bbox": {
+            "left": 725,
+            "top": 1884,
+            "width": 50,
+            "height": 22
+        },
+        "page": 5
+    },
+    {
+        "text": "100-129",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1454,
+            "top": 1866,
+            "width": 132,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1600,
+            "top": 1881,
+            "width": 9,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "near",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1623,
+            "top": 1873,
+            "width": 73,
+            "height": 21
+        },
+        "page": 5
+    },
+    {
+        "text": "optimal",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1707,
+            "top": 1862,
+            "width": 118,
+            "height": 54
+        },
+        "page": 5
+    },
+    {
+        "text": "a",
+        "conf": 95.0,
+        "bbox": {
+            "left": 164,
+            "top": 1921,
+            "width": 14,
+            "height": 17
+        },
+        "page": 5
+    },
+    {
+        "text": "detergent",
+        "conf": 95.0,
+        "bbox": {
+            "left": 188,
+            "top": 1916,
+            "width": 124,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "130",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1454,
+            "top": 1908,
+            "width": 57,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1525,
+            "top": 1923,
+            "width": 9,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "159",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1550,
+            "top": 1908,
+            "width": 57,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1631,
+            "top": 1923,
+            "width": 9,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "Borderline",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1655,
+            "top": 1907,
+            "width": 167,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "high",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1453,
+            "top": 1948,
+            "width": 66,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "160",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1454,
+            "top": 1991,
+            "width": 57,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "-189",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1525,
+            "top": 1991,
+            "width": 72,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1611,
+            "top": 2006,
+            "width": 9,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "High",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1634,
+            "top": 1990,
+            "width": 73,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "More",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1453,
+            "top": 2032,
+            "width": 81,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "than",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1546,
+            "top": 2032,
+            "width": 71,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "190",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1633,
+            "top": 2033,
+            "width": 57,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1704,
+            "top": 2048,
+            "width": 9,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "Very",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1727,
+            "top": 2032,
+            "width": 74,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "high",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1815,
+            "top": 2032,
+            "width": 67,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "LDL",
+        "conf": 90.0,
+        "bbox": {
+            "left": 165,
+            "top": 2129,
+            "width": 65,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "CHOL/HDL",
+        "conf": 90.0,
+        "bbox": {
+            "left": 243,
+            "top": 2129,
+            "width": 187,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "CHOL",
+        "conf": 90.0,
+        "bbox": {
+            "left": 442,
+            "top": 2129,
+            "width": 102,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "RATIO",
+        "conf": 96.0,
+        "bbox": {
+            "left": 559,
+            "top": 2129,
+            "width": 110,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "0.7",
+        "conf": 96.0,
+        "bbox": {
+            "left": 858,
+            "top": 2130,
+            "width": 50,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "<3.5",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1452,
+            "top": 2130,
+            "width": 71,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Calculated",
+        "conf": 93.0,
+        "bbox": {
+            "left": 165,
+            "top": 2188,
+            "width": 137,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "Chol/HDL",
+        "conf": 90.0,
+        "bbox": {
+            "left": 163,
+            "top": 2274,
+            "width": 161,
+            "height": 45
+        },
+        "page": 5
+    },
+    {
+        "text": "2.6",
+        "conf": 96.0,
+        "bbox": {
+            "left": 858,
+            "top": 2279,
+            "width": 50,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "<4.5",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1452,
+            "top": 2279,
+            "width": 71,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Calculated",
+        "conf": 93.0,
+        "bbox": {
+            "left": 165,
+            "top": 2337,
+            "width": 137,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "Note:(LL-VeryLow,L-Low,H-High,HH-VeryHigh,A-Abnormal,HC-",
+        "conf": 77.0,
+        "bbox": {
+            "left": 175,
+            "top": 2845,
+            "width": 819,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "High",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1006,
+            "top": 2846,
+            "width": 56,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Critical,LC-Low",
+        "conf": 65.0,
+        "bbox": {
+            "left": 1073,
+            "top": 2845,
+            "width": 195,
+            "height": 26
+        },
+        "page": 5
+    },
+    {
+        "text": "Critical,C-Critical)",
+        "conf": 63.0,
+        "bbox": {
+            "left": 1278,
+            "top": 2845,
+            "width": 224,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Page",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2065,
+            "top": 2845,
+            "width": 68,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "5",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2142,
+            "top": 2846,
+            "width": 15,
+            "height": 22
+        },
+        "page": 5
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2166,
+            "top": 2845,
+            "width": 28,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "13",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2203,
+            "top": 2846,
+            "width": 30,
+            "height": 22
+        },
+        "page": 5
+    },
+    {
+        "text": "DR",
+        "conf": 89.0,
+        "bbox": {
+            "left": 232,
+            "top": 3008,
+            "width": 50,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Prajwal",
+        "conf": 89.0,
+        "bbox": {
+            "left": 296,
+            "top": 3008,
+            "width": 127,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "A",
+        "conf": 97.0,
+        "bbox": {
+            "left": 437,
+            "top": 3008,
+            "width": 25,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Consultant",
+        "conf": 93.0,
+        "bbox": {
+            "left": 230,
+            "top": 3061,
+            "width": 145,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "Biochemist",
+        "conf": 92.0,
+        "bbox": {
+            "left": 387,
+            "top": 3061,
+            "width": 146,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "DLH",
+        "conf": 92.0,
+        "bbox": {
+            "left": 231,
+            "top": 3100,
+            "width": 55,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "2018",
+        "conf": 96.0,
+        "bbox": {
+            "left": 298,
+            "top": 3099,
+            "width": 66,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "0000588",
+        "conf": 93.0,
+        "bbox": {
+            "left": 376,
+            "top": 3099,
+            "width": 117,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "KTK",
+        "conf": 93.0,
+        "bbox": {
+            "left": 506,
+            "top": 3100,
+            "width": 52,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "Printed",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1851,
+            "top": 3155,
+            "width": 97,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "On:",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1958,
+            "top": 3155,
+            "width": 48,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "29-Jun-2025",
+        "conf": 64.0,
+        "bbox": {
+            "left": 2046,
+            "top": 3155,
+            "width": 162,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "12:23",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2220,
+            "top": 3156,
+            "width": 69,
+            "height": 22
+        },
+        "page": 5
+    },
+    {
+        "text": "Neuberg",
+        "conf": 91.0,
+        "bbox": {
+            "left": 307,
+            "top": 3265,
+            "width": 177,
+            "height": 35
+        },
+        "page": 5
+    },
+    {
+        "text": "Anand",
+        "conf": 96.0,
+        "bbox": {
+            "left": 505,
+            "top": 3265,
+            "width": 130,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Reference",
+        "conf": 95.0,
+        "bbox": {
+            "left": 658,
+            "top": 3265,
+            "width": 210,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Laboratory",
+        "conf": 93.0,
+        "bbox": {
+            "left": 889,
+            "top": 3265,
+            "width": 231,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1140,
+            "top": 3279,
+            "width": 12,
+            "height": 5
+        },
+        "page": 5
+    },
+    {
+        "text": "A",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1172,
+            "top": 3267,
+            "width": 26,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Unit",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1219,
+            "top": 3265,
+            "width": 83,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "of",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1322,
+            "top": 3265,
+            "width": 40,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Neuberg",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1382,
+            "top": 3265,
+            "width": 177,
+            "height": 35
+        },
+        "page": 5
+    },
+    {
+        "text": "Diagnostics",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1581,
+            "top": 3265,
+            "width": 245,
+            "height": 35
+        },
+        "page": 5
+    },
+    {
+        "text": "Private",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1848,
+            "top": 3265,
+            "width": 146,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Limited",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2015,
+            "top": 3265,
+            "width": 156,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Laboratory",
+        "conf": 92.0,
+        "bbox": {
+            "left": 202,
+            "top": 3324,
+            "width": 189,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 406,
+            "top": 3331,
+            "width": 5,
+            "height": 18
+        },
+        "page": 5
+    },
+    {
+        "text": "#54,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 427,
+            "top": 3325,
+            "width": 73,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Anand",
+        "conf": 96.0,
+        "bbox": {
+            "left": 516,
+            "top": 3325,
+            "width": 107,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "Tower,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 639,
+            "top": 3325,
+            "width": 104,
+            "height": 26
+        },
+        "page": 5
+    },
+    {
+        "text": "Bowring",
+        "conf": 96.0,
+        "bbox": {
+            "left": 760,
+            "top": 3325,
+            "width": 138,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "Hospital",
+        "conf": 93.0,
+        "bbox": {
+            "left": 915,
+            "top": 3325,
+            "width": 136,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Road,",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1068,
+            "top": 3325,
+            "width": 93,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Regd.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1316,
+            "top": 3324,
+            "width": 96,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "Office",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1428,
+            "top": 3324,
+            "width": 101,
+            "height": 26
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1544,
+            "top": 3331,
+            "width": 5,
+            "height": 18
+        },
+        "page": 5
+    },
+    {
+        "text": "Plot",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1566,
+            "top": 3325,
+            "width": 63,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "No.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1646,
+            "top": 3326,
+            "width": 51,
+            "height": 24
+        },
+        "page": 5
+    },
+    {
+        "text": "7,",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1714,
+            "top": 3325,
+            "width": 21,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Industrial",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1752,
+            "top": 3325,
+            "width": 154,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "Estate,",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1924,
+            "top": 3325,
+            "width": 111,
+            "height": 26
+        },
+        "page": 5
+    },
+    {
+        "text": "Rajiv",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2052,
+            "top": 3325,
+            "width": 79,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Gandhi",
+        "conf": 93.0,
+        "bbox": {
+            "left": 2146,
+            "top": 3325,
+            "width": 118,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "Salai,",
+        "conf": 86.0,
+        "bbox": {
+            "left": 2281,
+            "top": 3324,
+            "width": 84,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Shivajinagar,",
+        "conf": 91.0,
+        "bbox": {
+            "left": 309,
+            "top": 3365,
+            "width": 210,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "Bangalore-S60",
+        "conf": 79.0,
+        "bbox": {
+            "left": 536,
+            "top": 3365,
+            "width": 253,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "O01",
+        "conf": 21.0,
+        "bbox": {
+            "left": 804,
+            "top": 3365,
+            "width": 57,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "1800",
+        "conf": 76.0,
+        "bbox": {
+            "left": 920,
+            "top": 3365,
+            "width": 79,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "425",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1014,
+            "top": 3365,
+            "width": 61,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "1974",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1091,
+            "top": 3365,
+            "width": 70,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "Perungudi,",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1317,
+            "top": 3365,
+            "width": 180,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "Chennai",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1513,
+            "top": 3365,
+            "width": 134,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1663,
+            "top": 3377,
+            "width": 10,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "600096,",
+        "conf": 81.0,
+        "bbox": {
+            "left": 1688,
+            "top": 3364,
+            "width": 145,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Tamil",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1849,
+            "top": 3365,
+            "width": 85,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "Nadu,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1951,
+            "top": 3365,
+            "width": 95,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "India.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2063,
+            "top": 3365,
+            "width": 86,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "enquiry",
+        "conf": 92.0,
+        "bbox": {
+            "left": 671,
+            "top": 3406,
+            "width": 125,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "aneuberganand.com",
+        "conf": 92.0,
+        "bbox": {
+            "left": 835,
+            "top": 3405,
+            "width": 326,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "www.neubergdiagnostics.com",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1349,
+            "top": 3405,
+            "width": 512,
+            "height": 30
+        },
+        "page": 5
+    }
+]

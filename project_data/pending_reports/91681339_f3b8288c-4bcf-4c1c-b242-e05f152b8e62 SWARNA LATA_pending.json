@@ -1,0 +1,23 @@
+{
+    "patient_info": {
+        "Regd. Office": "Dr Lal Path abs Ltd, Block-E, Sector-18, Rohini, New Dethi-1 10085",
+        "Web": "www iaipathiabs com, CIN: L74899DL 1 99SPLC065 388",
+        "Name": "Mrs. SWARNA LATA",
+        "Lab No.": "466917439 Age : 41 Years",
+        "Ref By": "Self Gender : Female",
+        "Collected 8/8/2024 7": "50:00AM Reported 9/8/2024 10:06:36AM",
+        "Alc Status": "P Report Status : Final",
+        "Collected at}": "RELEX HEALTHCARE INDIA Pvt. Ltd. Processed at : LPL-BENGALURU REFERENCE LAB"
+    },
+    "lab_results": [],
+    "metadata": {
+        "extraction_method": "dynamic_rule_based_v6",
+        "num_tests_extracted": 0,
+        "detected_columns": [
+            "Test Name",
+            "Results",
+            "Units",
+            "Bio. Ref. Interval"
+        ]
+    }
+}

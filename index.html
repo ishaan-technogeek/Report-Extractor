@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab Report Digitization - hi </title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 2rem; background-color: #f4f7f9; color: #333; }
+        .container { max-width: 1200px; margin: auto; background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        h1, h2 { color: #333; border-bottom: 2px solid #eef; padding-bottom: 10px; }
+        #upload-section, #correction-section, #status-section { margin-bottom: 2rem; }
+        input[type="file"] { border: 1px solid #ccc; padding: 10px; border-radius: 4px; }
+        button { background-color: #007bff; color: white; border: none; padding: 10px 15px; border-radius: 4px; cursor: pointer; font-size: 16px; transition: background-color 0.2s; }
+        button:hover { background-color: #0056b3; }
+        button.delete-btn { background-color: #dc3545; }
+        button.delete-btn:hover { background-color: #c82333; }
+        button.add-btn { background-color: #28a745; margin-top: 10px; }
+        button.add-btn:hover { background-color: #218838; }
+        #status { margin-top: 1rem; padding: 1rem; border-radius: 4px; display: none; font-weight: bold; }
+        .status-success { background-color: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+        .status-error { background-color: #f8d7da; color: #721c24; border: 1px solid #f5c6cb;}
+        .patient-info-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1rem; }
+        .info-item { display: flex; align-items: center; gap: 10px; }
+        .info-item label { font-weight: bold; color: #555; flex-shrink: 0; }
+        input.editable { width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
+        input.low-confidence { background-color: #fff3cd; border-color: #ffeeba; }
+        table { width: 100%; border-collapse: collapse; margin-top: 1rem; table-layout: fixed;}
+        th, td { border: 1px solid #ddd; padding: 10px; text-align: left; word-wrap: break-word; }
+        th { background-color: #f2f2f2; }
+        .loader { border: 5px solid #f3f3f3; border-top: 5px solid #3498db; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; margin: 20px auto; display: none; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1> Lab Report Digitization</h1>
+    
+    <div id="upload-section">
+        <h2>1. Upload a Lab Report PDF</h2>
+        <input type="file" id="pdf-upload" accept=".pdf,.png,.jpg,.jpeg">
+        <button onclick="uploadFile()">Extract Data</button>
+    </div>
+    
+    <div id="loader" class="loader"></div>
+    
+    <div id="correction-section" style="display:none;">
+        <h2 id="report-title">2. Verify and Correct Extracted Data</h2>
+        
+        <h3>Patient Information</h3>
+        <div id="patient-info" class="patient-info-grid"></div>
+        <button class="add-btn" onclick="addPatientField()">+ Add Patient Field</button>
+        
+        <h3>Lab Results</h3>
+        <table id="results-table">
+            <thead id="results-header"></thead>
+            <tbody id="results-body"></tbody>
+        </table>
+        
+        <br>
+        <button onclick="saveData()">Save Corrected Data</button>
+    </div>
+    
+    <div id="status-section">
+        <div id="status"></div>
+    </div>
+</div>
+
+<script>
+    let extractedData = {};
+    let tableHeaders = []; // To store the dynamic headers of the results table
+
+    async function uploadFile() {
+        const fileInput = document.getElementById('pdf-upload');
+        if (fileInput.files.length === 0) {
+            alert('Please select a file first.');
+            return;
+        }
+
+        const formData = new FormData();
+        formData.append('file', fileInput.files[0]);
+
+        document.getElementById('loader').style.display = 'block';
+        document.getElementById('correction-section').style.display = 'none';
+        updateStatus('', 'none');
+
+        try {
+            const response = await fetch('/upload/', {
+                method: 'POST',
+                body: formData
+            });
+
+            if (!response.ok) {
+                const error = await response.json();
+                throw new Error(error.error || `HTTP error! Status: ${response.status}`);
+            }
+
+            extractedData = await response.json();
+            
+            // Critical check for frontend error
+            if (!extractedData || !extractedData.patient_info || !extractedData.lab_results) {
+                 throw new Error("Received invalid or empty data from the server.");
+            }
+
+            renderCorrectionUI(extractedData);
+            document.getElementById('correction-section').style.display = 'block';
+        } catch (error) {
+            console.error('Error:', error);
+            updateStatus(`Extraction failed: ${error.message}`, 'error');
+        } finally {
+            document.getElementById('loader').style.display = 'none';
+        }
+    }
+    
+    function renderCorrectionUI(data) {
+        const patientInfoDiv = document.getElementById('patient-info');
+        patientInfoDiv.innerHTML = '';
+        Object.entries(data.patient_info).forEach(([key, value]) => {
+            patientInfoDiv.innerHTML += createPatientFieldHTML(key, value);
+        });
+
+        const tableHeader = document.getElementById('results-header');
+        const tableBody = document.getElementById('results-body');
+        tableHeader.innerHTML = '';
+        tableBody.innerHTML = '';
+
+        if (data.lab_results.length > 0) {
+            tableHeaders = Object.keys(data.lab_results[0]);
+            let headerHTML = '<tr>';
+            tableHeaders.forEach(h => headerHTML += `<th>${h}</th>`);
+            headerHTML += '<th>Actions</th></tr>';
+            tableHeader.innerHTML = headerHTML;
+
+            data.lab_results.forEach((row, rowIndex) => {
+                tableBody.innerHTML += createTableRowHTML(row, rowIndex);
+            });
+        }
+        
+        tableBody.innerHTML += `<tr id="add-row-tr"><td colspan="${tableHeaders.length + 1}"><button class="add-btn" onclick="addResultRow()">+ Add Result Row</button></td></tr>`;
+
+        const filename = data.metadata.original_filename;
+        document.getElementById('report-title').innerText = `2. Verify and Correct Data for: ${filename}`;
+    }
+
+    function createPatientFieldHTML(key, value) {
+        const cleanKey = key.replace(/[^a-zA-Z0-9]/g, ''); // Create a valid ID
+        return `
+            <div class="info-item" id="patient-item-${cleanKey}">
+                <input type="text" class="editable" id="patient-key-${cleanKey}" value="${key}" placeholder="Field Name">
+                <input type="text" class="editable" id="patient-value-${cleanKey}" value="${value}" placeholder="Field Value">
+                <button class="delete-btn" onclick="deletePatientField('${cleanKey}')">X</button>
+            </div>
+        `;
+    }
+    
+    function createTableRowHTML(rowData, rowIndex) {
+        let rowHTML = `<tr id="result-row-${rowIndex}">`;
+        tableHeaders.forEach(header => {
+            const cellData = rowData[header];
+            // Handle both string and object formats for backward compatibility
+            const value = (typeof cellData === 'object' && cellData !== null) ? cellData.value : cellData;
+            const confidence = (typeof cellData === 'object' && cellData !== null) ? cellData.confidence : 100;
+            const confidenceClass = confidence < 95 ? 'low-confidence' : '';
+            rowHTML += `<td><input type="text" class="editable ${confidenceClass}" id="row-${rowIndex}-${header.replace(/ /g, '_')}" value="${value}" title="Confidence: ${confidence}%"></td>`;
+        });
+        rowHTML += `<td><button class="delete-btn" onclick="deleteRow(${rowIndex})">Delete</button></td></tr>`;
+        return rowHTML;
+    }
+
+    function addPatientField() {
+    const patientInfoDiv = document.getElementById('patient-info');
+    // Directly insert the new HTML string at the end of the div
+    patientInfoDiv.insertAdjacentHTML('beforeend', createPatientFieldHTML('', ''));
+}
+    
+    function deletePatientField(key) {
+        const field = document.getElementById(`patient-item-${key}`);
+        if (field) {
+            field.remove();
+        }
+    }
+
+    function addResultRow() {
+        const tableBody = document.getElementById('results-body');
+        const newRowIndex = document.querySelectorAll('#results-body tr').length - 1;
+        
+        const newRowData = {};
+        tableHeaders.forEach(h => newRowData[h] = ''); // Create an empty row object
+        
+        const newRowHTML = createTableRowHTML(newRowData, newRowIndex);
+        const addRowTr = document.getElementById('add-row-tr');
+        addRowTr.insertAdjacentHTML('beforebegin', newRowHTML);
+    }
+
+    function deleteRow(rowIndex) {
+        const row = document.getElementById(`result-row-${rowIndex}`);
+        if (row) row.remove();
+    }
+    
+    async function saveData() {
+        // Collect data from patient info inputs
+        const correctedPatientInfo = {};
+        const patientItems = document.querySelectorAll('#patient-info .info-item');
+        patientItems.forEach(item => {
+            const inputs = item.querySelectorAll('input.editable');
+            if (inputs.length >= 2) {
+                const keyInput = inputs[0];
+                const valueInput = inputs[1];
+                if (keyInput.value.trim() !== '') {
+                    correctedPatientInfo[keyInput.value.trim()] = valueInput.value.trim();
+                }
+            }
+        });
+
+        // Collect data from results table inputs
+        const correctedLabResults = [];
+        const rows = document.querySelectorAll('#results-body tr:not(#add-row-tr)');
+        
+        rows.forEach((row, rowIndex) => {
+            const newRow = {};
+            tableHeaders.forEach(header => {
+                const cleanHeaderId = header.replace(/\s+/g, '_').replace(/[^a-zA-Z0-9_]/g, '');
+                const input = row.querySelector(`input[id="row-${rowIndex}-${cleanHeaderId}"]`);
+                if(input) {
+                    // Get confidence from title attribute
+                    const confidenceMatch = input.title.match(/Confidence:\s*([\d.]+)/);
+                    const confidence = confidenceMatch ? parseFloat(confidenceMatch[1]) : 100.0;
+                    
+                    // Store in nested structure
+                    newRow[header] = {
+                        value: input.value,
+                        confidence: confidence
+                    };
+                }
+            });
+            correctedLabResults.push(newRow);
+        });
+
+        const finalData = { ...extractedData };
+        finalData.patient_info = correctedPatientInfo;
+        finalData.lab_results = correctedLabResults;
+        finalData.metadata.extraction_method = 'human_corrected';
+
+        try {
+            const response = await fetch('/save/', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(finalData)
+            });
+
+            if (!response.ok) {
+                const error = await response.json();
+                throw new Error(error.error || `HTTP error! Status: ${response.status}`);
+            }
+
+            const result = await response.json();
+            updateStatus(result.message, 'success');
+        } catch (error) {
+            console.error('Error:', error);
+            updateStatus(`Save failed: ${error.message}`, 'error');
+        }
+    }
+
+    function updateStatus(message, type) {
+        const statusDiv = document.getElementById('status');
+        statusDiv.textContent = message;
+        statusDiv.className = type ? `status-${type}` : '';
+        statusDiv.style.display = message ? 'block' : 'none';
+    }
+</script>
+
+</body>
+</html>

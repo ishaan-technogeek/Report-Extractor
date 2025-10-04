@@ -1,0 +1,5372 @@
+[
+    {
+        "text": "Aster",
+        "conf": 0.92,
+        "bbox": {
+            "left": 186,
+            "top": 149,
+            "width": 441,
+            "height": 138
+        }
+    },
+    {
+        "text": "tass",
+        "conf": 0.11,
+        "bbox": {
+            "left": 668,
+            "top": 215,
+            "width": 275,
+            "height": 69
+        }
+    },
+    {
+        "text": "We'll",
+        "conf": 0.95,
+        "bbox": {
+            "left": 345,
+            "top": 318,
+            "width": 104,
+            "height": 41
+        }
+    },
+    {
+        "text": "Treat",
+        "conf": 0.96,
+        "bbox": {
+            "left": 467,
+            "top": 318,
+            "width": 113,
+            "height": 41
+        }
+    },
+    {
+        "text": "You",
+        "conf": 0.96,
+        "bbox": {
+            "left": 596,
+            "top": 319,
+            "width": 78,
+            "height": 40
+        }
+    },
+    {
+        "text": "Well",
+        "conf": 0.96,
+        "bbox": {
+            "left": 693,
+            "top": 318,
+            "width": 93,
+            "height": 41
+        }
+    },
+    {
+        "text": "TEST",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1090,
+            "top": 437,
+            "width": 127,
+            "height": 39
+        }
+    },
+    {
+        "text": "REPORT",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1236,
+            "top": 437,
+            "width": 203,
+            "height": 38
+        }
+    },
+    {
+        "text": "Lab.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 174,
+            "top": 518,
+            "width": 64,
+            "height": 26
+        }
+    },
+    {
+        "text": "Id",
+        "conf": 0.95,
+        "bbox": {
+            "left": 251,
+            "top": 518,
+            "width": 26,
+            "height": 26
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.92,
+        "bbox": {
+            "left": 442,
+            "top": 525,
+            "width": 6,
+            "height": 18
+        }
+    },
+    {
+        "text": "P1238545",
+        "conf": 0.9,
+        "bbox": {
+            "left": 475,
+            "top": 518,
+            "width": 149,
+            "height": 26
+        }
+    },
+    {
+        "text": "Hosp.",
+        "conf": 0.92,
+        "bbox": {
+            "left": 829,
+            "top": 518,
+            "width": 89,
+            "height": 33
+        }
+    },
+    {
+        "text": "UHID",
+        "conf": 0.91,
+        "bbox": {
+            "left": 931,
+            "top": 518,
+            "width": 79,
+            "height": 26
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.51,
+        "bbox": {
+            "left": 1093,
+            "top": 528,
+            "width": 4,
+            "height": 22
+        }
+    },
+    {
+        "text": "Reg.",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1617,
+            "top": 512,
+            "width": 69,
+            "height": 33
+        }
+    },
+    {
+        "text": "Date",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1699,
+            "top": 512,
+            "width": 69,
+            "height": 26
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.87,
+        "bbox": {
+            "left": 1850,
+            "top": 525,
+            "width": 6,
+            "height": 18
+        }
+    },
+    {
+        "text": "17-Sep-2025",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1873,
+            "top": 518,
+            "width": 188,
+            "height": 32
+        }
+    },
+    {
+        "text": "/",
+        "conf": 0.91,
+        "bbox": {
+            "left": 2071,
+            "top": 519,
+            "width": 10,
+            "height": 24
+        }
+    },
+    {
+        "text": "11:30",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2112,
+            "top": 519,
+            "width": 60,
+            "height": 25
+        }
+    },
+    {
+        "text": "AM",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2183,
+            "top": 518,
+            "width": 48,
+            "height": 25
+        }
+    },
+    {
+        "text": "Name",
+        "conf": 0.96,
+        "bbox": {
+            "left": 170,
+            "top": 567,
+            "width": 88,
+            "height": 26
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.9,
+        "bbox": {
+            "left": 443,
+            "top": 577,
+            "width": 5,
+            "height": 22
+        }
+    },
+    {
+        "text": "MR.",
+        "conf": 0.92,
+        "bbox": {
+            "left": 476,
+            "top": 571,
+            "width": 56,
+            "height": 25
+        }
+    },
+    {
+        "text": "PRABHAKARAN",
+        "conf": 0.91,
+        "bbox": {
+            "left": 547,
+            "top": 571,
+            "width": 246,
+            "height": 25
+        }
+    },
+    {
+        "text": "NAIR",
+        "conf": 0.92,
+        "bbox": {
+            "left": 807,
+            "top": 571,
+            "width": 93,
+            "height": 25
+        }
+    },
+    {
+        "text": ".",
+        "conf": 0.72,
+        "bbox": {
+            "left": 883,
+            "top": 567,
+            "width": 21,
+            "height": 41
+        }
+    },
+    {
+        "text": "Collection",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1618,
+            "top": 567,
+            "width": 158,
+            "height": 42
+        }
+    },
+    {
+        "text": "+",
+        "conf": 0.21,
+        "bbox": {
+            "left": 1851,
+            "top": 577,
+            "width": 5,
+            "height": 22
+        }
+    },
+    {
+        "text": "17-Sep-2025",
+        "conf": 0.86,
+        "bbox": {
+            "left": 1873,
+            "top": 575,
+            "width": 294,
+            "height": 32
+        }
+    },
+    {
+        "text": "/",
+        "conf": 0.86,
+        "bbox": {
+            "left": 2072,
+            "top": 571,
+            "width": 15,
+            "height": 41
+        }
+    },
+    {
+        "text": "11:31",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2096,
+            "top": 571,
+            "width": 83,
+            "height": 41
+        }
+    },
+    {
+        "text": "AM",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2183,
+            "top": 575,
+            "width": 48,
+            "height": 25
+        }
+    },
+    {
+        "text": "Age/Gender",
+        "conf": 0.92,
+        "bbox": {
+            "left": 169,
+            "top": 618,
+            "width": 187,
+            "height": 33
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.8,
+        "bbox": {
+            "left": 443,
+            "top": 628,
+            "width": 5,
+            "height": 22
+        }
+    },
+    {
+        "text": "72Y",
+        "conf": 0.83,
+        "bbox": {
+            "left": 475,
+            "top": 622,
+            "width": 57,
+            "height": 25
+        }
+    },
+    {
+        "text": "/Male",
+        "conf": 0.83,
+        "bbox": {
+            "left": 542,
+            "top": 622,
+            "width": 90,
+            "height": 26
+        }
+    },
+    {
+        "text": "Received",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1620,
+            "top": 618,
+            "width": 142,
+            "height": 26
+        }
+    },
+    {
+        "text": "!",
+        "conf": 0.18,
+        "bbox": {
+            "left": 1849,
+            "top": 628,
+            "width": 5,
+            "height": 22
+        }
+    },
+    {
+        "text": "17-Sep-2025",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1871,
+            "top": 622,
+            "width": 208,
+            "height": 32
+        }
+    },
+    {
+        "text": "/",
+        "conf": 0.92,
+        "bbox": {
+            "left": 2067,
+            "top": 616,
+            "width": 15,
+            "height": 43
+        }
+    },
+    {
+        "text": "12:13",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2092,
+            "top": 623,
+            "width": 78,
+            "height": 25
+        }
+    },
+    {
+        "text": "PM",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2184,
+            "top": 622,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "Collected",
+        "conf": 0.96,
+        "bbox": {
+            "left": 169,
+            "top": 669,
+            "width": 147,
+            "height": 26
+        }
+    },
+    {
+        "text": "At",
+        "conf": 0.96,
+        "bbox": {
+            "left": 328,
+            "top": 669,
+            "width": 33,
+            "height": 26
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.9,
+        "bbox": {
+            "left": 443,
+            "top": 679,
+            "width": 5,
+            "height": 22
+        }
+    },
+    {
+        "text": "Emami",
+        "conf": 0.96,
+        "bbox": {
+            "left": 477,
+            "top": 673,
+            "width": 98,
+            "height": 26
+        }
+    },
+    {
+        "text": "Frank",
+        "conf": 0.96,
+        "bbox": {
+            "left": 589,
+            "top": 673,
+            "width": 82,
+            "height": 26
+        }
+    },
+    {
+        "text": "Ross",
+        "conf": 0.96,
+        "bbox": {
+            "left": 684,
+            "top": 673,
+            "width": 72,
+            "height": 26
+        }
+    },
+    {
+        "text": "Limited",
+        "conf": 0.96,
+        "bbox": {
+            "left": 768,
+            "top": 674,
+            "width": 104,
+            "height": 25
+        }
+    },
+    {
+        "text": "Report",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1619,
+            "top": 665,
+            "width": 104,
+            "height": 48
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.56,
+        "bbox": {
+            "left": 1851,
+            "top": 679,
+            "width": 5,
+            "height": 22
+        }
+    },
+    {
+        "text": "17-Sep-2025",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1871,
+            "top": 673,
+            "width": 208,
+            "height": 33
+        }
+    },
+    {
+        "text": "/",
+        "conf": 0.91,
+        "bbox": {
+            "left": 2065,
+            "top": 664,
+            "width": 16,
+            "height": 46
+        }
+    },
+    {
+        "text": "13:35",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2092,
+            "top": 674,
+            "width": 78,
+            "height": 25
+        }
+    },
+    {
+        "text": "PM",
+        "conf": 0.95,
+        "bbox": {
+            "left": 2184,
+            "top": 673,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "Referral",
+        "conf": 0.96,
+        "bbox": {
+            "left": 170,
+            "top": 727,
+            "width": 122,
+            "height": 26
+        }
+    },
+    {
+        "text": "Dr",
+        "conf": 0.96,
+        "bbox": {
+            "left": 305,
+            "top": 727,
+            "width": 35,
+            "height": 25
+        }
+    },
+    {
+        "text": "se",
+        "conf": 0.06,
+        "bbox": {
+            "left": 443,
+            "top": 730,
+            "width": 41,
+            "height": 22
+        }
+    },
+    {
+        "text": "Report",
+        "conf": 0.96,
+        "bbox": {
+            "left": 957,
+            "top": 720,
+            "width": 104,
+            "height": 33
+        }
+    },
+    {
+        "text": "Status",
+        "conf": 0.92,
+        "bbox": {
+            "left": 1072,
+            "top": 720,
+            "width": 100,
+            "height": 26
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.92,
+        "bbox": {
+            "left": 1171,
+            "top": 716,
+            "width": 15,
+            "height": 41
+        }
+    },
+    {
+        "text": "Final",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1205,
+            "top": 720,
+            "width": 68,
+            "height": 26
+        }
+    },
+    {
+        "text": "Print",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1619,
+            "top": 716,
+            "width": 72,
+            "height": 40
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.82,
+        "bbox": {
+            "left": 1851,
+            "top": 730,
+            "width": 5,
+            "height": 22
+        }
+    },
+    {
+        "text": "Bed",
+        "conf": 0.96,
+        "bbox": {
+            "left": 172,
+            "top": 791,
+            "width": 59,
+            "height": 26
+        }
+    },
+    {
+        "text": "Biochemistry",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1128,
+            "top": 967,
+            "width": 312,
+            "height": 48
+        }
+    },
+    {
+        "text": "Investigation",
+        "conf": 0.95,
+        "bbox": {
+            "left": 195,
+            "top": 1041,
+            "width": 227,
+            "height": 36
+        }
+    },
+    {
+        "text": "Observed",
+        "conf": 0.96,
+        "bbox": {
+            "left": 738,
+            "top": 1041,
+            "width": 169,
+            "height": 29
+        }
+    },
+    {
+        "text": "Value",
+        "conf": 0.96,
+        "bbox": {
+            "left": 921,
+            "top": 1041,
+            "width": 98,
+            "height": 29
+        }
+    },
+    {
+        "text": "Unit",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1201,
+            "top": 1037,
+            "width": 70,
+            "height": 45
+        }
+    },
+    {
+        "text": "Biological",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1502,
+            "top": 1041,
+            "width": 174,
+            "height": 36
+        }
+    },
+    {
+        "text": "Ref.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1692,
+            "top": 1041,
+            "width": 66,
+            "height": 29
+        }
+    },
+    {
+        "text": "Interval",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1772,
+            "top": 1041,
+            "width": 129,
+            "height": 29
+        }
+    },
+    {
+        "text": "Specimen",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2099,
+            "top": 1041,
+            "width": 173,
+            "height": 37
+        }
+    },
+    {
+        "text": "ELECTROLYTES",
+        "conf": 0.96,
+        "bbox": {
+            "left": 173,
+            "top": 1129,
+            "width": 329,
+            "height": 32
+        }
+    },
+    {
+        "text": "SODIUM",
+        "conf": 0.96,
+        "bbox": {
+            "left": 179,
+            "top": 1203,
+            "width": 147,
+            "height": 29
+        }
+    },
+    {
+        "text": "121",
+        "conf": 0.96,
+        "bbox": {
+            "left": 743,
+            "top": 1204,
+            "width": 54,
+            "height": 27
+        }
+    },
+    {
+        "text": "mmol/L",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1209,
+            "top": 1199,
+            "width": 120,
+            "height": 45
+        }
+    },
+    {
+        "text": "136-145",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1503,
+            "top": 1204,
+            "width": 133,
+            "height": 28
+        }
+    },
+    {
+        "text": "Serum",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2099,
+            "top": 1203,
+            "width": 106,
+            "height": 29
+        }
+    },
+    {
+        "text": "Method:",
+        "conf": 0.03,
+        "bbox": {
+            "left": 179,
+            "top": 1247,
+            "width": 87,
+            "height": 34
+        }
+    },
+    {
+        "text": "Indirect",
+        "conf": 0.03,
+        "bbox": {
+            "left": 271,
+            "top": 1247,
+            "width": 79,
+            "height": 34
+        }
+    },
+    {
+        "text": "ISE",
+        "conf": 0.92,
+        "bbox": {
+            "left": 359,
+            "top": 1251,
+            "width": 37,
+            "height": 20
+        }
+    },
+    {
+        "text": "POTASSIUM",
+        "conf": 0.95,
+        "bbox": {
+            "left": 180,
+            "top": 1319,
+            "width": 219,
+            "height": 29
+        }
+    },
+    {
+        "text": "4.4",
+        "conf": 0.96,
+        "bbox": {
+            "left": 742,
+            "top": 1320,
+            "width": 50,
+            "height": 27
+        }
+    },
+    {
+        "text": "mmol/L",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1209,
+            "top": 1315,
+            "width": 120,
+            "height": 45
+        }
+    },
+    {
+        "text": "3.5-5.1",
+        "conf": 0.75,
+        "bbox": {
+            "left": 1501,
+            "top": 1320,
+            "width": 108,
+            "height": 28
+        }
+    },
+    {
+        "text": "Serum",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2099,
+            "top": 1319,
+            "width": 106,
+            "height": 29
+        }
+    },
+    {
+        "text": "Method:",
+        "conf": 0.03,
+        "bbox": {
+            "left": 179,
+            "top": 1362,
+            "width": 87,
+            "height": 34
+        }
+    },
+    {
+        "text": "Indirect",
+        "conf": 0.03,
+        "bbox": {
+            "left": 271,
+            "top": 1362,
+            "width": 79,
+            "height": 34
+        }
+    },
+    {
+        "text": "ISE",
+        "conf": 0.92,
+        "bbox": {
+            "left": 359,
+            "top": 1366,
+            "width": 37,
+            "height": 20
+        }
+    },
+    {
+        "text": "CHLORIDE",
+        "conf": 0.96,
+        "bbox": {
+            "left": 179,
+            "top": 1430,
+            "width": 194,
+            "height": 45
+        }
+    },
+    {
+        "text": "84",
+        "conf": 0.95,
+        "bbox": {
+            "left": 741,
+            "top": 1435,
+            "width": 41,
+            "height": 28
+        }
+    },
+    {
+        "text": "mmol/L",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1209,
+            "top": 1430,
+            "width": 120,
+            "height": 45
+        }
+    },
+    {
+        "text": "98-107",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1500,
+            "top": 1434,
+            "width": 115,
+            "height": 29
+        }
+    },
+    {
+        "text": "Serum",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2099,
+            "top": 1434,
+            "width": 106,
+            "height": 29
+        }
+    },
+    {
+        "text": "Method:",
+        "conf": 0.31,
+        "bbox": {
+            "left": 179,
+            "top": 1477,
+            "width": 87,
+            "height": 33
+        }
+    },
+    {
+        "text": "Indirect",
+        "conf": 0.31,
+        "bbox": {
+            "left": 271,
+            "top": 1477,
+            "width": 78,
+            "height": 33
+        }
+    },
+    {
+        "text": "ISE",
+        "conf": 0.92,
+        "bbox": {
+            "left": 359,
+            "top": 1481,
+            "width": 37,
+            "height": 20
+        }
+    },
+    {
+        "text": "Remarks:",
+        "conf": 0.96,
+        "bbox": {
+            "left": 173,
+            "top": 1566,
+            "width": 165,
+            "height": 29
+        }
+    },
+    {
+        "text": "The",
+        "conf": 0.96,
+        "bbox": {
+            "left": 171,
+            "top": 1607,
+            "width": 62,
+            "height": 29
+        }
+    },
+    {
+        "text": "value",
+        "conf": 0.96,
+        "bbox": {
+            "left": 245,
+            "top": 1607,
+            "width": 88,
+            "height": 29
+        }
+    },
+    {
+        "text": "should",
+        "conf": 0.96,
+        "bbox": {
+            "left": 346,
+            "top": 1607,
+            "width": 107,
+            "height": 29
+        }
+    },
+    {
+        "text": "be",
+        "conf": 0.96,
+        "bbox": {
+            "left": 467,
+            "top": 1607,
+            "width": 39,
+            "height": 29
+        }
+    },
+    {
+        "text": "read",
+        "conf": 0.96,
+        "bbox": {
+            "left": 520,
+            "top": 1607,
+            "width": 70,
+            "height": 29
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.96,
+        "bbox": {
+            "left": 605,
+            "top": 1607,
+            "width": 25,
+            "height": 28
+        }
+    },
+    {
+        "text": "conjunction",
+        "conf": 0.96,
+        "bbox": {
+            "left": 643,
+            "top": 1607,
+            "width": 187,
+            "height": 36
+        }
+    },
+    {
+        "text": "with",
+        "conf": 0.96,
+        "bbox": {
+            "left": 842,
+            "top": 1607,
+            "width": 65,
+            "height": 29
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 919,
+            "top": 1607,
+            "width": 51,
+            "height": 29
+        }
+    },
+    {
+        "text": "clinical",
+        "conf": 0.96,
+        "bbox": {
+            "left": 982,
+            "top": 1607,
+            "width": 110,
+            "height": 29
+        }
+    },
+    {
+        "text": "history,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1106,
+            "top": 1607,
+            "width": 116,
+            "height": 36
+        }
+    },
+    {
+        "text": "diet,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1236,
+            "top": 1607,
+            "width": 67,
+            "height": 33
+        }
+    },
+    {
+        "text": "supplements,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1318,
+            "top": 1607,
+            "width": 218,
+            "height": 37
+        }
+    },
+    {
+        "text": "medications,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1552,
+            "top": 1607,
+            "width": 205,
+            "height": 33
+        }
+    },
+    {
+        "text": "and",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1771,
+            "top": 1607,
+            "width": 59,
+            "height": 29
+        }
+    },
+    {
+        "text": "other",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1844,
+            "top": 1607,
+            "width": 84,
+            "height": 29
+        }
+    },
+    {
+        "text": "relevant",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1941,
+            "top": 1607,
+            "width": 130,
+            "height": 29
+        }
+    },
+    {
+        "text": "parameters.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2084,
+            "top": 1610,
+            "width": 195,
+            "height": 33
+        }
+    },
+    {
+        "text": "Comments:",
+        "conf": 0.96,
+        "bbox": {
+            "left": 179,
+            "top": 1715,
+            "width": 167,
+            "height": 26
+        }
+    },
+    {
+        "text": "Electrolytes",
+        "conf": 0.96,
+        "bbox": {
+            "left": 180,
+            "top": 1755,
+            "width": 170,
+            "height": 31
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.96,
+        "bbox": {
+            "left": 360,
+            "top": 1761,
+            "width": 47,
+            "height": 19
+        }
+    },
+    {
+        "text": "minerals",
+        "conf": 0.96,
+        "bbox": {
+            "left": 418,
+            "top": 1755,
+            "width": 123,
+            "height": 25
+        }
+    },
+    {
+        "text": "that",
+        "conf": 0.97,
+        "bbox": {
+            "left": 552,
+            "top": 1755,
+            "width": 54,
+            "height": 25
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.96,
+        "bbox": {
+            "left": 616,
+            "top": 1761,
+            "width": 47,
+            "height": 19
+        }
+    },
+    {
+        "text": "found",
+        "conf": 0.96,
+        "bbox": {
+            "left": 673,
+            "top": 1754,
+            "width": 81,
+            "height": 26
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.96,
+        "bbox": {
+            "left": 766,
+            "top": 1755,
+            "width": 23,
+            "height": 24
+        }
+    },
+    {
+        "text": "body",
+        "conf": 0.96,
+        "bbox": {
+            "left": 801,
+            "top": 1755,
+            "width": 70,
+            "height": 31
+        }
+    },
+    {
+        "text": "tissues",
+        "conf": 0.96,
+        "bbox": {
+            "left": 881,
+            "top": 1755,
+            "width": 102,
+            "height": 25
+        }
+    },
+    {
+        "text": "and",
+        "conf": 0.96,
+        "bbox": {
+            "left": 994,
+            "top": 1755,
+            "width": 53,
+            "height": 25
+        }
+    },
+    {
+        "text": "blood",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1059,
+            "top": 1755,
+            "width": 78,
+            "height": 25
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1149,
+            "top": 1755,
+            "width": 23,
+            "height": 24
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1183,
+            "top": 1755,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "form",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1238,
+            "top": 1754,
+            "width": 65,
+            "height": 26
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1314,
+            "top": 1754,
+            "width": 28,
+            "height": 26
+        }
+    },
+    {
+        "text": "dissolved",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1350,
+            "top": 1755,
+            "width": 137,
+            "height": 25
+        }
+    },
+    {
+        "text": "salts.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1499,
+            "top": 1755,
+            "width": 75,
+            "height": 25
+        }
+    },
+    {
+        "text": "Electrolyte",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1587,
+            "top": 1755,
+            "width": 153,
+            "height": 31
+        }
+    },
+    {
+        "text": "levels",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1751,
+            "top": 1755,
+            "width": 83,
+            "height": 25
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1844,
+            "top": 1761,
+            "width": 47,
+            "height": 19
+        }
+    },
+    {
+        "text": "affected",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1901,
+            "top": 1754,
+            "width": 116,
+            "height": 26
+        }
+    },
+    {
+        "text": "by",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2029,
+            "top": 1755,
+            "width": 33,
+            "height": 31
+        }
+    },
+    {
+        "text": "diet,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2072,
+            "top": 1755,
+            "width": 60,
+            "height": 28
+        }
+    },
+    {
+        "text": "kidney",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2145,
+            "top": 1755,
+            "width": 94,
+            "height": 31
+        }
+    },
+    {
+        "text": "status,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 179,
+            "top": 1795,
+            "width": 95,
+            "height": 26
+        }
+    },
+    {
+        "text": "body",
+        "conf": 0.96,
+        "bbox": {
+            "left": 287,
+            "top": 1793,
+            "width": 69,
+            "height": 31
+        }
+    },
+    {
+        "text": "hydration,",
+        "conf": 0.95,
+        "bbox": {
+            "left": 368,
+            "top": 1793,
+            "width": 142,
+            "height": 31
+        }
+    },
+    {
+        "text": "physical",
+        "conf": 0.96,
+        "bbox": {
+            "left": 523,
+            "top": 1793,
+            "width": 117,
+            "height": 31
+        }
+    },
+    {
+        "text": "exercise,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 651,
+            "top": 1793,
+            "width": 130,
+            "height": 28
+        }
+    },
+    {
+        "text": "some",
+        "conf": 0.96,
+        "bbox": {
+            "left": 794,
+            "top": 1799,
+            "width": 79,
+            "height": 19
+        }
+    },
+    {
+        "text": "hormones",
+        "conf": 0.96,
+        "bbox": {
+            "left": 885,
+            "top": 1793,
+            "width": 145,
+            "height": 25
+        }
+    },
+    {
+        "text": "such",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1041,
+            "top": 1793,
+            "width": 67,
+            "height": 25
+        }
+    },
+    {
+        "text": "as",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1119,
+            "top": 1799,
+            "width": 34,
+            "height": 19
+        }
+    },
+    {
+        "text": "aldosterone",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1163,
+            "top": 1793,
+            "width": 173,
+            "height": 25
+        }
+    },
+    {
+        "text": "(which",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1347,
+            "top": 1793,
+            "width": 93,
+            "height": 31
+        }
+    },
+    {
+        "text": "conserves",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1451,
+            "top": 1799,
+            "width": 150,
+            "height": 19
+        }
+    },
+    {
+        "text": "sodium",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1612,
+            "top": 1793,
+            "width": 105,
+            "height": 25
+        }
+    },
+    {
+        "text": "and",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1728,
+            "top": 1793,
+            "width": 53,
+            "height": 25
+        }
+    },
+    {
+        "text": "promotes",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1794,
+            "top": 1795,
+            "width": 136,
+            "height": 29
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1940,
+            "top": 1793,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "elimination",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1995,
+            "top": 1793,
+            "width": 157,
+            "height": 25
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.97,
+        "bbox": {
+            "left": 2164,
+            "top": 1792,
+            "width": 28,
+            "height": 26
+        }
+    },
+    {
+        "text": "potassium)",
+        "conf": 0.96,
+        "bbox": {
+            "left": 180,
+            "top": 1830,
+            "width": 159,
+            "height": 31
+        }
+    },
+    {
+        "text": "and",
+        "conf": 0.96,
+        "bbox": {
+            "left": 351,
+            "top": 1830,
+            "width": 53,
+            "height": 25
+        }
+    },
+    {
+        "text": "natriuretic",
+        "conf": 0.96,
+        "bbox": {
+            "left": 416,
+            "top": 1830,
+            "width": 144,
+            "height": 25
+        }
+    },
+    {
+        "text": "peptides",
+        "conf": 0.96,
+        "bbox": {
+            "left": 571,
+            "top": 1830,
+            "width": 124,
+            "height": 31
+        }
+    },
+    {
+        "text": "(which",
+        "conf": 0.96,
+        "bbox": {
+            "left": 706,
+            "top": 1830,
+            "width": 93,
+            "height": 31
+        }
+    },
+    {
+        "text": "increase",
+        "conf": 0.96,
+        "bbox": {
+            "left": 811,
+            "top": 1830,
+            "width": 124,
+            "height": 25
+        }
+    },
+    {
+        "text": "elimination",
+        "conf": 0.96,
+        "bbox": {
+            "left": 945,
+            "top": 1830,
+            "width": 157,
+            "height": 25
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1114,
+            "top": 1829,
+            "width": 28,
+            "height": 26
+        }
+    },
+    {
+        "text": "sodium",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1151,
+            "top": 1830,
+            "width": 104,
+            "height": 25
+        }
+    },
+    {
+        "text": "by",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1267,
+            "top": 1830,
+            "width": 33,
+            "height": 31
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1310,
+            "top": 1830,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "kidneys),",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1366,
+            "top": 1830,
+            "width": 130,
+            "height": 31
+        }
+    },
+    {
+        "text": "diseased",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1508,
+            "top": 1830,
+            "width": 130,
+            "height": 25
+        }
+    },
+    {
+        "text": "states",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1650,
+            "top": 1832,
+            "width": 87,
+            "height": 23
+        }
+    },
+    {
+        "text": "such",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1748,
+            "top": 1830,
+            "width": 67,
+            "height": 25
+        }
+    },
+    {
+        "text": "as",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1826,
+            "top": 1836,
+            "width": 34,
+            "height": 19
+        }
+    },
+    {
+        "text": "diabetes,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1870,
+            "top": 1830,
+            "width": 132,
+            "height": 28
+        }
+    },
+    {
+        "text": "chronic",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2014,
+            "top": 1830,
+            "width": 107,
+            "height": 25
+        }
+    },
+    {
+        "text": "kidney",
+        "conf": 0.95,
+        "bbox": {
+            "left": 2132,
+            "top": 1830,
+            "width": 93,
+            "height": 31
+        }
+    },
+    {
+        "text": "and",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2236,
+            "top": 1830,
+            "width": 53,
+            "height": 25
+        }
+    },
+    {
+        "text": "lung",
+        "conf": 0.96,
+        "bbox": {
+            "left": 180,
+            "top": 1868,
+            "width": 60,
+            "height": 31
+        }
+    },
+    {
+        "text": "disorders",
+        "conf": 0.96,
+        "bbox": {
+            "left": 251,
+            "top": 1868,
+            "width": 135,
+            "height": 25
+        }
+    },
+    {
+        "text": "etc.",
+        "conf": 0.93,
+        "bbox": {
+            "left": 397,
+            "top": 1870,
+            "width": 50,
+            "height": 23
+        }
+    },
+    {
+        "text": "Sodium\u2014most",
+        "conf": 0.87,
+        "bbox": {
+            "left": 179,
+            "top": 1946,
+            "width": 204,
+            "height": 26
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.96,
+        "bbox": {
+            "left": 393,
+            "top": 1946,
+            "width": 28,
+            "height": 26
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 429,
+            "top": 1947,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "body's",
+        "conf": 0.92,
+        "bbox": {
+            "left": 485,
+            "top": 1947,
+            "width": 93,
+            "height": 31
+        }
+    },
+    {
+        "text": "sodium",
+        "conf": 0.96,
+        "bbox": {
+            "left": 589,
+            "top": 1947,
+            "width": 104,
+            "height": 25
+        }
+    },
+    {
+        "text": "is",
+        "conf": 0.96,
+        "bbox": {
+            "left": 705,
+            "top": 1947,
+            "width": 22,
+            "height": 25
+        }
+    },
+    {
+        "text": "found",
+        "conf": 0.96,
+        "bbox": {
+            "left": 737,
+            "top": 1946,
+            "width": 81,
+            "height": 26
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.96,
+        "bbox": {
+            "left": 830,
+            "top": 1947,
+            "width": 23,
+            "height": 24
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 864,
+            "top": 1947,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "fluid",
+        "conf": 0.96,
+        "bbox": {
+            "left": 919,
+            "top": 1946,
+            "width": 59,
+            "height": 26
+        }
+    },
+    {
+        "text": "outside",
+        "conf": 0.96,
+        "bbox": {
+            "left": 990,
+            "top": 1947,
+            "width": 106,
+            "height": 25
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1106,
+            "top": 1946,
+            "width": 28,
+            "height": 26
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1142,
+            "top": 1947,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "body's",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1198,
+            "top": 1947,
+            "width": 93,
+            "height": 31
+        }
+    },
+    {
+        "text": "cells,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1301,
+            "top": 1947,
+            "width": 73,
+            "height": 28
+        }
+    },
+    {
+        "text": "where",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1386,
+            "top": 1947,
+            "width": 90,
+            "height": 25
+        }
+    },
+    {
+        "text": "it",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1487,
+            "top": 1947,
+            "width": 14,
+            "height": 25
+        }
+    },
+    {
+        "text": "helps",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1512,
+            "top": 1947,
+            "width": 78,
+            "height": 31
+        }
+    },
+    {
+        "text": "to",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1600,
+            "top": 1949,
+            "width": 26,
+            "height": 23
+        }
+    },
+    {
+        "text": "regulate",
+        "conf": 0.89,
+        "bbox": {
+            "left": 1638,
+            "top": 1947,
+            "width": 117,
+            "height": 31
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1766,
+            "top": 1947,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "amount",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1821,
+            "top": 1949,
+            "width": 110,
+            "height": 23
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1941,
+            "top": 1946,
+            "width": 28,
+            "height": 26
+        }
+    },
+    {
+        "text": "water",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1977,
+            "top": 1949,
+            "width": 81,
+            "height": 23
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2068,
+            "top": 1947,
+            "width": 23,
+            "height": 24
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2102,
+            "top": 1947,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "body.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2158,
+            "top": 1947,
+            "width": 77,
+            "height": 31
+        }
+    },
+    {
+        "text": "Potassium-this",
+        "conf": 0.52,
+        "bbox": {
+            "left": 180,
+            "top": 2025,
+            "width": 224,
+            "height": 26
+        }
+    },
+    {
+        "text": "electrolyte",
+        "conf": 0.96,
+        "bbox": {
+            "left": 415,
+            "top": 2026,
+            "width": 150,
+            "height": 31
+        }
+    },
+    {
+        "text": "is",
+        "conf": 0.96,
+        "bbox": {
+            "left": 577,
+            "top": 2026,
+            "width": 21,
+            "height": 25
+        }
+    },
+    {
+        "text": "found",
+        "conf": 0.96,
+        "bbox": {
+            "left": 608,
+            "top": 2025,
+            "width": 82,
+            "height": 26
+        }
+    },
+    {
+        "text": "mainly",
+        "conf": 0.96,
+        "bbox": {
+            "left": 702,
+            "top": 2026,
+            "width": 94,
+            "height": 31
+        }
+    },
+    {
+        "text": "inside",
+        "conf": 0.96,
+        "bbox": {
+            "left": 807,
+            "top": 2026,
+            "width": 85,
+            "height": 25
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 902,
+            "top": 2026,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "body's",
+        "conf": 0.96,
+        "bbox": {
+            "left": 958,
+            "top": 2026,
+            "width": 93,
+            "height": 31
+        }
+    },
+    {
+        "text": "cells.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1061,
+            "top": 2026,
+            "width": 73,
+            "height": 25
+        }
+    },
+    {
+        "text": "A",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1146,
+            "top": 2026,
+            "width": 21,
+            "height": 24
+        }
+    },
+    {
+        "text": "small",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1178,
+            "top": 2026,
+            "width": 75,
+            "height": 25
+        }
+    },
+    {
+        "text": "but",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1265,
+            "top": 2026,
+            "width": 44,
+            "height": 25
+        }
+    },
+    {
+        "text": "vital",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1319,
+            "top": 2026,
+            "width": 57,
+            "height": 25
+        }
+    },
+    {
+        "text": "amount",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1388,
+            "top": 2028,
+            "width": 109,
+            "height": 23
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.97,
+        "bbox": {
+            "left": 1507,
+            "top": 2025,
+            "width": 28,
+            "height": 26
+        }
+    },
+    {
+        "text": "potassium",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1545,
+            "top": 2026,
+            "width": 148,
+            "height": 31
+        }
+    },
+    {
+        "text": "is",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1706,
+            "top": 2026,
+            "width": 21,
+            "height": 25
+        }
+    },
+    {
+        "text": "found",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1737,
+            "top": 2025,
+            "width": 81,
+            "height": 26
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1831,
+            "top": 2026,
+            "width": 22,
+            "height": 24
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1865,
+            "top": 2026,
+            "width": 44,
+            "height": 25
+        }
+    },
+    {
+        "text": "plasma,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1922,
+            "top": 2026,
+            "width": 112,
+            "height": 31
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2046,
+            "top": 2026,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "liquid",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2102,
+            "top": 2026,
+            "width": 75,
+            "height": 31
+        }
+    },
+    {
+        "text": "portion",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2189,
+            "top": 2026,
+            "width": 99,
+            "height": 31
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.96,
+        "bbox": {
+            "left": 179,
+            "top": 2062,
+            "width": 28,
+            "height": 26
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 216,
+            "top": 2063,
+            "width": 44,
+            "height": 25
+        }
+    },
+    {
+        "text": "blood.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 272,
+            "top": 2063,
+            "width": 86,
+            "height": 25
+        }
+    },
+    {
+        "text": "Potassium",
+        "conf": 0.96,
+        "bbox": {
+            "left": 372,
+            "top": 2063,
+            "width": 151,
+            "height": 25
+        }
+    },
+    {
+        "text": "plays",
+        "conf": 0.96,
+        "bbox": {
+            "left": 535,
+            "top": 2063,
+            "width": 76,
+            "height": 31
+        }
+    },
+    {
+        "text": "an",
+        "conf": 0.96,
+        "bbox": {
+            "left": 621,
+            "top": 2069,
+            "width": 35,
+            "height": 19
+        }
+    },
+    {
+        "text": "important",
+        "conf": 0.96,
+        "bbox": {
+            "left": 668,
+            "top": 2063,
+            "width": 137,
+            "height": 31
+        }
+    },
+    {
+        "text": "role",
+        "conf": 0.93,
+        "bbox": {
+            "left": 816,
+            "top": 2063,
+            "width": 53,
+            "height": 25
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.96,
+        "bbox": {
+            "left": 880,
+            "top": 2063,
+            "width": 23,
+            "height": 24
+        }
+    },
+    {
+        "text": "regulating",
+        "conf": 0.96,
+        "bbox": {
+            "left": 915,
+            "top": 2063,
+            "width": 143,
+            "height": 31
+        }
+    },
+    {
+        "text": "muscle",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1070,
+            "top": 2063,
+            "width": 103,
+            "height": 25
+        }
+    },
+    {
+        "text": "contraction.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1184,
+            "top": 2063,
+            "width": 169,
+            "height": 25
+        }
+    },
+    {
+        "text": "Monitoring",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1366,
+            "top": 2063,
+            "width": 152,
+            "height": 31
+        }
+    },
+    {
+        "text": "potassium",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1530,
+            "top": 2063,
+            "width": 148,
+            "height": 31
+        }
+    },
+    {
+        "text": "is",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1691,
+            "top": 2063,
+            "width": 22,
+            "height": 25
+        }
+    },
+    {
+        "text": "important",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1724,
+            "top": 2063,
+            "width": 137,
+            "height": 31
+        }
+    },
+    {
+        "text": "as",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1871,
+            "top": 2069,
+            "width": 33,
+            "height": 19
+        }
+    },
+    {
+        "text": "small",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1915,
+            "top": 2063,
+            "width": 75,
+            "height": 25
+        }
+    },
+    {
+        "text": "changes",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2001,
+            "top": 2063,
+            "width": 125,
+            "height": 31
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2137,
+            "top": 2063,
+            "width": 23,
+            "height": 24
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2171,
+            "top": 2063,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "potassium",
+        "conf": 0.96,
+        "bbox": {
+            "left": 180,
+            "top": 2101,
+            "width": 148,
+            "height": 31
+        }
+    },
+    {
+        "text": "level",
+        "conf": 0.96,
+        "bbox": {
+            "left": 341,
+            "top": 2101,
+            "width": 65,
+            "height": 25
+        }
+    },
+    {
+        "text": "can",
+        "conf": 0.96,
+        "bbox": {
+            "left": 417,
+            "top": 2107,
+            "width": 51,
+            "height": 19
+        }
+    },
+    {
+        "text": "affect",
+        "conf": 0.96,
+        "bbox": {
+            "left": 480,
+            "top": 2100,
+            "width": 80,
+            "height": 26
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 570,
+            "top": 2101,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "heart's",
+        "conf": 0.96,
+        "bbox": {
+            "left": 626,
+            "top": 2101,
+            "width": 96,
+            "height": 25
+        }
+    },
+    {
+        "text": "rhythm",
+        "conf": 0.96,
+        "bbox": {
+            "left": 733,
+            "top": 2101,
+            "width": 99,
+            "height": 31
+        }
+    },
+    {
+        "text": "and",
+        "conf": 0.96,
+        "bbox": {
+            "left": 843,
+            "top": 2101,
+            "width": 53,
+            "height": 25
+        }
+    },
+    {
+        "text": "ability",
+        "conf": 0.96,
+        "bbox": {
+            "left": 907,
+            "top": 2101,
+            "width": 84,
+            "height": 31
+        }
+    },
+    {
+        "text": "to",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1002,
+            "top": 2103,
+            "width": 26,
+            "height": 23
+        }
+    },
+    {
+        "text": "contract.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1038,
+            "top": 2103,
+            "width": 125,
+            "height": 23
+        }
+    },
+    {
+        "text": "Chloride-this",
+        "conf": 0.64,
+        "bbox": {
+            "left": 179,
+            "top": 2179,
+            "width": 194,
+            "height": 26
+        }
+    },
+    {
+        "text": "electrolyte",
+        "conf": 0.96,
+        "bbox": {
+            "left": 384,
+            "top": 2180,
+            "width": 150,
+            "height": 31
+        }
+    },
+    {
+        "text": "moves",
+        "conf": 0.96,
+        "bbox": {
+            "left": 546,
+            "top": 2186,
+            "width": 95,
+            "height": 19
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.96,
+        "bbox": {
+            "left": 652,
+            "top": 2180,
+            "width": 23,
+            "height": 24
+        }
+    },
+    {
+        "text": "and",
+        "conf": 0.96,
+        "bbox": {
+            "left": 686,
+            "top": 2180,
+            "width": 53,
+            "height": 25
+        }
+    },
+    {
+        "text": "out",
+        "conf": 0.96,
+        "bbox": {
+            "left": 751,
+            "top": 2182,
+            "width": 45,
+            "height": 23
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.95,
+        "bbox": {
+            "left": 806,
+            "top": 2179,
+            "width": 28,
+            "height": 26
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 842,
+            "top": 2180,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "cells",
+        "conf": 0.96,
+        "bbox": {
+            "left": 897,
+            "top": 2180,
+            "width": 66,
+            "height": 25
+        }
+    },
+    {
+        "text": "to",
+        "conf": 0.96,
+        "bbox": {
+            "left": 973,
+            "top": 2182,
+            "width": 26,
+            "height": 23
+        }
+    },
+    {
+        "text": "help",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1011,
+            "top": 2180,
+            "width": 60,
+            "height": 31
+        }
+    },
+    {
+        "text": "maintain",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1083,
+            "top": 2180,
+            "width": 122,
+            "height": 25
+        }
+    },
+    {
+        "text": "electrical",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1217,
+            "top": 2180,
+            "width": 129,
+            "height": 25
+        }
+    },
+    {
+        "text": "neutrality",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1358,
+            "top": 2180,
+            "width": 133,
+            "height": 31
+        }
+    },
+    {
+        "text": "(concentrations",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1502,
+            "top": 2180,
+            "width": 225,
+            "height": 31
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1738,
+            "top": 2179,
+            "width": 28,
+            "height": 26
+        }
+    },
+    {
+        "text": "positively",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1775,
+            "top": 2180,
+            "width": 135,
+            "height": 31
+        }
+    },
+    {
+        "text": "charged",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1921,
+            "top": 2180,
+            "width": 117,
+            "height": 31
+        }
+    },
+    {
+        "text": "cations",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2050,
+            "top": 2180,
+            "width": 104,
+            "height": 25
+        }
+    },
+    {
+        "text": "and",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2164,
+            "top": 2180,
+            "width": 53,
+            "height": 25
+        }
+    },
+    {
+        "text": "negatively",
+        "conf": 0.96,
+        "bbox": {
+            "left": 180,
+            "top": 2217,
+            "width": 148,
+            "height": 31
+        }
+    },
+    {
+        "text": "charged",
+        "conf": 0.96,
+        "bbox": {
+            "left": 338,
+            "top": 2217,
+            "width": 118,
+            "height": 31
+        }
+    },
+    {
+        "text": "anions",
+        "conf": 0.96,
+        "bbox": {
+            "left": 467,
+            "top": 2217,
+            "width": 97,
+            "height": 25
+        }
+    },
+    {
+        "text": "must",
+        "conf": 0.96,
+        "bbox": {
+            "left": 575,
+            "top": 2219,
+            "width": 70,
+            "height": 23
+        }
+    },
+    {
+        "text": "be",
+        "conf": 0.97,
+        "bbox": {
+            "left": 656,
+            "top": 2217,
+            "width": 35,
+            "height": 25
+        }
+    },
+    {
+        "text": "equal)",
+        "conf": 0.95,
+        "bbox": {
+            "left": 701,
+            "top": 2217,
+            "width": 90,
+            "height": 31
+        }
+    },
+    {
+        "text": "and",
+        "conf": 0.96,
+        "bbox": {
+            "left": 802,
+            "top": 2217,
+            "width": 53,
+            "height": 25
+        }
+    },
+    {
+        "text": "its",
+        "conf": 0.96,
+        "bbox": {
+            "left": 868,
+            "top": 2217,
+            "width": 30,
+            "height": 25
+        }
+    },
+    {
+        "text": "level",
+        "conf": 0.96,
+        "bbox": {
+            "left": 910,
+            "top": 2217,
+            "width": 65,
+            "height": 25
+        }
+    },
+    {
+        "text": "usually",
+        "conf": 0.96,
+        "bbox": {
+            "left": 988,
+            "top": 2217,
+            "width": 101,
+            "height": 31
+        }
+    },
+    {
+        "text": "mirrors",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1100,
+            "top": 2217,
+            "width": 101,
+            "height": 25
+        }
+    },
+    {
+        "text": "that",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1212,
+            "top": 2217,
+            "width": 54,
+            "height": 25
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1276,
+            "top": 2216,
+            "width": 28,
+            "height": 26
+        }
+    },
+    {
+        "text": "sodium.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1313,
+            "top": 2217,
+            "width": 113,
+            "height": 25
+        }
+    },
+    {
+        "text": "Due",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1440,
+            "top": 2217,
+            "width": 58,
+            "height": 25
+        }
+    },
+    {
+        "text": "to",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1508,
+            "top": 2219,
+            "width": 26,
+            "height": 23
+        }
+    },
+    {
+        "text": "its",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1546,
+            "top": 2217,
+            "width": 30,
+            "height": 25
+        }
+    },
+    {
+        "text": "close",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1587,
+            "top": 2217,
+            "width": 76,
+            "height": 25
+        }
+    },
+    {
+        "text": "association",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1674,
+            "top": 2217,
+            "width": 164,
+            "height": 25
+        }
+    },
+    {
+        "text": "with",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1849,
+            "top": 2217,
+            "width": 57,
+            "height": 25
+        }
+    },
+    {
+        "text": "sodium,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1918,
+            "top": 2217,
+            "width": 113,
+            "height": 28
+        }
+    },
+    {
+        "text": "chloride",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2043,
+            "top": 2217,
+            "width": 115,
+            "height": 25
+        }
+    },
+    {
+        "text": "also",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2169,
+            "top": 2217,
+            "width": 59,
+            "height": 25
+        }
+    },
+    {
+        "text": "helps",
+        "conf": 0.96,
+        "bbox": {
+            "left": 180,
+            "top": 2255,
+            "width": 77,
+            "height": 31
+        }
+    },
+    {
+        "text": "to",
+        "conf": 0.95,
+        "bbox": {
+            "left": 268,
+            "top": 2257,
+            "width": 26,
+            "height": 23
+        }
+    },
+    {
+        "text": "regulate",
+        "conf": 0.96,
+        "bbox": {
+            "left": 305,
+            "top": 2255,
+            "width": 118,
+            "height": 31
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 433,
+            "top": 2255,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "distribution",
+        "conf": 0.96,
+        "bbox": {
+            "left": 488,
+            "top": 2255,
+            "width": 159,
+            "height": 25
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.96,
+        "bbox": {
+            "left": 659,
+            "top": 2254,
+            "width": 28,
+            "height": 26
+        }
+    },
+    {
+        "text": "water",
+        "conf": 0.96,
+        "bbox": {
+            "left": 695,
+            "top": 2257,
+            "width": 81,
+            "height": 23
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.96,
+        "bbox": {
+            "left": 786,
+            "top": 2255,
+            "width": 23,
+            "height": 24
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 820,
+            "top": 2255,
+            "width": 45,
+            "height": 25
+        }
+    },
+    {
+        "text": "body.",
+        "conf": 0.94,
+        "bbox": {
+            "left": 876,
+            "top": 2255,
+            "width": 77,
+            "height": 31
+        }
+    },
+    {
+        "text": "aAly",
+        "conf": 0.0,
+        "bbox": {
+            "left": 2079,
+            "top": 2420,
+            "width": 119,
+            "height": 30
+        }
+    },
+    {
+        "text": "Verified",
+        "conf": 0.93,
+        "bbox": {
+            "left": 179,
+            "top": 2468,
+            "width": 134,
+            "height": 29
+        }
+    },
+    {
+        "text": "By:222626",
+        "conf": 0.92,
+        "bbox": {
+            "left": 329,
+            "top": 2468,
+            "width": 181,
+            "height": 37
+        }
+    },
+    {
+        "text": "Jem",
+        "conf": 0.43,
+        "bbox": {
+            "left": 1972,
+            "top": 2433,
+            "width": 79,
+            "height": 47
+        }
+    },
+    {
+        "text": "\u00a9",
+        "conf": 0.0,
+        "bbox": {
+            "left": 2100,
+            "top": 2462,
+            "width": 22,
+            "height": 9
+        }
+    },
+    {
+        "text": "Verified",
+        "conf": 0.95,
+        "bbox": {
+            "left": 171,
+            "top": 2523,
+            "width": 134,
+            "height": 29
+        }
+    },
+    {
+        "text": "Date",
+        "conf": 0.92,
+        "bbox": {
+            "left": 320,
+            "top": 2523,
+            "width": 78,
+            "height": 29
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.86,
+        "bbox": {
+            "left": 413,
+            "top": 2531,
+            "width": 6,
+            "height": 20
+        }
+    },
+    {
+        "text": "17-Sep-2025",
+        "conf": 0.93,
+        "bbox": {
+            "left": 437,
+            "top": 2523,
+            "width": 212,
+            "height": 37
+        }
+    },
+    {
+        "text": "/13:35",
+        "conf": 0.92,
+        "bbox": {
+            "left": 660,
+            "top": 2524,
+            "width": 103,
+            "height": 28
+        }
+    },
+    {
+        "text": "Dr.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1896,
+            "top": 2519,
+            "width": 47,
+            "height": 28
+        }
+    },
+    {
+        "text": "Ashwin",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1957,
+            "top": 2519,
+            "width": 130,
+            "height": 29
+        }
+    },
+    {
+        "text": "Kumar",
+        "conf": 0.94,
+        "bbox": {
+            "left": 2101,
+            "top": 2519,
+            "width": 116,
+            "height": 29
+        }
+    },
+    {
+        "text": "AS",
+        "conf": 0.77,
+        "bbox": {
+            "left": 2229,
+            "top": 2519,
+            "width": 61,
+            "height": 29
+        }
+    },
+    {
+        "text": "MBBS,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2115,
+            "top": 2560,
+            "width": 104,
+            "height": 31
+        }
+    },
+    {
+        "text": "MD",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2231,
+            "top": 2560,
+            "width": 50,
+            "height": 25
+        }
+    },
+    {
+        "text": "Consultant",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1930,
+            "top": 2598,
+            "width": 171,
+            "height": 26
+        }
+    },
+    {
+        "text": "Biochemist",
+        "conf": 0.92,
+        "bbox": {
+            "left": 2114,
+            "top": 2598,
+            "width": 176,
+            "height": 26
+        }
+    },
+    {
+        "text": "---",
+        "conf": 0.88,
+        "bbox": {
+            "left": 1047,
+            "top": 2673,
+            "width": 40,
+            "height": 7
+        }
+    },
+    {
+        "text": "End",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1102,
+            "top": 2657,
+            "width": 74,
+            "height": 32
+        }
+    },
+    {
+        "text": "Of",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1191,
+            "top": 2657,
+            "width": 44,
+            "height": 32
+        }
+    },
+    {
+        "text": "Report",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1250,
+            "top": 2657,
+            "width": 131,
+            "height": 40
+        }
+    },
+    {
+        "text": "---",
+        "conf": 0.91,
+        "bbox": {
+            "left": 1394,
+            "top": 2673,
+            "width": 40,
+            "height": 7
+        }
+    },
+    {
+        "text": "Important",
+        "conf": 0.94,
+        "bbox": {
+            "left": 1060,
+            "top": 2719,
+            "width": 151,
+            "height": 33
+        }
+    },
+    {
+        "text": "Instructions:",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1223,
+            "top": 2719,
+            "width": 198,
+            "height": 26
+        }
+    },
+    {
+        "text": "*Test",
+        "conf": 0.88,
+        "bbox": {
+            "left": 179,
+            "top": 2772,
+            "width": 65,
+            "height": 23
+        }
+    },
+    {
+        "text": "results",
+        "conf": 0.96,
+        "bbox": {
+            "left": 255,
+            "top": 2773,
+            "width": 83,
+            "height": 22
+        }
+    },
+    {
+        "text": "released",
+        "conf": 0.96,
+        "bbox": {
+            "left": 349,
+            "top": 2773,
+            "width": 108,
+            "height": 22
+        }
+    },
+    {
+        "text": "pertain",
+        "conf": 0.96,
+        "bbox": {
+            "left": 468,
+            "top": 2773,
+            "width": 86,
+            "height": 27
+        }
+    },
+    {
+        "text": "to",
+        "conf": 0.96,
+        "bbox": {
+            "left": 564,
+            "top": 2774,
+            "width": 23,
+            "height": 21
+        }
+    },
+    {
+        "text": "specimen",
+        "conf": 0.96,
+        "bbox": {
+            "left": 598,
+            "top": 2773,
+            "width": 121,
+            "height": 27
+        }
+    },
+    {
+        "text": "submitted.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 730,
+            "top": 2773,
+            "width": 131,
+            "height": 22
+        }
+    },
+    {
+        "text": "*All",
+        "conf": 0.84,
+        "bbox": {
+            "left": 179,
+            "top": 2805,
+            "width": 40,
+            "height": 22
+        }
+    },
+    {
+        "text": "results",
+        "conf": 0.96,
+        "bbox": {
+            "left": 231,
+            "top": 2806,
+            "width": 83,
+            "height": 22
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.96,
+        "bbox": {
+            "left": 323,
+            "top": 2811,
+            "width": 41,
+            "height": 17
+        }
+    },
+    {
+        "text": "dependent",
+        "conf": 0.96,
+        "bbox": {
+            "left": 373,
+            "top": 2806,
+            "width": 137,
+            "height": 27
+        }
+    },
+    {
+        "text": "upon",
+        "conf": 0.95,
+        "bbox": {
+            "left": 520,
+            "top": 2811,
+            "width": 62,
+            "height": 22
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.95,
+        "bbox": {
+            "left": 592,
+            "top": 2806,
+            "width": 39,
+            "height": 22
+        }
+    },
+    {
+        "text": "quality",
+        "conf": 0.96,
+        "bbox": {
+            "left": 640,
+            "top": 2806,
+            "width": 83,
+            "height": 28
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.96,
+        "bbox": {
+            "left": 733,
+            "top": 2805,
+            "width": 23,
+            "height": 23
+        }
+    },
+    {
+        "text": "specimen",
+        "conf": 0.95,
+        "bbox": {
+            "left": 766,
+            "top": 2806,
+            "width": 122,
+            "height": 27
+        }
+    },
+    {
+        "text": "received",
+        "conf": 0.96,
+        "bbox": {
+            "left": 899,
+            "top": 2806,
+            "width": 107,
+            "height": 22
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1017,
+            "top": 2806,
+            "width": 20,
+            "height": 21
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1046,
+            "top": 2806,
+            "width": 40,
+            "height": 22
+        }
+    },
+    {
+        "text": "laboratory.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1097,
+            "top": 2806,
+            "width": 133,
+            "height": 28
+        }
+    },
+    {
+        "text": "*Lab",
+        "conf": 0.62,
+        "bbox": {
+            "left": 179,
+            "top": 2839,
+            "width": 58,
+            "height": 22
+        }
+    },
+    {
+        "text": "investigation",
+        "conf": 0.95,
+        "bbox": {
+            "left": 247,
+            "top": 2839,
+            "width": 158,
+            "height": 28
+        }
+    },
+    {
+        "text": "is",
+        "conf": 0.95,
+        "bbox": {
+            "left": 417,
+            "top": 2839,
+            "width": 18,
+            "height": 22
+        }
+    },
+    {
+        "text": "only",
+        "conf": 0.96,
+        "bbox": {
+            "left": 445,
+            "top": 2839,
+            "width": 52,
+            "height": 28
+        }
+    },
+    {
+        "text": "a",
+        "conf": 0.96,
+        "bbox": {
+            "left": 506,
+            "top": 2844,
+            "width": 15,
+            "height": 17
+        }
+    },
+    {
+        "text": "tool",
+        "conf": 0.96,
+        "bbox": {
+            "left": 530,
+            "top": 2839,
+            "width": 45,
+            "height": 22
+        }
+    },
+    {
+        "text": "to",
+        "conf": 0.93,
+        "bbox": {
+            "left": 585,
+            "top": 2840,
+            "width": 23,
+            "height": 21
+        }
+    },
+    {
+        "text": "faciilitate",
+        "conf": 0.9,
+        "bbox": {
+            "left": 618,
+            "top": 2838,
+            "width": 112,
+            "height": 23
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.96,
+        "bbox": {
+            "left": 740,
+            "top": 2839,
+            "width": 20,
+            "height": 21
+        }
+    },
+    {
+        "text": "concluding",
+        "conf": 0.96,
+        "bbox": {
+            "left": 770,
+            "top": 2839,
+            "width": 137,
+            "height": 28
+        }
+    },
+    {
+        "text": "a",
+        "conf": 0.96,
+        "bbox": {
+            "left": 917,
+            "top": 2844,
+            "width": 15,
+            "height": 17
+        }
+    },
+    {
+        "text": "diagnosis",
+        "conf": 0.93,
+        "bbox": {
+            "left": 941,
+            "top": 2839,
+            "width": 122,
+            "height": 28
+        }
+    },
+    {
+        "text": ",",
+        "conf": 0.9,
+        "bbox": {
+            "left": 1074,
+            "top": 2857,
+            "width": 4,
+            "height": 6
+        }
+    },
+    {
+        "text": "and",
+        "conf": 0.97,
+        "bbox": {
+            "left": 1089,
+            "top": 2839,
+            "width": 46,
+            "height": 22
+        }
+    },
+    {
+        "text": "should",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1146,
+            "top": 2839,
+            "width": 83,
+            "height": 22
+        }
+    },
+    {
+        "text": "be",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1240,
+            "top": 2839,
+            "width": 30,
+            "height": 22
+        }
+    },
+    {
+        "text": "clinically",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1280,
+            "top": 2839,
+            "width": 107,
+            "height": 28
+        }
+    },
+    {
+        "text": "correlated",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1397,
+            "top": 2839,
+            "width": 127,
+            "height": 22
+        }
+    },
+    {
+        "text": "by",
+        "conf": 0.97,
+        "bbox": {
+            "left": 1535,
+            "top": 2839,
+            "width": 28,
+            "height": 28
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1572,
+            "top": 2839,
+            "width": 40,
+            "height": 22
+        }
+    },
+    {
+        "text": "referring",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1623,
+            "top": 2838,
+            "width": 104,
+            "height": 29
+        }
+    },
+    {
+        "text": "physician.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1739,
+            "top": 2839,
+            "width": 125,
+            "height": 28
+        }
+    },
+    {
+        "text": "*Certain",
+        "conf": 0.91,
+        "bbox": {
+            "left": 179,
+            "top": 2870,
+            "width": 102,
+            "height": 23
+        }
+    },
+    {
+        "text": "tests",
+        "conf": 0.96,
+        "bbox": {
+            "left": 291,
+            "top": 2872,
+            "width": 60,
+            "height": 21
+        }
+    },
+    {
+        "text": "may",
+        "conf": 0.96,
+        "bbox": {
+            "left": 362,
+            "top": 2876,
+            "width": 52,
+            "height": 23
+        }
+    },
+    {
+        "text": "require",
+        "conf": 0.96,
+        "bbox": {
+            "left": 425,
+            "top": 2871,
+            "width": 88,
+            "height": 27
+        }
+    },
+    {
+        "text": "further",
+        "conf": 0.96,
+        "bbox": {
+            "left": 523,
+            "top": 2870,
+            "width": 82,
+            "height": 23
+        }
+    },
+    {
+        "text": "testing,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 614,
+            "top": 2871,
+            "width": 92,
+            "height": 28
+        }
+    },
+    {
+        "text": "at",
+        "conf": 0.94,
+        "bbox": {
+            "left": 717,
+            "top": 2872,
+            "width": 22,
+            "height": 21
+        }
+    },
+    {
+        "text": "an",
+        "conf": 0.94,
+        "bbox": {
+            "left": 749,
+            "top": 2876,
+            "width": 30,
+            "height": 17
+        }
+    },
+    {
+        "text": "additional",
+        "conf": 0.96,
+        "bbox": {
+            "left": 790,
+            "top": 2871,
+            "width": 122,
+            "height": 22
+        }
+    },
+    {
+        "text": "cost",
+        "conf": 0.96,
+        "bbox": {
+            "left": 922,
+            "top": 2872,
+            "width": 52,
+            "height": 21
+        }
+    },
+    {
+        "text": "for",
+        "conf": 0.96,
+        "bbox": {
+            "left": 984,
+            "top": 2870,
+            "width": 33,
+            "height": 23
+        }
+    },
+    {
+        "text": "derivation",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1025,
+            "top": 2871,
+            "width": 125,
+            "height": 22
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.92,
+        "bbox": {
+            "left": 1160,
+            "top": 2870,
+            "width": 23,
+            "height": 23
+        }
+    },
+    {
+        "text": "excact",
+        "conf": 0.92,
+        "bbox": {
+            "left": 1193,
+            "top": 2872,
+            "width": 82,
+            "height": 21
+        }
+    },
+    {
+        "text": "value.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1285,
+            "top": 2871,
+            "width": 74,
+            "height": 22
+        }
+    },
+    {
+        "text": "kindly",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1371,
+            "top": 2871,
+            "width": 73,
+            "height": 28
+        }
+    },
+    {
+        "text": "submit",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1454,
+            "top": 2871,
+            "width": 83,
+            "height": 22
+        }
+    },
+    {
+        "text": "request",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1548,
+            "top": 2872,
+            "width": 95,
+            "height": 26
+        }
+    },
+    {
+        "text": "with",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1652,
+            "top": 2871,
+            "width": 50,
+            "height": 22
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1713,
+            "top": 2871,
+            "width": 20,
+            "height": 21
+        }
+    },
+    {
+        "text": "2",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1743,
+            "top": 2871,
+            "width": 14,
+            "height": 21
+        }
+    },
+    {
+        "text": "days,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1767,
+            "top": 2871,
+            "width": 67,
+            "height": 28
+        }
+    },
+    {
+        "text": "post",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1845,
+            "top": 2872,
+            "width": 53,
+            "height": 26
+        }
+    },
+    {
+        "text": "reporting.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1909,
+            "top": 2871,
+            "width": 119,
+            "height": 28
+        }
+    },
+    {
+        "text": "*Sample",
+        "conf": 0.73,
+        "bbox": {
+            "left": 179,
+            "top": 2903,
+            "width": 107,
+            "height": 28
+        }
+    },
+    {
+        "text": "repeats",
+        "conf": 0.96,
+        "bbox": {
+            "left": 297,
+            "top": 2905,
+            "width": 95,
+            "height": 26
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.96,
+        "bbox": {
+            "left": 401,
+            "top": 2909,
+            "width": 41,
+            "height": 17
+        }
+    },
+    {
+        "text": "accepted",
+        "conf": 0.96,
+        "bbox": {
+            "left": 451,
+            "top": 2904,
+            "width": 116,
+            "height": 27
+        }
+    },
+    {
+        "text": "on",
+        "conf": 0.96,
+        "bbox": {
+            "left": 578,
+            "top": 2909,
+            "width": 30,
+            "height": 17
+        }
+    },
+    {
+        "text": "request",
+        "conf": 0.96,
+        "bbox": {
+            "left": 619,
+            "top": 2905,
+            "width": 95,
+            "height": 26
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.96,
+        "bbox": {
+            "left": 723,
+            "top": 2903,
+            "width": 23,
+            "height": 23
+        }
+    },
+    {
+        "text": "Referring",
+        "conf": 0.96,
+        "bbox": {
+            "left": 757,
+            "top": 2903,
+            "width": 116,
+            "height": 29
+        }
+    },
+    {
+        "text": "Physician",
+        "conf": 0.96,
+        "bbox": {
+            "left": 885,
+            "top": 2903,
+            "width": 121,
+            "height": 29
+        }
+    },
+    {
+        "text": "with",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1016,
+            "top": 2904,
+            "width": 50,
+            "height": 22
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1077,
+            "top": 2904,
+            "width": 20,
+            "height": 21
+        }
+    },
+    {
+        "text": "sample",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1107,
+            "top": 2904,
+            "width": 92,
+            "height": 27
+        }
+    },
+    {
+        "text": "stability",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1209,
+            "top": 2904,
+            "width": 95,
+            "height": 28
+        }
+    },
+    {
+        "text": "period.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1314,
+            "top": 2904,
+            "width": 86,
+            "height": 27
+        }
+    },
+    {
+        "text": "Test",
+        "conf": 0.2,
+        "bbox": {
+            "left": 179,
+            "top": 2935,
+            "width": 65,
+            "height": 23
+        }
+    },
+    {
+        "text": "results",
+        "conf": 0.96,
+        "bbox": {
+            "left": 255,
+            "top": 2936,
+            "width": 83,
+            "height": 22
+        }
+    },
+    {
+        "text": "may",
+        "conf": 0.96,
+        "bbox": {
+            "left": 349,
+            "top": 2941,
+            "width": 52,
+            "height": 23
+        }
+    },
+    {
+        "text": "show",
+        "conf": 0.92,
+        "bbox": {
+            "left": 411,
+            "top": 2936,
+            "width": 66,
+            "height": 22
+        }
+    },
+    {
+        "text": "inter-laboratory",
+        "conf": 0.9,
+        "bbox": {
+            "left": 488,
+            "top": 2936,
+            "width": 193,
+            "height": 28
+        }
+    },
+    {
+        "text": "variation.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 691,
+            "top": 2936,
+            "width": 115,
+            "height": 22
+        }
+    },
+    {
+        "text": "*Results",
+        "conf": 0.73,
+        "bbox": {
+            "left": 179,
+            "top": 2968,
+            "width": 106,
+            "height": 23
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.96,
+        "bbox": {
+            "left": 294,
+            "top": 2974,
+            "width": 41,
+            "height": 17
+        }
+    },
+    {
+        "text": "for",
+        "conf": 0.79,
+        "bbox": {
+            "left": 345,
+            "top": 2968,
+            "width": 32,
+            "height": 23
+        }
+    },
+    {
+        "text": "informational",
+        "conf": 0.96,
+        "bbox": {
+            "left": 388,
+            "top": 2968,
+            "width": 163,
+            "height": 23
+        }
+    },
+    {
+        "text": "purposes",
+        "conf": 0.93,
+        "bbox": {
+            "left": 562,
+            "top": 2974,
+            "width": 118,
+            "height": 22
+        }
+    },
+    {
+        "text": ",",
+        "conf": 0.93,
+        "bbox": {
+            "left": 691,
+            "top": 2987,
+            "width": 3,
+            "height": 7
+        }
+    },
+    {
+        "text": "and",
+        "conf": 0.96,
+        "bbox": {
+            "left": 705,
+            "top": 2969,
+            "width": 47,
+            "height": 22
+        }
+    },
+    {
+        "text": "not",
+        "conf": 0.96,
+        "bbox": {
+            "left": 763,
+            "top": 2970,
+            "width": 38,
+            "height": 21
+        }
+    },
+    {
+        "text": "intended",
+        "conf": 0.96,
+        "bbox": {
+            "left": 812,
+            "top": 2969,
+            "width": 108,
+            "height": 22
+        }
+    },
+    {
+        "text": "to",
+        "conf": 0.96,
+        "bbox": {
+            "left": 930,
+            "top": 2970,
+            "width": 23,
+            "height": 21
+        }
+    },
+    {
+        "text": "replace",
+        "conf": 0.96,
+        "bbox": {
+            "left": 964,
+            "top": 2969,
+            "width": 93,
+            "height": 27
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1066,
+            "top": 2969,
+            "width": 39,
+            "height": 22
+        }
+    },
+    {
+        "text": "care",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1115,
+            "top": 2974,
+            "width": 55,
+            "height": 17
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.97,
+        "bbox": {
+            "left": 1180,
+            "top": 2968,
+            "width": 22,
+            "height": 23
+        }
+    },
+    {
+        "text": "medical",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1213,
+            "top": 2969,
+            "width": 97,
+            "height": 22
+        }
+    },
+    {
+        "text": "practitionar,",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1321,
+            "top": 2969,
+            "width": 149,
+            "height": 27
+        }
+    },
+    {
+        "text": "and",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1481,
+            "top": 2969,
+            "width": 46,
+            "height": 22
+        }
+    },
+    {
+        "text": "does",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1537,
+            "top": 2969,
+            "width": 62,
+            "height": 22
+        }
+    },
+    {
+        "text": "not",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1610,
+            "top": 2970,
+            "width": 38,
+            "height": 21
+        }
+    },
+    {
+        "text": "recommend",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1658,
+            "top": 2969,
+            "width": 151,
+            "height": 22
+        }
+    },
+    {
+        "text": "self-diagnosis",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1820,
+            "top": 2968,
+            "width": 175,
+            "height": 29
+        }
+    },
+    {
+        "text": "and/or",
+        "conf": 0.96,
+        "bbox": {
+            "left": 187,
+            "top": 3002,
+            "width": 81,
+            "height": 22
+        }
+    },
+    {
+        "text": "self-medication.",
+        "conf": 0.95,
+        "bbox": {
+            "left": 278,
+            "top": 3001,
+            "width": 201,
+            "height": 23
+        }
+    },
+    {
+        "text": "*Aster",
+        "conf": 0.71,
+        "bbox": {
+            "left": 179,
+            "top": 3033,
+            "width": 77,
+            "height": 23
+        }
+    },
+    {
+        "text": "clinical",
+        "conf": 0.96,
+        "bbox": {
+            "left": 265,
+            "top": 3034,
+            "width": 85,
+            "height": 22
+        }
+    },
+    {
+        "text": "Lab",
+        "conf": 0.96,
+        "bbox": {
+            "left": 362,
+            "top": 3034,
+            "width": 46,
+            "height": 22
+        }
+    },
+    {
+        "text": "LLP",
+        "conf": 0.96,
+        "bbox": {
+            "left": 418,
+            "top": 3033,
+            "width": 49,
+            "height": 22
+        }
+    },
+    {
+        "text": "does",
+        "conf": 0.96,
+        "bbox": {
+            "left": 477,
+            "top": 3034,
+            "width": 62,
+            "height": 22
+        }
+    },
+    {
+        "text": "not",
+        "conf": 0.96,
+        "bbox": {
+            "left": 549,
+            "top": 3035,
+            "width": 38,
+            "height": 21
+        }
+    },
+    {
+        "text": "make",
+        "conf": 0.96,
+        "bbox": {
+            "left": 598,
+            "top": 3034,
+            "width": 69,
+            "height": 22
+        }
+    },
+    {
+        "text": "any",
+        "conf": 0.96,
+        "bbox": {
+            "left": 676,
+            "top": 3039,
+            "width": 46,
+            "height": 23
+        }
+    },
+    {
+        "text": "warranties",
+        "conf": 0.96,
+        "bbox": {
+            "left": 731,
+            "top": 3034,
+            "width": 133,
+            "height": 22
+        }
+    },
+    {
+        "text": "expressed",
+        "conf": 0.96,
+        "bbox": {
+            "left": 874,
+            "top": 3034,
+            "width": 132,
+            "height": 27
+        }
+    },
+    {
+        "text": "or",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1016,
+            "top": 3039,
+            "width": 25,
+            "height": 17
+        }
+    },
+    {
+        "text": "implied",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1051,
+            "top": 3034,
+            "width": 89,
+            "height": 27
+        }
+    },
+    {
+        "text": "with",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1150,
+            "top": 3034,
+            "width": 50,
+            "height": 22
+        }
+    },
+    {
+        "text": "respect",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1211,
+            "top": 3035,
+            "width": 93,
+            "height": 26
+        }
+    },
+    {
+        "text": "to",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1313,
+            "top": 3035,
+            "width": 24,
+            "height": 21
+        }
+    },
+    {
+        "text": "information",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1347,
+            "top": 3033,
+            "width": 141,
+            "height": 23
+        }
+    },
+    {
+        "text": "herein.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1499,
+            "top": 3034,
+            "width": 85,
+            "height": 22
+        }
+    },
+    {
+        "text": "*.Test",
+        "conf": 0.79,
+        "bbox": {
+            "left": 179,
+            "top": 3066,
+            "width": 73,
+            "height": 23
+        }
+    },
+    {
+        "text": "results",
+        "conf": 0.96,
+        "bbox": {
+            "left": 263,
+            "top": 3067,
+            "width": 83,
+            "height": 22
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.96,
+        "bbox": {
+            "left": 356,
+            "top": 3072,
+            "width": 40,
+            "height": 17
+        }
+    },
+    {
+        "text": "not",
+        "conf": 0.96,
+        "bbox": {
+            "left": 407,
+            "top": 3068,
+            "width": 38,
+            "height": 21
+        }
+    },
+    {
+        "text": "valid",
+        "conf": 0.96,
+        "bbox": {
+            "left": 455,
+            "top": 3067,
+            "width": 57,
+            "height": 22
+        }
+    },
+    {
+        "text": "for",
+        "conf": 0.92,
+        "bbox": {
+            "left": 523,
+            "top": 3066,
+            "width": 32,
+            "height": 23
+        }
+    },
+    {
+        "text": "medico",
+        "conf": 0.92,
+        "bbox": {
+            "left": 566,
+            "top": 3067,
+            "width": 91,
+            "height": 22
+        }
+    },
+    {
+        "text": "legal",
+        "conf": 0.96,
+        "bbox": {
+            "left": 668,
+            "top": 3067,
+            "width": 58,
+            "height": 28
+        }
+    },
+    {
+        "text": "purposes.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 737,
+            "top": 3072,
+            "width": 124,
+            "height": 22
+        }
+    },
+    {
+        "text": "*The",
+        "conf": 0.91,
+        "bbox": {
+            "left": 179,
+            "top": 3099,
+            "width": 59,
+            "height": 23
+        }
+    },
+    {
+        "text": "courts/forum",
+        "conf": 0.91,
+        "bbox": {
+            "left": 247,
+            "top": 3099,
+            "width": 160,
+            "height": 23
+        }
+    },
+    {
+        "text": "at",
+        "conf": 0.93,
+        "bbox": {
+            "left": 417,
+            "top": 3101,
+            "width": 23,
+            "height": 21
+        }
+    },
+    {
+        "text": "Cochin/Bangolore",
+        "conf": 0.91,
+        "bbox": {
+            "left": 450,
+            "top": 3099,
+            "width": 229,
+            "height": 29
+        }
+    },
+    {
+        "text": "shall",
+        "conf": 0.96,
+        "bbox": {
+            "left": 690,
+            "top": 3100,
+            "width": 57,
+            "height": 22
+        }
+    },
+    {
+        "text": "have",
+        "conf": 0.96,
+        "bbox": {
+            "left": 758,
+            "top": 3100,
+            "width": 61,
+            "height": 22
+        }
+    },
+    {
+        "text": "exclusive",
+        "conf": 0.96,
+        "bbox": {
+            "left": 828,
+            "top": 3100,
+            "width": 118,
+            "height": 22
+        }
+    },
+    {
+        "text": "Jurisdiction",
+        "conf": 0.96,
+        "bbox": {
+            "left": 956,
+            "top": 3100,
+            "width": 144,
+            "height": 22
+        }
+    },
+    {
+        "text": "in",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1111,
+            "top": 3100,
+            "width": 19,
+            "height": 21
+        }
+    },
+    {
+        "text": "all",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1141,
+            "top": 3100,
+            "width": 26,
+            "height": 22
+        }
+    },
+    {
+        "text": "disputes/claims",
+        "conf": 0.91,
+        "bbox": {
+            "left": 1177,
+            "top": 3100,
+            "width": 198,
+            "height": 27
+        }
+    },
+    {
+        "text": "concerning",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1385,
+            "top": 3100,
+            "width": 140,
+            "height": 28
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1535,
+            "top": 3100,
+            "width": 39,
+            "height": 22
+        }
+    },
+    {
+        "text": "request",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1585,
+            "top": 3101,
+            "width": 95,
+            "height": 26
+        }
+    },
+    {
+        "text": "and/or",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1689,
+            "top": 3100,
+            "width": 82,
+            "height": 22
+        }
+    },
+    {
+        "text": "result",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1781,
+            "top": 3100,
+            "width": 69,
+            "height": 22
+        }
+    },
+    {
+        "text": "of",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1859,
+            "top": 3099,
+            "width": 23,
+            "height": 23
+        }
+    },
+    {
+        "text": "test(s).",
+        "conf": 0.92,
+        "bbox": {
+            "left": 1891,
+            "top": 3100,
+            "width": 87,
+            "height": 27
+        }
+    },
+    {
+        "text": "*Contact",
+        "conf": 0.85,
+        "bbox": {
+            "left": 179,
+            "top": 3131,
+            "width": 109,
+            "height": 23
+        }
+    },
+    {
+        "text": "customer",
+        "conf": 0.96,
+        "bbox": {
+            "left": 298,
+            "top": 3133,
+            "width": 118,
+            "height": 21
+        }
+    },
+    {
+        "text": "care",
+        "conf": 0.96,
+        "bbox": {
+            "left": 425,
+            "top": 3137,
+            "width": 55,
+            "height": 17
+        }
+    },
+    {
+        "text": "9680396803",
+        "conf": 0.96,
+        "bbox": {
+            "left": 490,
+            "top": 3132,
+            "width": 160,
+            "height": 22
+        }
+    },
+    {
+        "text": "for",
+        "conf": 0.96,
+        "bbox": {
+            "left": 660,
+            "top": 3131,
+            "width": 33,
+            "height": 23
+        }
+    },
+    {
+        "text": "all",
+        "conf": 0.96,
+        "bbox": {
+            "left": 702,
+            "top": 3132,
+            "width": 27,
+            "height": 22
+        }
+    },
+    {
+        "text": "queries",
+        "conf": 0.96,
+        "bbox": {
+            "left": 739,
+            "top": 3132,
+            "width": 94,
+            "height": 27
+        }
+    },
+    {
+        "text": "related",
+        "conf": 0.96,
+        "bbox": {
+            "left": 844,
+            "top": 3132,
+            "width": 86,
+            "height": 22
+        }
+    },
+    {
+        "text": "to",
+        "conf": 0.96,
+        "bbox": {
+            "left": 940,
+            "top": 3133,
+            "width": 23,
+            "height": 21
+        }
+    },
+    {
+        "text": "test",
+        "conf": 0.96,
+        "bbox": {
+            "left": 972,
+            "top": 3133,
+            "width": 46,
+            "height": 21
+        }
+    },
+    {
+        "text": "results",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1029,
+            "top": 3132,
+            "width": 83,
+            "height": 22
+        }
+    },
+    {
+        "text": "Patient/Client",
+        "conf": 0.92,
+        "bbox": {
+            "left": 180,
+            "top": 3181,
+            "width": 171,
+            "height": 23
+        }
+    },
+    {
+        "text": "is",
+        "conf": 0.96,
+        "bbox": {
+            "left": 361,
+            "top": 3182,
+            "width": 19,
+            "height": 22
+        }
+    },
+    {
+        "text": "advised",
+        "conf": 0.96,
+        "bbox": {
+            "left": 389,
+            "top": 3182,
+            "width": 99,
+            "height": 22
+        }
+    },
+    {
+        "text": "to",
+        "conf": 0.96,
+        "bbox": {
+            "left": 497,
+            "top": 3183,
+            "width": 23,
+            "height": 21
+        }
+    },
+    {
+        "text": "contact",
+        "conf": 0.96,
+        "bbox": {
+            "left": 530,
+            "top": 3183,
+            "width": 92,
+            "height": 21
+        }
+    },
+    {
+        "text": "the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 632,
+            "top": 3182,
+            "width": 39,
+            "height": 22
+        }
+    },
+    {
+        "text": "laboratory",
+        "conf": 0.96,
+        "bbox": {
+            "left": 682,
+            "top": 3182,
+            "width": 127,
+            "height": 27
+        }
+    },
+    {
+        "text": "immediately,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 819,
+            "top": 3182,
+            "width": 160,
+            "height": 27
+        }
+    },
+    {
+        "text": "for",
+        "conf": 0.96,
+        "bbox": {
+            "left": 990,
+            "top": 3181,
+            "width": 33,
+            "height": 23
+        }
+    },
+    {
+        "text": "any",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1032,
+            "top": 3187,
+            "width": 45,
+            "height": 22
+        }
+    },
+    {
+        "text": "possible",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1087,
+            "top": 3182,
+            "width": 105,
+            "height": 27
+        }
+    },
+    {
+        "text": "remedial",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1203,
+            "top": 3182,
+            "width": 108,
+            "height": 22
+        }
+    },
+    {
+        "text": "action,",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1322,
+            "top": 3182,
+            "width": 82,
+            "height": 25
+        }
+    },
+    {
+        "text": "It",
+        "conf": 0.82,
+        "bbox": {
+            "left": 1417,
+            "top": 3181,
+            "width": 13,
+            "height": 22
+        }
+    },
+    {
+        "text": "test",
+        "conf": 0.94,
+        "bbox": {
+            "left": 1439,
+            "top": 3183,
+            "width": 46,
+            "height": 21
+        }
+    },
+    {
+        "text": "result",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1496,
+            "top": 3182,
+            "width": 68,
+            "height": 22
+        }
+    },
+    {
+        "text": "is",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1575,
+            "top": 3182,
+            "width": 19,
+            "height": 22
+        }
+    },
+    {
+        "text": "alarming",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1603,
+            "top": 3182,
+            "width": 109,
+            "height": 27
+        }
+    },
+    {
+        "text": "or",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1723,
+            "top": 3187,
+            "width": 25,
+            "height": 17
+        }
+    },
+    {
+        "text": "unexpected",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1757,
+            "top": 3182,
+            "width": 148,
+            "height": 27
+        }
+    },
+    {
+        "text": "ee",
+        "conf": 0.14,
+        "bbox": {
+            "left": 137,
+            "top": 3306,
+            "width": 2167,
+            "height": 49
+        }
+    },
+    {
+        "text": "560051",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1180,
+            "top": 3362,
+            "width": 130,
+            "height": 31
+        }
+    },
+    {
+        "text": "Page",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2128,
+            "top": 3459,
+            "width": 76,
+            "height": 32
+        }
+    },
+    {
+        "text": "1",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2216,
+            "top": 3460,
+            "width": 11,
+            "height": 24
+        }
+    },
+    {
+        "text": "Of",
+        "conf": 0.91,
+        "bbox": {
+            "left": 2243,
+            "top": 3459,
+            "width": 36,
+            "height": 26
+        }
+    },
+    {
+        "text": "1",
+        "conf": 0.91,
+        "bbox": {
+            "left": 2290,
+            "top": 3460,
+            "width": 11,
+            "height": 24
+        }
+    }
+]

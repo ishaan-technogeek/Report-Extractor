@@ -1,0 +1,1712 @@
+[
+    {
+        "text": "BD",
+        "conf": 0.45,
+        "bbox": {
+            "left": 110,
+            "top": 32,
+            "width": 185,
+            "height": 118
+        }
+    },
+    {
+        "text": "Lal",
+        "conf": 0.64,
+        "bbox": {
+            "left": 362,
+            "top": 28,
+            "width": 150,
+            "height": 128
+        }
+    },
+    {
+        "text": "Pathlabs",
+        "conf": 0.58,
+        "bbox": {
+            "left": 537,
+            "top": 50,
+            "width": 408,
+            "height": 81
+        }
+    },
+    {
+        "text": "Regd. Office: Dr Lal Path",
+        "conf": 0.61,
+        "bbox": {
+            "left": 1320,
+            "top": 194,
+            "width": 260,
+            "height": 23
+        }
+    },
+    {
+        "text": "abs",
+        "conf": 0.68,
+        "bbox": {
+            "left": 1591,
+            "top": 189,
+            "width": 25,
+            "height": 33
+        }
+    },
+    {
+        "text": "Ltd, Block-E, Sector-18, Rohini, New Dethi-1 10085",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1629,
+            "top": 195,
+            "width": 498,
+            "height": 18
+        }
+    },
+    {
+        "text": "Web: www iaipathiabs com, CIN: L74899DL",
+        "conf": 0.54,
+        "bbox": {
+            "left": 1320,
+            "top": 231,
+            "width": 455,
+            "height": 16
+        }
+    },
+    {
+        "text": "1 99SPLC065 388",
+        "conf": 0.34,
+        "bbox": {
+            "left": 1768,
+            "top": 226,
+            "width": 166,
+            "height": 30
+        }
+    },
+    {
+        "text": "Name",
+        "conf": 0.96,
+        "bbox": {
+            "left": 105,
+            "top": 320,
+            "width": 94,
+            "height": 27
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.91,
+        "bbox": {
+            "left": 352,
+            "top": 328,
+            "width": 6,
+            "height": 21
+        }
+    },
+    {
+        "text": "Mrs. SWARNA",
+        "conf": 0.92,
+        "bbox": {
+            "left": 381,
+            "top": 322,
+            "width": 242,
+            "height": 27
+        }
+    },
+    {
+        "text": "LATA",
+        "conf": 0.96,
+        "bbox": {
+            "left": 646,
+            "top": 322,
+            "width": 93,
+            "height": 26
+        }
+    },
+    {
+        "text": "Lab No.",
+        "conf": 0.95,
+        "bbox": {
+            "left": 105,
+            "top": 369,
+            "width": 127,
+            "height": 27
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.89,
+        "bbox": {
+            "left": 352,
+            "top": 377,
+            "width": 6,
+            "height": 21
+        }
+    },
+    {
+        "text": "466917439",
+        "conf": 0.96,
+        "bbox": {
+            "left": 379,
+            "top": 367,
+            "width": 178,
+            "height": 27
+        }
+    },
+    {
+        "text": "Age",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1209,
+            "top": 369,
+            "width": 66,
+            "height": 33
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.92,
+        "bbox": {
+            "left": 1493,
+            "top": 376,
+            "width": 6,
+            "height": 19
+        }
+    },
+    {
+        "text": "41 Years",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1529,
+            "top": 369,
+            "width": 145,
+            "height": 26
+        }
+    },
+    {
+        "text": "Ref By",
+        "conf": 0.95,
+        "bbox": {
+            "left": 105,
+            "top": 418,
+            "width": 110,
+            "height": 27
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.9,
+        "bbox": {
+            "left": 352,
+            "top": 427,
+            "width": 6,
+            "height": 21
+        }
+    },
+    {
+        "text": "Self",
+        "conf": 0.96,
+        "bbox": {
+            "left": 380,
+            "top": 416,
+            "width": 66,
+            "height": 27
+        }
+    },
+    {
+        "text": "Gender",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1210,
+            "top": 418,
+            "width": 125,
+            "height": 27
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.92,
+        "bbox": {
+            "left": 1493,
+            "top": 425,
+            "width": 6,
+            "height": 19
+        }
+    },
+    {
+        "text": "Female",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1531,
+            "top": 416,
+            "width": 120,
+            "height": 27
+        }
+    },
+    {
+        "text": "Collected",
+        "conf": 0.96,
+        "bbox": {
+            "left": 104,
+            "top": 463,
+            "width": 158,
+            "height": 46
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.89,
+        "bbox": {
+            "left": 352,
+            "top": 475,
+            "width": 5,
+            "height": 19
+        }
+    },
+    {
+        "text": "8/8/2024",
+        "conf": 0.87,
+        "bbox": {
+            "left": 380,
+            "top": 466,
+            "width": 138,
+            "height": 27
+        }
+    },
+    {
+        "text": "7:50:00AM",
+        "conf": 0.87,
+        "bbox": {
+            "left": 550,
+            "top": 466,
+            "width": 176,
+            "height": 27
+        }
+    },
+    {
+        "text": "Reported",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1211,
+            "top": 463,
+            "width": 153,
+            "height": 46
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.91,
+        "bbox": {
+            "left": 1493,
+            "top": 475,
+            "width": 6,
+            "height": 19
+        }
+    },
+    {
+        "text": "9/8/2024",
+        "conf": 0.92,
+        "bbox": {
+            "left": 1529,
+            "top": 463,
+            "width": 138,
+            "height": 27
+        }
+    },
+    {
+        "text": "10:06:36AM",
+        "conf": 0.9,
+        "bbox": {
+            "left": 1691,
+            "top": 463,
+            "width": 194,
+            "height": 27
+        }
+    },
+    {
+        "text": "Alc Status",
+        "conf": 0.69,
+        "bbox": {
+            "left": 103,
+            "top": 517,
+            "width": 173,
+            "height": 27
+        }
+    },
+    {
+        "text": ":P",
+        "conf": 0.85,
+        "bbox": {
+            "left": 352,
+            "top": 517,
+            "width": 50,
+            "height": 29
+        }
+    },
+    {
+        "text": "Report Status",
+        "conf": 0.66,
+        "bbox": {
+            "left": 1211,
+            "top": 517,
+            "width": 231,
+            "height": 33
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.77,
+        "bbox": {
+            "left": 1493,
+            "top": 524,
+            "width": 6,
+            "height": 19
+        }
+    },
+    {
+        "text": "Final",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1534,
+            "top": 518,
+            "width": 79,
+            "height": 27
+        }
+    },
+    {
+        "text": "Collected at}:",
+        "conf": 0.33,
+        "bbox": {
+            "left": 101,
+            "top": 572,
+            "width": 257,
+            "height": 27
+        }
+    },
+    {
+        "text": "RELEX HEALTHCARE INDIA Pvt. Ltd.",
+        "conf": 0.93,
+        "bbox": {
+            "left": 382,
+            "top": 576,
+            "width": 563,
+            "height": 23
+        }
+    },
+    {
+        "text": "Processed at",
+        "conf": 0.66,
+        "bbox": {
+            "left": 1211,
+            "top": 572,
+            "width": 221,
+            "height": 27
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.87,
+        "bbox": {
+            "left": 1493,
+            "top": 580,
+            "width": 7,
+            "height": 21
+        }
+    },
+    {
+        "text": "LPL-BENGALURU REFERENCE LAB",
+        "conf": 0.89,
+        "bbox": {
+            "left": 1542,
+            "top": 571,
+            "width": 552,
+            "height": 25
+        }
+    },
+    {
+        "text": "NO.17/1,SERVICE ROAD, THE",
+        "conf": 0.9,
+        "bbox": {
+            "left": 1541,
+            "top": 617,
+            "width": 450,
+            "height": 29
+        }
+    },
+    {
+        "text": "ADDRESS,OPP PRESTIGE CESSNA PARK,",
+        "conf": 0.91,
+        "bbox": {
+            "left": 1540,
+            "top": 663,
+            "width": 651,
+            "height": 29
+        }
+    },
+    {
+        "text": "OUTER RING ROAD ,KADUBEESANAHALLI",
+        "conf": 0.89,
+        "bbox": {
+            "left": 1541,
+            "top": 709,
+            "width": 661,
+            "height": 25
+        }
+    },
+    {
+        "text": ";BANGALORE-560103",
+        "conf": 0.31,
+        "bbox": {
+            "left": 1541,
+            "top": 755,
+            "width": 330,
+            "height": 29
+        }
+    },
+    {
+        "text": "Test Report",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1148,
+            "top": 875,
+            "width": 218,
+            "height": 30
+        }
+    },
+    {
+        "text": "Test Name",
+        "conf": 0.96,
+        "bbox": {
+            "left": 163,
+            "top": 983,
+            "width": 180,
+            "height": 27
+        }
+    },
+    {
+        "text": "Results",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1134,
+            "top": 979,
+            "width": 126,
+            "height": 42
+        }
+    },
+    {
+        "text": "Units",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1605,
+            "top": 979,
+            "width": 86,
+            "height": 42
+        }
+    },
+    {
+        "text": "Bio. Ref. Interval",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2018,
+            "top": 983,
+            "width": 278,
+            "height": 27
+        }
+    },
+    {
+        "text": "LIVER & KIDNEY PANEL, SERUM",
+        "conf": 0.92,
+        "bbox": {
+            "left": 163,
+            "top": 1060,
+            "width": 564,
+            "height": 26
+        }
+    },
+    {
+        "text": "Creatinine",
+        "conf": 0.96,
+        "bbox": {
+            "left": 171,
+            "top": 1183,
+            "width": 164,
+            "height": 43
+        }
+    },
+    {
+        "text": "0.63",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1133,
+            "top": 1185,
+            "width": 69,
+            "height": 28
+        }
+    },
+    {
+        "text": "mg/dL",
+        "conf": 0.77,
+        "bbox": {
+            "left": 1605,
+            "top": 1187,
+            "width": 98,
+            "height": 35
+        }
+    },
+    {
+        "text": "0.51",
+        "conf": 0.91,
+        "bbox": {
+            "left": 2033,
+            "top": 1188,
+            "width": 64,
+            "height": 28
+        }
+    },
+    {
+        "text": "-",
+        "conf": 0.91,
+        "bbox": {
+            "left": 2114,
+            "top": 1204,
+            "width": 10,
+            "height": 3
+        }
+    },
+    {
+        "text": "0.95",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2137,
+            "top": 1188,
+            "width": 69,
+            "height": 28
+        }
+    },
+    {
+        "text": "(Compensated Jaffes reaction, IDMS traceable)",
+        "conf": 0.91,
+        "bbox": {
+            "left": 171,
+            "top": 1237,
+            "width": 772,
+            "height": 35
+        }
+    },
+    {
+        "text": "GFR Estimated",
+        "conf": 0.96,
+        "bbox": {
+            "left": 171,
+            "top": 1294,
+            "width": 247,
+            "height": 28
+        }
+    },
+    {
+        "text": "114",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1136,
+            "top": 1292,
+            "width": 56,
+            "height": 26
+        }
+    },
+    {
+        "text": "mL/min/1.73m2",
+        "conf": 0.89,
+        "bbox": {
+            "left": 1605,
+            "top": 1294,
+            "width": 249,
+            "height": 28
+        }
+    },
+    {
+        "text": ">59",
+        "conf": 0.92,
+        "bbox": {
+            "left": 2033,
+            "top": 1294,
+            "width": 60,
+            "height": 28
+        }
+    },
+    {
+        "text": "GFR Category",
+        "conf": 0.96,
+        "bbox": {
+            "left": 171,
+            "top": 1400,
+            "width": 234,
+            "height": 28
+        }
+    },
+    {
+        "text": "G1",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1134,
+            "top": 1398,
+            "width": 41,
+            "height": 28
+        }
+    },
+    {
+        "text": "Urea",
+        "conf": 0.97,
+        "bbox": {
+            "left": 172,
+            "top": 1507,
+            "width": 75,
+            "height": 28
+        }
+    },
+    {
+        "text": "17.00",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1136,
+            "top": 1504,
+            "width": 86,
+            "height": 28
+        }
+    },
+    {
+        "text": "mg/dL",
+        "conf": 0.92,
+        "bbox": {
+            "left": 1605,
+            "top": 1507,
+            "width": 98,
+            "height": 35
+        }
+    },
+    {
+        "text": "17.00",
+        "conf": 0.92,
+        "bbox": {
+            "left": 2035,
+            "top": 1507,
+            "width": 87,
+            "height": 28
+        }
+    },
+    {
+        "text": "-",
+        "conf": 0.89,
+        "bbox": {
+            "left": 2134,
+            "top": 1523,
+            "width": 11,
+            "height": 3
+        }
+    },
+    {
+        "text": "43.00",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2156,
+            "top": 1507,
+            "width": 90,
+            "height": 28
+        }
+    },
+    {
+        "text": "(Urease UV)",
+        "conf": 0.92,
+        "bbox": {
+            "left": 171,
+            "top": 1556,
+            "width": 201,
+            "height": 35
+        }
+    },
+    {
+        "text": "Urea Nitrogen",
+        "conf": 0.95,
+        "bbox": {
+            "left": 172,
+            "top": 1614,
+            "width": 223,
+            "height": 28
+        }
+    },
+    {
+        "text": "Blood",
+        "conf": 0.96,
+        "bbox": {
+            "left": 420,
+            "top": 1614,
+            "width": 90,
+            "height": 28
+        }
+    },
+    {
+        "text": "7.94",
+        "conf": 0.94,
+        "bbox": {
+            "left": 1134,
+            "top": 1611,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "mg/dL",
+        "conf": 0.92,
+        "bbox": {
+            "left": 1605,
+            "top": 1614,
+            "width": 98,
+            "height": 35
+        }
+    },
+    {
+        "text": "6.00",
+        "conf": 0.93,
+        "bbox": {
+            "left": 2033,
+            "top": 1614,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "-",
+        "conf": 0.93,
+        "bbox": {
+            "left": 2114,
+            "top": 1630,
+            "width": 10,
+            "height": 3
+        }
+    },
+    {
+        "text": "20.00",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2137,
+            "top": 1614,
+            "width": 89,
+            "height": 28
+        }
+    },
+    {
+        "text": "BUN/Creatinine Ratio",
+        "conf": 0.92,
+        "bbox": {
+            "left": 171,
+            "top": 1720,
+            "width": 348,
+            "height": 28
+        }
+    },
+    {
+        "text": "13",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1136,
+            "top": 1717,
+            "width": 36,
+            "height": 28
+        }
+    },
+    {
+        "text": "Uric Acid",
+        "conf": 0.96,
+        "bbox": {
+            "left": 172,
+            "top": 1827,
+            "width": 142,
+            "height": 28
+        }
+    },
+    {
+        "text": "3.40",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1134,
+            "top": 1824,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "mg/dL",
+        "conf": 0.85,
+        "bbox": {
+            "left": 1605,
+            "top": 1827,
+            "width": 98,
+            "height": 35
+        }
+    },
+    {
+        "text": "2.60",
+        "conf": 0.93,
+        "bbox": {
+            "left": 2033,
+            "top": 1827,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "-",
+        "conf": 0.92,
+        "bbox": {
+            "left": 2114,
+            "top": 1843,
+            "width": 10,
+            "height": 3
+        }
+    },
+    {
+        "text": "6.00",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2137,
+            "top": 1827,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "(Uricase)",
+        "conf": 0.91,
+        "bbox": {
+            "left": 171,
+            "top": 1876,
+            "width": 146,
+            "height": 35
+        }
+    },
+    {
+        "text": "AST (SGOT)",
+        "conf": 0.96,
+        "bbox": {
+            "left": 169,
+            "top": 1933,
+            "width": 209,
+            "height": 28
+        }
+    },
+    {
+        "text": "21.0",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1133,
+            "top": 1930,
+            "width": 69,
+            "height": 28
+        }
+    },
+    {
+        "text": "U/L",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1605,
+            "top": 1933,
+            "width": 53,
+            "height": 28
+        }
+    },
+    {
+        "text": "<35",
+        "conf": 0.91,
+        "bbox": {
+            "left": 2033,
+            "top": 1934,
+            "width": 60,
+            "height": 28
+        }
+    },
+    {
+        "text": "(IFCC without P5P)",
+        "conf": 0.91,
+        "bbox": {
+            "left": 171,
+            "top": 1982,
+            "width": 313,
+            "height": 35
+        }
+    },
+    {
+        "text": "ALT (SGPT)",
+        "conf": 0.93,
+        "bbox": {
+            "left": 169,
+            "top": 2040,
+            "width": 201,
+            "height": 27
+        }
+    },
+    {
+        "text": "18.0",
+        "conf": 0.94,
+        "bbox": {
+            "left": 1136,
+            "top": 2037,
+            "width": 66,
+            "height": 28
+        }
+    },
+    {
+        "text": "U/L",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1605,
+            "top": 2040,
+            "width": 53,
+            "height": 28
+        }
+    },
+    {
+        "text": "<35",
+        "conf": 0.91,
+        "bbox": {
+            "left": 2033,
+            "top": 2040,
+            "width": 60,
+            "height": 28
+        }
+    },
+    {
+        "text": "(IFCC without P5P)",
+        "conf": 0.91,
+        "bbox": {
+            "left": 171,
+            "top": 2089,
+            "width": 313,
+            "height": 35
+        }
+    },
+    {
+        "text": "GGTP",
+        "conf": 0.92,
+        "bbox": {
+            "left": 171,
+            "top": 2146,
+            "width": 101,
+            "height": 28
+        }
+    },
+    {
+        "text": "13.0",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1136,
+            "top": 2143,
+            "width": 66,
+            "height": 28
+        }
+    },
+    {
+        "text": "U/L",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1605,
+            "top": 2146,
+            "width": 53,
+            "height": 28
+        }
+    },
+    {
+        "text": "<38",
+        "conf": 0.92,
+        "bbox": {
+            "left": 2033,
+            "top": 2147,
+            "width": 60,
+            "height": 28
+        }
+    },
+    {
+        "text": "(IFCC)",
+        "conf": 0.92,
+        "bbox": {
+            "left": 171,
+            "top": 2195,
+            "width": 107,
+            "height": 35
+        }
+    },
+    {
+        "text": "Alkaline Phosphatase (ALP)",
+        "conf": 0.96,
+        "bbox": {
+            "left": 169,
+            "top": 2253,
+            "width": 456,
+            "height": 28
+        }
+    },
+    {
+        "text": "79.00",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1134,
+            "top": 2250,
+            "width": 88,
+            "height": 28
+        }
+    },
+    {
+        "text": "U/L",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1605,
+            "top": 2253,
+            "width": 53,
+            "height": 28
+        }
+    },
+    {
+        "text": "30",
+        "conf": 0.79,
+        "bbox": {
+            "left": 2033,
+            "top": 2253,
+            "width": 38,
+            "height": 28
+        }
+    },
+    {
+        "text": "-",
+        "conf": 0.79,
+        "bbox": {
+            "left": 2083,
+            "top": 2269,
+            "width": 11,
+            "height": 3
+        }
+    },
+    {
+        "text": "120",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2109,
+            "top": 2253,
+            "width": 55,
+            "height": 28
+        }
+    },
+    {
+        "text": "(IFCC, AMP BUFFER)",
+        "conf": 0.89,
+        "bbox": {
+            "left": 171,
+            "top": 2302,
+            "width": 364,
+            "height": 35
+        }
+    },
+    {
+        "text": "Bilirubin",
+        "conf": 0.93,
+        "bbox": {
+            "left": 171,
+            "top": 2359,
+            "width": 127,
+            "height": 28
+        }
+    },
+    {
+        "text": "Total",
+        "conf": 0.94,
+        "bbox": {
+            "left": 321,
+            "top": 2359,
+            "width": 78,
+            "height": 28
+        }
+    },
+    {
+        "text": "0.63",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1133,
+            "top": 2356,
+            "width": 69,
+            "height": 28
+        }
+    },
+    {
+        "text": "mg/dL",
+        "conf": 0.9,
+        "bbox": {
+            "left": 1605,
+            "top": 2359,
+            "width": 98,
+            "height": 35
+        }
+    },
+    {
+        "text": "<1.00",
+        "conf": 0.9,
+        "bbox": {
+            "left": 2033,
+            "top": 2360,
+            "width": 90,
+            "height": 28
+        }
+    },
+    {
+        "text": "(DPD)",
+        "conf": 0.96,
+        "bbox": {
+            "left": 171,
+            "top": 2408,
+            "width": 99,
+            "height": 35
+        }
+    },
+    {
+        "text": "Bilirubin",
+        "conf": 0.95,
+        "bbox": {
+            "left": 171,
+            "top": 2466,
+            "width": 127,
+            "height": 28
+        }
+    },
+    {
+        "text": "Direct",
+        "conf": 0.95,
+        "bbox": {
+            "left": 322,
+            "top": 2466,
+            "width": 93,
+            "height": 28
+        }
+    },
+    {
+        "text": "0.11",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1133,
+            "top": 2463,
+            "width": 64,
+            "height": 28
+        }
+    },
+    {
+        "text": "mg/dL",
+        "conf": 0.92,
+        "bbox": {
+            "left": 1605,
+            "top": 2466,
+            "width": 98,
+            "height": 35
+        }
+    },
+    {
+        "text": "0.00",
+        "conf": 0.93,
+        "bbox": {
+            "left": 2033,
+            "top": 2466,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "-",
+        "conf": 0.93,
+        "bbox": {
+            "left": 2114,
+            "top": 2482,
+            "width": 10,
+            "height": 3
+        }
+    },
+    {
+        "text": "0.30",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2137,
+            "top": 2466,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "(DPD)",
+        "conf": 0.96,
+        "bbox": {
+            "left": 171,
+            "top": 2515,
+            "width": 99,
+            "height": 35
+        }
+    },
+    {
+        "text": "Bilirubin",
+        "conf": 0.9,
+        "bbox": {
+            "left": 171,
+            "top": 2572,
+            "width": 127,
+            "height": 28
+        }
+    },
+    {
+        "text": "Indirect",
+        "conf": 0.9,
+        "bbox": {
+            "left": 323,
+            "top": 2573,
+            "width": 117,
+            "height": 27
+        }
+    },
+    {
+        "text": "0.52",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1133,
+            "top": 2570,
+            "width": 69,
+            "height": 28
+        }
+    },
+    {
+        "text": "mg/dL",
+        "conf": 0.92,
+        "bbox": {
+            "left": 1605,
+            "top": 2572,
+            "width": 98,
+            "height": 35
+        }
+    },
+    {
+        "text": "<1.10",
+        "conf": 0.9,
+        "bbox": {
+            "left": 2033,
+            "top": 2573,
+            "width": 90,
+            "height": 28
+        }
+    },
+    {
+        "text": "(Calculated)",
+        "conf": 0.96,
+        "bbox": {
+            "left": 171,
+            "top": 2622,
+            "width": 195,
+            "height": 35
+        }
+    },
+    {
+        "text": "Total Protein",
+        "conf": 0.96,
+        "bbox": {
+            "left": 170,
+            "top": 2679,
+            "width": 205,
+            "height": 28
+        }
+    },
+    {
+        "text": "7.20",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1134,
+            "top": 2676,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "g/dL",
+        "conf": 0.94,
+        "bbox": {
+            "left": 1603,
+            "top": 2679,
+            "width": 70,
+            "height": 35
+        }
+    },
+    {
+        "text": "6.40",
+        "conf": 0.93,
+        "bbox": {
+            "left": 2033,
+            "top": 2679,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "-",
+        "conf": 0.93,
+        "bbox": {
+            "left": 2114,
+            "top": 2695,
+            "width": 10,
+            "height": 3
+        }
+    },
+    {
+        "text": "8.30",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2137,
+            "top": 2679,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "(Biuret)",
+        "conf": 0.92,
+        "bbox": {
+            "left": 171,
+            "top": 2728,
+            "width": 117,
+            "height": 35
+        }
+    },
+    {
+        "text": "Albumin",
+        "conf": 0.96,
+        "bbox": {
+            "left": 169,
+            "top": 2785,
+            "width": 131,
+            "height": 28
+        }
+    },
+    {
+        "text": "3.90",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1134,
+            "top": 2783,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "g/dL",
+        "conf": 0.94,
+        "bbox": {
+            "left": 1603,
+            "top": 2785,
+            "width": 70,
+            "height": 35
+        }
+    },
+    {
+        "text": "3.50",
+        "conf": 0.92,
+        "bbox": {
+            "left": 2033,
+            "top": 2786,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "-",
+        "conf": 0.92,
+        "bbox": {
+            "left": 2114,
+            "top": 2802,
+            "width": 10,
+            "height": 3
+        }
+    },
+    {
+        "text": "5.20",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2137,
+            "top": 2786,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "(BCG)",
+        "conf": 0.96,
+        "bbox": {
+            "left": 171,
+            "top": 2835,
+            "width": 101,
+            "height": 35
+        }
+    },
+    {
+        "text": "A: G Ratio",
+        "conf": 0.83,
+        "bbox": {
+            "left": 169,
+            "top": 2892,
+            "width": 178,
+            "height": 27
+        }
+    },
+    {
+        "text": "1.18",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1136,
+            "top": 2889,
+            "width": 66,
+            "height": 28
+        }
+    },
+    {
+        "text": "0.90",
+        "conf": 0.9,
+        "bbox": {
+            "left": 2033,
+            "top": 2892,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "-",
+        "conf": 0.9,
+        "bbox": {
+            "left": 2114,
+            "top": 2908,
+            "width": 10,
+            "height": 3
+        }
+    },
+    {
+        "text": "2.00",
+        "conf": 0.95,
+        "bbox": {
+            "left": 2137,
+            "top": 2892,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "(Calculated)",
+        "conf": 0.96,
+        "bbox": {
+            "left": 171,
+            "top": 2941,
+            "width": 195,
+            "height": 35
+        }
+    },
+    {
+        "text": "Globulin(Calculated)",
+        "conf": 0.91,
+        "bbox": {
+            "left": 171,
+            "top": 2995,
+            "width": 329,
+            "height": 44
+        }
+    },
+    {
+        "text": "3.30",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1134,
+            "top": 2996,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "gm/dL",
+        "conf": 0.64,
+        "bbox": {
+            "left": 1603,
+            "top": 2999,
+            "width": 100,
+            "height": 35
+        }
+    },
+    {
+        "text": "2.0-3.5",
+        "conf": 0.9,
+        "bbox": {
+            "left": 2033,
+            "top": 2999,
+            "width": 132,
+            "height": 28
+        }
+    },
+    {
+        "text": "Calcium, Total",
+        "conf": 0.96,
+        "bbox": {
+            "left": 171,
+            "top": 3105,
+            "width": 230,
+            "height": 32
+        }
+    },
+    {
+        "text": "8.70",
+        "conf": 0.94,
+        "bbox": {
+            "left": 1133,
+            "top": 3102,
+            "width": 69,
+            "height": 28
+        }
+    },
+    {
+        "text": "mg/dL",
+        "conf": 0.77,
+        "bbox": {
+            "left": 1605,
+            "top": 3105,
+            "width": 98,
+            "height": 35
+        }
+    },
+    {
+        "text": "8.60",
+        "conf": 0.93,
+        "bbox": {
+            "left": 2033,
+            "top": 3105,
+            "width": 68,
+            "height": 28
+        }
+    },
+    {
+        "text": "-",
+        "conf": 0.93,
+        "bbox": {
+            "left": 2114,
+            "top": 3121,
+            "width": 10,
+            "height": 3
+        }
+    },
+    {
+        "text": "10.30",
+        "conf": 0.95,
+        "bbox": {
+            "left": 2139,
+            "top": 3105,
+            "width": 87,
+            "height": 28
+        }
+    },
+    {
+        "text": "(Arsenazo III)",
+        "conf": 0.89,
+        "bbox": {
+            "left": 171,
+            "top": 3154,
+            "width": 217,
+            "height": 35
+        }
+    },
+    {
+        "text": "MUA",
+        "conf": 0.2,
+        "bbox": {
+            "left": 987,
+            "top": 3267,
+            "width": 161,
+            "height": 84
+        }
+    },
+    {
+        "text": "\u201c_",
+        "conf": 0.17,
+        "bbox": {
+            "left": 2052,
+            "top": 3256,
+            "width": 204,
+            "height": 35
+        }
+    },
+    {
+        "text": "If Test results",
+        "conf": 0.83,
+        "bbox": {
+            "left": 91,
+            "top": 3515,
+            "width": 231,
+            "height": 34
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.97,
+        "bbox": {
+            "left": 334,
+            "top": 3524,
+            "width": 55,
+            "height": 25
+        }
+    },
+    {
+        "text": "alarming",
+        "conf": 0.96,
+        "bbox": {
+            "left": 401,
+            "top": 3515,
+            "width": 156,
+            "height": 42
+        }
+    },
+    {
+        "text": "or",
+        "conf": 0.96,
+        "bbox": {
+            "left": 570,
+            "top": 3524,
+            "width": 36,
+            "height": 25
+        }
+    },
+    {
+        "text": "unexpected, client is advised",
+        "conf": 0.96,
+        "bbox": {
+            "left": 618,
+            "top": 3515,
+            "width": 503,
+            "height": 42
+        }
+    },
+    {
+        "text": "to contact",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1133,
+            "top": 3520,
+            "width": 179,
+            "height": 29
+        }
+    },
+    {
+        "text": "the Customer Care immediately for possible remedial action.",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1321,
+            "top": 3515,
+            "width": 1069,
+            "height": 34
+        }
+    },
+    {
+        "text": "Tel: 011-4988-5050, Fax: +91-11-2788-2134, E-mail: customer.care@lalpathlabs.com",
+        "conf": 0.73,
+        "bbox": {
+            "left": 482,
+            "top": 3567,
+            "width": 1503,
+            "height": 34
+        }
+    }
+]

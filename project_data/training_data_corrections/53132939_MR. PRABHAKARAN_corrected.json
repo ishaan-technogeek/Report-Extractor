@@ -1,0 +1,81 @@
+{
+    "patient_info": {
+        "Lab. Id": "P1238545 Hosp. UHID : Reg. Date : 17-Sep-2025 / 11:30 AM",
+        "Name": "MR. PRABHAKARAN NAIR . Collection + 17-Sep-2025 / 11:31 AM",
+        "Collected At": "Emami Frank Ross Limited Report : 17-Sep-2025 / 13:35 PM",
+        "Referral Dr se Report Status": "Final Print :",
+        "Method": "Indirect ISE",
+        "Remarks": "",
+        "Comments": "",
+        "Age": "72Y",
+        "Gender": "Male Received ! 17-Sep-2025 / 12:13 PM"
+    },
+    "lab_results": [
+        {
+            "Investigation": {
+                "value": "SODIUM",
+                "confidence": 96
+            },
+            "Observed Value": {
+                "value": "121",
+                "confidence": 96
+            },
+            "Unit": {
+                "value": "mmol/L",
+                "confidence": 96
+            },
+            "Specimen": {
+                "value": "Serum",
+                "confidence": 96
+            }
+        },
+        {
+            "Investigation": {
+                "value": "POTASSIUM",
+                "confidence": 95
+            },
+            "Observed Value": {
+                "value": "4.4",
+                "confidence": 96
+            },
+            "Unit": {
+                "value": "mmol/L",
+                "confidence": 96
+            },
+            "Specimen": {
+                "value": "Serum",
+                "confidence": 96
+            }
+        },
+        {
+            "Investigation": {
+                "value": "CHLORIDE",
+                "confidence": 96
+            },
+            "Observed Value": {
+                "value": "84",
+                "confidence": 95
+            },
+            "Unit": {
+                "value": "mmol/L",
+                "confidence": 96
+            },
+            "Specimen": {
+                "value": "Serum",
+                "confidence": 96
+            }
+        }
+    ],
+    "metadata": {
+        "extraction_method": "human_corrected",
+        "num_tests_extracted": 3,
+        "detected_columns": [
+            "Investigation",
+            "Observed Value",
+            "Unit",
+            "Biological Ref. Interval",
+            "Specimen"
+        ],
+        "original_filename": "53132939_MR. PRABHAKARAN.pdf"
+    }
+}

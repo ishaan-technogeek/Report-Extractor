@@ -1,0 +1,1662 @@
+[
+    {
+        "text": "Aster",
+        "conf": 0.92,
+        "bbox": {
+            "left": 186,
+            "top": 149,
+            "width": 441,
+            "height": 138
+        }
+    },
+    {
+        "text": "tass",
+        "conf": 0.11,
+        "bbox": {
+            "left": 668,
+            "top": 215,
+            "width": 275,
+            "height": 69
+        }
+    },
+    {
+        "text": "We'll Treat You Well",
+        "conf": 0.95,
+        "bbox": {
+            "left": 345,
+            "top": 318,
+            "width": 441,
+            "height": 41
+        }
+    },
+    {
+        "text": "TEST REPORT",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1090,
+            "top": 437,
+            "width": 349,
+            "height": 39
+        }
+    },
+    {
+        "text": "Lab. Id",
+        "conf": 0.95,
+        "bbox": {
+            "left": 174,
+            "top": 518,
+            "width": 103,
+            "height": 26
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.92,
+        "bbox": {
+            "left": 442,
+            "top": 525,
+            "width": 6,
+            "height": 18
+        }
+    },
+    {
+        "text": "P1238545",
+        "conf": 0.9,
+        "bbox": {
+            "left": 475,
+            "top": 518,
+            "width": 149,
+            "height": 26
+        }
+    },
+    {
+        "text": "Hosp. UHID",
+        "conf": 0.91,
+        "bbox": {
+            "left": 829,
+            "top": 518,
+            "width": 181,
+            "height": 33
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.51,
+        "bbox": {
+            "left": 1093,
+            "top": 528,
+            "width": 4,
+            "height": 22
+        }
+    },
+    {
+        "text": "Reg. Date",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1617,
+            "top": 512,
+            "width": 151,
+            "height": 33
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.87,
+        "bbox": {
+            "left": 1850,
+            "top": 525,
+            "width": 6,
+            "height": 18
+        }
+    },
+    {
+        "text": "17-Sep-2025 /",
+        "conf": 0.91,
+        "bbox": {
+            "left": 1873,
+            "top": 518,
+            "width": 208,
+            "height": 32
+        }
+    },
+    {
+        "text": "11:30 AM",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2112,
+            "top": 519,
+            "width": 119,
+            "height": 25
+        }
+    },
+    {
+        "text": "Name",
+        "conf": 0.96,
+        "bbox": {
+            "left": 170,
+            "top": 567,
+            "width": 88,
+            "height": 26
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.9,
+        "bbox": {
+            "left": 443,
+            "top": 577,
+            "width": 5,
+            "height": 22
+        }
+    },
+    {
+        "text": "MR. PRABHAKARAN NAIR .",
+        "conf": 0.72,
+        "bbox": {
+            "left": 476,
+            "top": 571,
+            "width": 428,
+            "height": 25
+        }
+    },
+    {
+        "text": "Collection",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1618,
+            "top": 567,
+            "width": 158,
+            "height": 42
+        }
+    },
+    {
+        "text": "+ 17-Sep-2025",
+        "conf": 0.21,
+        "bbox": {
+            "left": 1851,
+            "top": 577,
+            "width": 316,
+            "height": 22
+        }
+    },
+    {
+        "text": "/ 11:31 AM",
+        "conf": 0.86,
+        "bbox": {
+            "left": 2072,
+            "top": 571,
+            "width": 159,
+            "height": 41
+        }
+    },
+    {
+        "text": "Age/Gender",
+        "conf": 0.92,
+        "bbox": {
+            "left": 169,
+            "top": 618,
+            "width": 187,
+            "height": 33
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.8,
+        "bbox": {
+            "left": 443,
+            "top": 628,
+            "width": 5,
+            "height": 22
+        }
+    },
+    {
+        "text": "72Y /Male",
+        "conf": 0.83,
+        "bbox": {
+            "left": 475,
+            "top": 622,
+            "width": 157,
+            "height": 25
+        }
+    },
+    {
+        "text": "Received",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1620,
+            "top": 618,
+            "width": 142,
+            "height": 26
+        }
+    },
+    {
+        "text": "!",
+        "conf": 0.18,
+        "bbox": {
+            "left": 1849,
+            "top": 628,
+            "width": 5,
+            "height": 22
+        }
+    },
+    {
+        "text": "17-Sep-2025",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1871,
+            "top": 622,
+            "width": 208,
+            "height": 32
+        }
+    },
+    {
+        "text": "/",
+        "conf": 0.92,
+        "bbox": {
+            "left": 2067,
+            "top": 616,
+            "width": 15,
+            "height": 43
+        }
+    },
+    {
+        "text": "12:13 PM",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2092,
+            "top": 623,
+            "width": 137,
+            "height": 25
+        }
+    },
+    {
+        "text": "Collected At",
+        "conf": 0.96,
+        "bbox": {
+            "left": 169,
+            "top": 669,
+            "width": 192,
+            "height": 26
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.9,
+        "bbox": {
+            "left": 443,
+            "top": 679,
+            "width": 5,
+            "height": 22
+        }
+    },
+    {
+        "text": "Emami Frank Ross Limited",
+        "conf": 0.96,
+        "bbox": {
+            "left": 477,
+            "top": 673,
+            "width": 395,
+            "height": 26
+        }
+    },
+    {
+        "text": "Report",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1619,
+            "top": 665,
+            "width": 104,
+            "height": 48
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.56,
+        "bbox": {
+            "left": 1851,
+            "top": 679,
+            "width": 5,
+            "height": 22
+        }
+    },
+    {
+        "text": "17-Sep-2025",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1871,
+            "top": 673,
+            "width": 208,
+            "height": 33
+        }
+    },
+    {
+        "text": "/",
+        "conf": 0.91,
+        "bbox": {
+            "left": 2065,
+            "top": 664,
+            "width": 16,
+            "height": 46
+        }
+    },
+    {
+        "text": "13:35 PM",
+        "conf": 0.95,
+        "bbox": {
+            "left": 2092,
+            "top": 674,
+            "width": 137,
+            "height": 25
+        }
+    },
+    {
+        "text": "Referral Dr",
+        "conf": 0.96,
+        "bbox": {
+            "left": 170,
+            "top": 727,
+            "width": 170,
+            "height": 26
+        }
+    },
+    {
+        "text": "se",
+        "conf": 0.06,
+        "bbox": {
+            "left": 443,
+            "top": 730,
+            "width": 41,
+            "height": 22
+        }
+    },
+    {
+        "text": "Report Status : Final",
+        "conf": 0.92,
+        "bbox": {
+            "left": 957,
+            "top": 720,
+            "width": 316,
+            "height": 33
+        }
+    },
+    {
+        "text": "Print",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1619,
+            "top": 716,
+            "width": 72,
+            "height": 40
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.82,
+        "bbox": {
+            "left": 1851,
+            "top": 730,
+            "width": 5,
+            "height": 22
+        }
+    },
+    {
+        "text": "Bed",
+        "conf": 0.96,
+        "bbox": {
+            "left": 172,
+            "top": 791,
+            "width": 59,
+            "height": 26
+        }
+    },
+    {
+        "text": "Biochemistry",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1128,
+            "top": 967,
+            "width": 312,
+            "height": 48
+        }
+    },
+    {
+        "text": "Investigation",
+        "conf": 0.95,
+        "bbox": {
+            "left": 195,
+            "top": 1041,
+            "width": 227,
+            "height": 36
+        }
+    },
+    {
+        "text": "Observed Value",
+        "conf": 0.96,
+        "bbox": {
+            "left": 738,
+            "top": 1041,
+            "width": 281,
+            "height": 29
+        }
+    },
+    {
+        "text": "Unit",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1201,
+            "top": 1037,
+            "width": 70,
+            "height": 45
+        }
+    },
+    {
+        "text": "Biological Ref. Interval",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1502,
+            "top": 1041,
+            "width": 399,
+            "height": 36
+        }
+    },
+    {
+        "text": "Specimen",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2099,
+            "top": 1041,
+            "width": 173,
+            "height": 37
+        }
+    },
+    {
+        "text": "ELECTROLYTES",
+        "conf": 0.96,
+        "bbox": {
+            "left": 173,
+            "top": 1129,
+            "width": 329,
+            "height": 32
+        }
+    },
+    {
+        "text": "SODIUM",
+        "conf": 0.96,
+        "bbox": {
+            "left": 179,
+            "top": 1203,
+            "width": 147,
+            "height": 29
+        }
+    },
+    {
+        "text": "121",
+        "conf": 0.96,
+        "bbox": {
+            "left": 743,
+            "top": 1204,
+            "width": 54,
+            "height": 27
+        }
+    },
+    {
+        "text": "mmol/L",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1209,
+            "top": 1199,
+            "width": 120,
+            "height": 45
+        }
+    },
+    {
+        "text": "136-145",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1503,
+            "top": 1204,
+            "width": 133,
+            "height": 28
+        }
+    },
+    {
+        "text": "Serum",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2099,
+            "top": 1203,
+            "width": 106,
+            "height": 29
+        }
+    },
+    {
+        "text": "Method: Indirect ISE",
+        "conf": 0.03,
+        "bbox": {
+            "left": 179,
+            "top": 1247,
+            "width": 217,
+            "height": 34
+        }
+    },
+    {
+        "text": "POTASSIUM",
+        "conf": 0.95,
+        "bbox": {
+            "left": 180,
+            "top": 1319,
+            "width": 219,
+            "height": 29
+        }
+    },
+    {
+        "text": "4.4",
+        "conf": 0.96,
+        "bbox": {
+            "left": 742,
+            "top": 1320,
+            "width": 50,
+            "height": 27
+        }
+    },
+    {
+        "text": "mmol/L",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1209,
+            "top": 1315,
+            "width": 120,
+            "height": 45
+        }
+    },
+    {
+        "text": "3.5-5.1",
+        "conf": 0.75,
+        "bbox": {
+            "left": 1501,
+            "top": 1320,
+            "width": 108,
+            "height": 28
+        }
+    },
+    {
+        "text": "Serum",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2099,
+            "top": 1319,
+            "width": 106,
+            "height": 29
+        }
+    },
+    {
+        "text": "Method: Indirect ISE",
+        "conf": 0.03,
+        "bbox": {
+            "left": 179,
+            "top": 1362,
+            "width": 217,
+            "height": 34
+        }
+    },
+    {
+        "text": "CHLORIDE",
+        "conf": 0.96,
+        "bbox": {
+            "left": 179,
+            "top": 1430,
+            "width": 194,
+            "height": 45
+        }
+    },
+    {
+        "text": "84",
+        "conf": 0.95,
+        "bbox": {
+            "left": 741,
+            "top": 1435,
+            "width": 41,
+            "height": 28
+        }
+    },
+    {
+        "text": "mmol/L",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1209,
+            "top": 1430,
+            "width": 120,
+            "height": 45
+        }
+    },
+    {
+        "text": "98-107",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1500,
+            "top": 1434,
+            "width": 115,
+            "height": 29
+        }
+    },
+    {
+        "text": "Serum",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2099,
+            "top": 1434,
+            "width": 106,
+            "height": 29
+        }
+    },
+    {
+        "text": "Method: Indirect ISE",
+        "conf": 0.31,
+        "bbox": {
+            "left": 179,
+            "top": 1477,
+            "width": 217,
+            "height": 33
+        }
+    },
+    {
+        "text": "Remarks:",
+        "conf": 0.96,
+        "bbox": {
+            "left": 173,
+            "top": 1566,
+            "width": 165,
+            "height": 29
+        }
+    },
+    {
+        "text": "The value should be read in conjunction with the clinical history, diet, supplements, medications, and other relevant parameters.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 171,
+            "top": 1607,
+            "width": 2108,
+            "height": 29
+        }
+    },
+    {
+        "text": "Comments:",
+        "conf": 0.96,
+        "bbox": {
+            "left": 179,
+            "top": 1715,
+            "width": 167,
+            "height": 26
+        }
+    },
+    {
+        "text": "Electrolytes",
+        "conf": 0.96,
+        "bbox": {
+            "left": 180,
+            "top": 1755,
+            "width": 170,
+            "height": 31
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.96,
+        "bbox": {
+            "left": 360,
+            "top": 1761,
+            "width": 47,
+            "height": 19
+        }
+    },
+    {
+        "text": "minerals that",
+        "conf": 0.96,
+        "bbox": {
+            "left": 418,
+            "top": 1755,
+            "width": 188,
+            "height": 25
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.96,
+        "bbox": {
+            "left": 616,
+            "top": 1761,
+            "width": 47,
+            "height": 19
+        }
+    },
+    {
+        "text": "found in body tissues and blood in the form of dissolved salts. Electrolyte levels",
+        "conf": 0.96,
+        "bbox": {
+            "left": 673,
+            "top": 1754,
+            "width": 1161,
+            "height": 26
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1844,
+            "top": 1761,
+            "width": 47,
+            "height": 19
+        }
+    },
+    {
+        "text": "affected by diet, kidney",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1901,
+            "top": 1754,
+            "width": 338,
+            "height": 26
+        }
+    },
+    {
+        "text": "status, body hydration, physical exercise, some hormones such as aldosterone (which conserves sodium and promotes the elimination of",
+        "conf": 0.95,
+        "bbox": {
+            "left": 179,
+            "top": 1795,
+            "width": 2013,
+            "height": 26
+        }
+    },
+    {
+        "text": "potassium) and natriuretic peptides (which increase elimination of sodium by the kidneys), diseased states such",
+        "conf": 0.96,
+        "bbox": {
+            "left": 180,
+            "top": 1830,
+            "width": 1635,
+            "height": 31
+        }
+    },
+    {
+        "text": "as",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1826,
+            "top": 1836,
+            "width": 34,
+            "height": 19
+        }
+    },
+    {
+        "text": "diabetes, chronic kidney and",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1870,
+            "top": 1830,
+            "width": 419,
+            "height": 28
+        }
+    },
+    {
+        "text": "lung disorders etc.",
+        "conf": 0.93,
+        "bbox": {
+            "left": 180,
+            "top": 1868,
+            "width": 267,
+            "height": 31
+        }
+    },
+    {
+        "text": "Sodium\u2014most of the body's sodium is found in the fluid outside of the body's cells, where it helps to regulate the amount of water in the body.",
+        "conf": 0.87,
+        "bbox": {
+            "left": 179,
+            "top": 1946,
+            "width": 2056,
+            "height": 26
+        }
+    },
+    {
+        "text": "Potassium-this electrolyte is found mainly inside the body's cells. A small but vital amount of potassium is found in the plasma, the liquid portion",
+        "conf": 0.52,
+        "bbox": {
+            "left": 180,
+            "top": 2025,
+            "width": 2108,
+            "height": 26
+        }
+    },
+    {
+        "text": "of the blood. Potassium plays",
+        "conf": 0.96,
+        "bbox": {
+            "left": 179,
+            "top": 2062,
+            "width": 432,
+            "height": 26
+        }
+    },
+    {
+        "text": "an",
+        "conf": 0.96,
+        "bbox": {
+            "left": 621,
+            "top": 2069,
+            "width": 35,
+            "height": 19
+        }
+    },
+    {
+        "text": "important role in regulating muscle contraction. Monitoring potassium is important",
+        "conf": 0.93,
+        "bbox": {
+            "left": 668,
+            "top": 2063,
+            "width": 1193,
+            "height": 31
+        }
+    },
+    {
+        "text": "as",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1871,
+            "top": 2069,
+            "width": 33,
+            "height": 19
+        }
+    },
+    {
+        "text": "small changes in the",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1915,
+            "top": 2063,
+            "width": 301,
+            "height": 25
+        }
+    },
+    {
+        "text": "potassium level",
+        "conf": 0.96,
+        "bbox": {
+            "left": 180,
+            "top": 2101,
+            "width": 226,
+            "height": 31
+        }
+    },
+    {
+        "text": "can",
+        "conf": 0.96,
+        "bbox": {
+            "left": 417,
+            "top": 2107,
+            "width": 51,
+            "height": 19
+        }
+    },
+    {
+        "text": "affect the heart's rhythm and ability to contract.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 480,
+            "top": 2100,
+            "width": 683,
+            "height": 26
+        }
+    },
+    {
+        "text": "Chloride-this electrolyte",
+        "conf": 0.64,
+        "bbox": {
+            "left": 179,
+            "top": 2179,
+            "width": 355,
+            "height": 26
+        }
+    },
+    {
+        "text": "moves",
+        "conf": 0.96,
+        "bbox": {
+            "left": 546,
+            "top": 2186,
+            "width": 95,
+            "height": 19
+        }
+    },
+    {
+        "text": "in and out of the cells to help maintain electrical neutrality (concentrations of positively charged cations and",
+        "conf": 0.95,
+        "bbox": {
+            "left": 652,
+            "top": 2180,
+            "width": 1565,
+            "height": 24
+        }
+    },
+    {
+        "text": "negatively charged anions must be equal) and its level usually mirrors that of sodium. Due to its close association with sodium, chloride also",
+        "conf": 0.95,
+        "bbox": {
+            "left": 180,
+            "top": 2217,
+            "width": 2048,
+            "height": 31
+        }
+    },
+    {
+        "text": "helps to regulate the distribution of water in the body.",
+        "conf": 0.94,
+        "bbox": {
+            "left": 180,
+            "top": 2255,
+            "width": 773,
+            "height": 31
+        }
+    },
+    {
+        "text": "aAly",
+        "conf": 0.0,
+        "bbox": {
+            "left": 2079,
+            "top": 2420,
+            "width": 119,
+            "height": 30
+        }
+    },
+    {
+        "text": "Verified By:222626",
+        "conf": 0.92,
+        "bbox": {
+            "left": 179,
+            "top": 2468,
+            "width": 331,
+            "height": 29
+        }
+    },
+    {
+        "text": "Jem",
+        "conf": 0.43,
+        "bbox": {
+            "left": 1972,
+            "top": 2433,
+            "width": 79,
+            "height": 47
+        }
+    },
+    {
+        "text": "\u00a9",
+        "conf": 0.0,
+        "bbox": {
+            "left": 2100,
+            "top": 2462,
+            "width": 22,
+            "height": 9
+        }
+    },
+    {
+        "text": "Verified Date",
+        "conf": 0.92,
+        "bbox": {
+            "left": 171,
+            "top": 2523,
+            "width": 227,
+            "height": 29
+        }
+    },
+    {
+        "text": ":",
+        "conf": 0.86,
+        "bbox": {
+            "left": 413,
+            "top": 2531,
+            "width": 6,
+            "height": 20
+        }
+    },
+    {
+        "text": "17-Sep-2025 /13:35",
+        "conf": 0.92,
+        "bbox": {
+            "left": 437,
+            "top": 2523,
+            "width": 326,
+            "height": 37
+        }
+    },
+    {
+        "text": "Dr. Ashwin Kumar AS",
+        "conf": 0.77,
+        "bbox": {
+            "left": 1896,
+            "top": 2519,
+            "width": 394,
+            "height": 28
+        }
+    },
+    {
+        "text": "MBBS, MD",
+        "conf": 0.96,
+        "bbox": {
+            "left": 2115,
+            "top": 2560,
+            "width": 166,
+            "height": 31
+        }
+    },
+    {
+        "text": "Consultant Biochemist",
+        "conf": 0.92,
+        "bbox": {
+            "left": 1930,
+            "top": 2598,
+            "width": 360,
+            "height": 26
+        }
+    },
+    {
+        "text": "---",
+        "conf": 0.88,
+        "bbox": {
+            "left": 1047,
+            "top": 2673,
+            "width": 40,
+            "height": 7
+        }
+    },
+    {
+        "text": "End Of Report",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1102,
+            "top": 2657,
+            "width": 279,
+            "height": 32
+        }
+    },
+    {
+        "text": "---",
+        "conf": 0.91,
+        "bbox": {
+            "left": 1394,
+            "top": 2673,
+            "width": 40,
+            "height": 7
+        }
+    },
+    {
+        "text": "Important Instructions:",
+        "conf": 0.94,
+        "bbox": {
+            "left": 1060,
+            "top": 2719,
+            "width": 361,
+            "height": 33
+        }
+    },
+    {
+        "text": "*Test results released pertain to specimen submitted.",
+        "conf": 0.88,
+        "bbox": {
+            "left": 179,
+            "top": 2772,
+            "width": 682,
+            "height": 23
+        }
+    },
+    {
+        "text": "*All results",
+        "conf": 0.84,
+        "bbox": {
+            "left": 179,
+            "top": 2805,
+            "width": 135,
+            "height": 22
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.96,
+        "bbox": {
+            "left": 323,
+            "top": 2811,
+            "width": 41,
+            "height": 17
+        }
+    },
+    {
+        "text": "dependent",
+        "conf": 0.96,
+        "bbox": {
+            "left": 373,
+            "top": 2806,
+            "width": 137,
+            "height": 27
+        }
+    },
+    {
+        "text": "upon",
+        "conf": 0.95,
+        "bbox": {
+            "left": 520,
+            "top": 2811,
+            "width": 62,
+            "height": 22
+        }
+    },
+    {
+        "text": "the quality of specimen received in the laboratory.",
+        "conf": 0.95,
+        "bbox": {
+            "left": 592,
+            "top": 2806,
+            "width": 638,
+            "height": 22
+        }
+    },
+    {
+        "text": "*Lab investigation is only",
+        "conf": 0.62,
+        "bbox": {
+            "left": 179,
+            "top": 2839,
+            "width": 318,
+            "height": 22
+        }
+    },
+    {
+        "text": "a",
+        "conf": 0.96,
+        "bbox": {
+            "left": 506,
+            "top": 2844,
+            "width": 15,
+            "height": 17
+        }
+    },
+    {
+        "text": "tool to faciilitate in concluding",
+        "conf": 0.9,
+        "bbox": {
+            "left": 530,
+            "top": 2839,
+            "width": 377,
+            "height": 22
+        }
+    },
+    {
+        "text": "a",
+        "conf": 0.96,
+        "bbox": {
+            "left": 917,
+            "top": 2844,
+            "width": 15,
+            "height": 17
+        }
+    },
+    {
+        "text": "diagnosis",
+        "conf": 0.93,
+        "bbox": {
+            "left": 941,
+            "top": 2839,
+            "width": 122,
+            "height": 28
+        }
+    },
+    {
+        "text": ",",
+        "conf": 0.9,
+        "bbox": {
+            "left": 1074,
+            "top": 2857,
+            "width": 4,
+            "height": 6
+        }
+    },
+    {
+        "text": "and should be clinically correlated by the referring physician.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1089,
+            "top": 2839,
+            "width": 775,
+            "height": 22
+        }
+    },
+    {
+        "text": "*Certain tests",
+        "conf": 0.91,
+        "bbox": {
+            "left": 179,
+            "top": 2870,
+            "width": 172,
+            "height": 23
+        }
+    },
+    {
+        "text": "may",
+        "conf": 0.96,
+        "bbox": {
+            "left": 362,
+            "top": 2876,
+            "width": 52,
+            "height": 23
+        }
+    },
+    {
+        "text": "require further testing, at",
+        "conf": 0.94,
+        "bbox": {
+            "left": 425,
+            "top": 2871,
+            "width": 314,
+            "height": 27
+        }
+    },
+    {
+        "text": "an",
+        "conf": 0.94,
+        "bbox": {
+            "left": 749,
+            "top": 2876,
+            "width": 30,
+            "height": 17
+        }
+    },
+    {
+        "text": "additional cost for derivation of excact value. kindly submit request with in 2 days, post reporting.",
+        "conf": 0.92,
+        "bbox": {
+            "left": 790,
+            "top": 2871,
+            "width": 1238,
+            "height": 22
+        }
+    },
+    {
+        "text": "*Sample repeats",
+        "conf": 0.73,
+        "bbox": {
+            "left": 179,
+            "top": 2903,
+            "width": 213,
+            "height": 28
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.96,
+        "bbox": {
+            "left": 401,
+            "top": 2909,
+            "width": 41,
+            "height": 17
+        }
+    },
+    {
+        "text": "accepted",
+        "conf": 0.96,
+        "bbox": {
+            "left": 451,
+            "top": 2904,
+            "width": 116,
+            "height": 27
+        }
+    },
+    {
+        "text": "on request",
+        "conf": 0.96,
+        "bbox": {
+            "left": 578,
+            "top": 2909,
+            "width": 136,
+            "height": 17
+        }
+    },
+    {
+        "text": "of Referring Physician with in sample stability period.",
+        "conf": 0.95,
+        "bbox": {
+            "left": 723,
+            "top": 2903,
+            "width": 677,
+            "height": 23
+        }
+    },
+    {
+        "text": "Test results",
+        "conf": 0.2,
+        "bbox": {
+            "left": 179,
+            "top": 2935,
+            "width": 159,
+            "height": 23
+        }
+    },
+    {
+        "text": "may",
+        "conf": 0.96,
+        "bbox": {
+            "left": 349,
+            "top": 2941,
+            "width": 52,
+            "height": 23
+        }
+    },
+    {
+        "text": "show inter-laboratory variation.",
+        "conf": 0.9,
+        "bbox": {
+            "left": 411,
+            "top": 2936,
+            "width": 395,
+            "height": 22
+        }
+    },
+    {
+        "text": "*Results",
+        "conf": 0.73,
+        "bbox": {
+            "left": 179,
+            "top": 2968,
+            "width": 106,
+            "height": 23
+        }
+    },
+    {
+        "text": "are",
+        "conf": 0.96,
+        "bbox": {
+            "left": 294,
+            "top": 2974,
+            "width": 41,
+            "height": 17
+        }
+    },
+    {
+        "text": "for informational",
+        "conf": 0.79,
+        "bbox": {
+            "left": 345,
+            "top": 2968,
+            "width": 206,
+            "height": 23
+        }
+    },
+    {
+        "text": "purposes",
+        "conf": 0.93,
+        "bbox": {
+            "left": 562,
+            "top": 2974,
+            "width": 118,
+            "height": 22
+        }
+    },
+    {
+        "text": ",",
+        "conf": 0.93,
+        "bbox": {
+            "left": 691,
+            "top": 2987,
+            "width": 3,
+            "height": 7
+        }
+    },
+    {
+        "text": "and not intended to replace the",
+        "conf": 0.96,
+        "bbox": {
+            "left": 705,
+            "top": 2969,
+            "width": 400,
+            "height": 22
+        }
+    },
+    {
+        "text": "care",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1115,
+            "top": 2974,
+            "width": 55,
+            "height": 17
+        }
+    },
+    {
+        "text": "of medical practitionar, and does not recommend self-diagnosis",
+        "conf": 0.93,
+        "bbox": {
+            "left": 1180,
+            "top": 2968,
+            "width": 815,
+            "height": 23
+        }
+    },
+    {
+        "text": "and/or self-medication.",
+        "conf": 0.95,
+        "bbox": {
+            "left": 187,
+            "top": 3002,
+            "width": 292,
+            "height": 22
+        }
+    },
+    {
+        "text": "*Aster clinical Lab LLP does not make",
+        "conf": 0.71,
+        "bbox": {
+            "left": 179,
+            "top": 3033,
+            "width": 488,
+            "height": 23
+        }
+    },
+    {
+        "text": "any",
+        "conf": 0.96,
+        "bbox": {
+            "left": 676,
+            "top": 3039,
+            "width": 46,
+            "height": 23
+        }
+    },
+    {
+        "text": "warranties expressed",
+        "conf": 0.96,
+        "bbox": {
+            "left": 731,
+            "top": 3034,
+            "width": 275,
+            "height": 22
+        }
+    },
+    {
+        "text": "or",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1016,
+            "top": 3039,
+            "width": 25,
+            "height": 17
+        }
+    },
+    {
+        "text": "implied with respect to information herein.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1051,
+            "top": 3034,
+            "width": 533,
+            "height": 27
+        }
+    },
+    {
+        "text": "*.Test results",
+        "conf": 0.79,
+        "bbox": {
+            "left": 179,
+            "top": 3066,
+            "width": 167,
+            "height": 23
+        }
+    },
+    {
+        "text": "are not",
+        "conf": 0.96,
+        "bbox": {
+            "left": 356,
+            "top": 3072,
+            "width": 89,
+            "height": 17
+        }
+    },
+    {
+        "text": "valid for medico legal",
+        "conf": 0.92,
+        "bbox": {
+            "left": 455,
+            "top": 3067,
+            "width": 271,
+            "height": 22
+        }
+    },
+    {
+        "text": "purposes.",
+        "conf": 0.96,
+        "bbox": {
+            "left": 737,
+            "top": 3072,
+            "width": 124,
+            "height": 22
+        }
+    },
+    {
+        "text": "*The courts/forum at Cochin/Bangolore shall have exclusive Jurisdiction in all disputes/claims concerning the request and/or result of test(s).",
+        "conf": 0.91,
+        "bbox": {
+            "left": 179,
+            "top": 3099,
+            "width": 1799,
+            "height": 23
+        }
+    },
+    {
+        "text": "*Contact customer",
+        "conf": 0.85,
+        "bbox": {
+            "left": 179,
+            "top": 3131,
+            "width": 237,
+            "height": 23
+        }
+    },
+    {
+        "text": "care",
+        "conf": 0.96,
+        "bbox": {
+            "left": 425,
+            "top": 3137,
+            "width": 55,
+            "height": 17
+        }
+    },
+    {
+        "text": "9680396803 for all queries related to test results",
+        "conf": 0.96,
+        "bbox": {
+            "left": 490,
+            "top": 3132,
+            "width": 622,
+            "height": 22
+        }
+    },
+    {
+        "text": "Patient/Client is advised to contact the laboratory immediately, for",
+        "conf": 0.92,
+        "bbox": {
+            "left": 180,
+            "top": 3181,
+            "width": 843,
+            "height": 23
+        }
+    },
+    {
+        "text": "any",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1032,
+            "top": 3187,
+            "width": 45,
+            "height": 22
+        }
+    },
+    {
+        "text": "possible remedial action, It test result is alarming",
+        "conf": 0.82,
+        "bbox": {
+            "left": 1087,
+            "top": 3182,
+            "width": 625,
+            "height": 27
+        }
+    },
+    {
+        "text": "or",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1723,
+            "top": 3187,
+            "width": 25,
+            "height": 17
+        }
+    },
+    {
+        "text": "unexpected",
+        "conf": 0.95,
+        "bbox": {
+            "left": 1757,
+            "top": 3182,
+            "width": 148,
+            "height": 27
+        }
+    },
+    {
+        "text": "ee",
+        "conf": 0.14,
+        "bbox": {
+            "left": 137,
+            "top": 3306,
+            "width": 2167,
+            "height": 49
+        }
+    },
+    {
+        "text": "560051",
+        "conf": 0.96,
+        "bbox": {
+            "left": 1180,
+            "top": 3362,
+            "width": 130,
+            "height": 31
+        }
+    },
+    {
+        "text": "Page 1 Of 1",
+        "conf": 0.91,
+        "bbox": {
+            "left": 2128,
+            "top": 3459,
+            "width": 173,
+            "height": 32
+        }
+    }
+]

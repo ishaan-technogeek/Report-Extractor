@@ -1,0 +1,115 @@
+{
+    "patient_info": {
+        "Name_": "Mrs RATHNA GABRIAL Gender .: Female LabID_ .: 50636000175",
+        "Age’": "79 Years Mob. No. : Pt. ID",
+        "B2B =": "EMAMI FRANK ROSS LIMITED Ref.By . Pt. Loc",
+        "Reg Date and Time =. 03-Jun-2025 08": "37 Report Date and Time: 03-Jun-2025 11:41 Ref Id1",
+        "Sample Received at": "KA-Kasturinagar Ref Id2",
+        "HEXOKINASE/G-6-PDH 100 125 mg/dl": "",
+        ">/= 126 mg/dl": "Diabetes.",
+        "Plasma Fluoride F Coll. Time": "03-Jun-2025 08:45"
+    },
+    "lab_results": [
+        {
+            "TEST": {
+                "value": "Plasma Glucose F",
+                "confidence": 93
+            },
+            "RESULTS": {
+                "value": "102",
+                "confidence": 96
+            },
+            "UNIT": {
+                "value": "mg/dL",
+                "confidence": 92
+            },
+            "BIOLOGICAL REF RANGE REMARKS": {
+                "value": "</= 100 mg/dl: Normal",
+                "confidence": 93
+            }
+        },
+        {
+            "TEST": {
+                "value": "Potassium",
+                "confidence": 96
+            },
+            "RESULTS": {
+                "value": "4.57",
+                "confidence": 96
+            },
+            "UNIT": {
+                "value": "mEq/L",
+                "confidence": 92
+            },
+            "BIOLOGICAL REF RANGE REMARKS": {
+                "value": "3.5 5.1",
+                "confidence": 71
+            }
+        },
+        {
+            "TEST": {
+                "value": "HbA1C",
+                "confidence": 90
+            },
+            "RESULTS": {
+                "value": "7.1",
+                "confidence": 93
+            },
+            "UNIT": {
+                "value": "%",
+                "confidence": 100
+            },
+            "BIOLOGICAL REF RANGE REMARKS": {
+                "value": "</= 5.6% NORMAL",
+                "confidence": 59
+            }
+        },
+        {
+            "TEST": {
+                "value": "Estimated Avg Glucose",
+                "confidence": 96
+            },
+            "RESULTS": {
+                "value": "157.07",
+                "confidence": 96
+            },
+            "UNIT": {
+                "value": "mg/dL",
+                "confidence": 90
+            },
+            "BIOLOGICAL REF RANGE REMARKS": {
+                "value": "Not available",
+                "confidence": 95
+            }
+        },
+        {
+            "TEST": {
+                "value": "TSH",
+                "confidence": 96
+            },
+            "RESULTS": {
+                "value": "5.25",
+                "confidence": 96
+            },
+            "UNIT": {
+                "value": "yIU/mL",
+                "confidence": 32
+            },
+            "BIOLOGICAL REF RANGE REMARKS": {
+                "value": "0.5 8.9",
+                "confidence": 86
+            }
+        }
+    ],
+    "metadata": {
+        "extraction_method": "human_corrected",
+        "num_tests_extracted": 5,
+        "detected_columns": [
+            "TEST",
+            "RESULTS",
+            "UNIT",
+            "BIOLOGICAL REF RANGE REMARKS"
+        ],
+        "original_filename": "82226685_Report_50636000175_RATHNA GABRIAL.pdf"
+    }
+}

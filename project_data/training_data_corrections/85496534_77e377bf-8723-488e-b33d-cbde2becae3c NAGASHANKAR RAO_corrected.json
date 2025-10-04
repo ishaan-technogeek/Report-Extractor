@@ -1,0 +1,537 @@
+{
+    "patient_info": {
+        "Regd. Office": "Dr Lal Path abs Ltd, Block-E, Sector-18, Rohini, New Dethi-1 10085",
+        "Web": "www iaipathiabs com, CIN: L74899DL 1 99S5PLC065 388",
+        "Name": "Mr. K NAGASHANKAR RAO",
+        "Lab No.": "466878783 Age : 63 Years",
+        "Ref By": "Self Gender : Male",
+        "Collected 1/8/2024 8": "45:00AM Reported 1/8/2024 8:14:03PM",
+        "Alc Status": "P Report Status Final",
+        "Collected at": "RELEX HEALTHCARE INDIA Pvt. Ltd. Processed at LPL-BENGALURU REFERENCE LAB"
+    },
+    "lab_results": [
+        {
+            "Test Name": {
+                "value": "Creatinine",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "1.39",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 61
+            }
+        },
+        {
+            "Test Name": {
+                "value": "GFR Estimated",
+                "confidence": 95
+            },
+            "Results": {
+                "value": "57",
+                "confidence": 95
+            },
+            "Units": {
+                "value": "mL/min/1.73m2",
+                "confidence": 90
+            }
+        },
+        {
+            "Test Name": {
+                "value": "GFR Category",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "G3a",
+                "confidence": 90
+            },
+            "Units": {
+                "value": "",
+                "confidence": 100
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Urea",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "49.00",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 93
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Urea Nitrogen Blood",
+                "confidence": 95
+            },
+            "Results": {
+                "value": "22.88",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 61
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Uric Acid",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "4.90",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 93
+            }
+        },
+        {
+            "Test Name": {
+                "value": "AST (SGOT)",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "21.0",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "U/L",
+                "confidence": 93
+            }
+        },
+        {
+            "Test Name": {
+                "value": "(IFCC without P5P)",
+                "confidence": 91
+            },
+            "Results": {
+                "value": "",
+                "confidence": 100
+            },
+            "Units": {
+                "value": "",
+                "confidence": 100
+            }
+        },
+        {
+            "Test Name": {
+                "value": "ALT (SGPT)",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "18.0",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "U/L",
+                "confidence": 93
+            }
+        },
+        {
+            "Test Name": {
+                "value": "(IFCC without P5P)",
+                "confidence": 91
+            },
+            "Results": {
+                "value": "",
+                "confidence": 100
+            },
+            "Units": {
+                "value": "",
+                "confidence": 100
+            }
+        },
+        {
+            "Test Name": {
+                "value": "GGTP",
+                "confidence": 91
+            },
+            "Results": {
+                "value": "119.0",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "U/L",
+                "confidence": 93
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Alkaline Phosphatase (ALP)",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "121.00",
+                "confidence": 95
+            },
+            "Units": {
+                "value": "U/L",
+                "confidence": 93
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Bilirubin Total",
+                "confidence": 93
+            },
+            "Results": {
+                "value": "0.42",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 93
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Bilirubin Direct",
+                "confidence": 95
+            },
+            "Results": {
+                "value": "0.09",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 61
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Bilirubin Indirect",
+                "confidence": 84
+            },
+            "Results": {
+                "value": "0.33",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 93
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Total Protein",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "7.80",
+                "confidence": 95
+            },
+            "Units": {
+                "value": "g/dL",
+                "confidence": 90
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Albumin",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "4.10",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "g/dL",
+                "confidence": 90
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Globulin(Calculated)",
+                "confidence": 91
+            },
+            "Results": {
+                "value": "3.70",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "gm/dL",
+                "confidence": 58
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Calcium, Total",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "9.50",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 93
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Phosphorus",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "4.40",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 93
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Sodium",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "135.30",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mEq/L",
+                "confidence": 84
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Potassium",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "4.16",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mEq/L",
+                "confidence": 35
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Chloride",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "96.00",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mEq/L",
+                "confidence": 84
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Cholesterol, Total",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "181.00",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 77
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Triglycerides",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "179.00",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 90
+            }
+        },
+        {
+            "Test Name": {
+                "value": "HDL Cholesterol",
+                "confidence": 94
+            },
+            "Results": {
+                "value": "51.00",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 92
+            }
+        },
+        {
+            "Test Name": {
+                "value": "LDL Cholesterol, Calculated",
+                "confidence": 95
+            },
+            "Results": {
+                "value": "94.20",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 92
+            }
+        },
+        {
+            "Test Name": {
+                "value": "VLDL Cholesterol,Calculated",
+                "confidence": 91
+            },
+            "Results": {
+                "value": "35.80",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 77
+            }
+        },
+        {
+            "Test Name": {
+                "value": "Non-HDL Cholesterol",
+                "confidence": 92
+            },
+            "Results": {
+                "value": "130",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "mg/dL",
+                "confidence": 87
+            }
+        },
+        {
+            "Test Name": {
+                "value": "1. Measurements in the",
+                "confidence": 94
+            },
+            "Results": {
+                "value": "physiological &",
+                "confidence": 93
+            },
+            "Units": {
+                "value": "variations. Three",
+                "confidence": 96
+            }
+        },
+        {
+            "Test Name": {
+                "value": "samples 1 week apart",
+                "confidence": 96
+            },
+            "Results": {
+                "value": "Total Cholesterol,",
+                "confidence": 96
+            },
+            "Units": {
+                "value": "HDL& LDL",
+                "confidence": 92
+            }
+        },
+        {
+            "Test Name": {
+                "value": "2. Additional testing for",
+                "confidence": 89
+            },
+            "Results": {
+                "value": "Lp(a ) & LP-PLA2",
+                "confidence": 91
+            },
+            "Units": {
+                "value": "be considered",
+                "confidence": 95
+            }
+        },
+        {
+            "Test Name": {
+                "value": "| Extreme | <50",
+                "confidence": 87
+            },
+            "Results": {
+                "value": "<8 |",
+                "confidence": 89
+            },
+            "Units": {
+                "value": "|",
+                "confidence": 86
+            }
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "metadata": {
+        "extraction_method": "human_corrected",
+        "num_tests_extracted": 87,
+        "detected_columns": [
+            "Test Name",
+            "Results",
+            "Units",
+            "Bio. Ref. Interval"
+        ],
+        "original_filename": "85496534_77e377bf-8723-488e-b33d-cbde2becae3c NAGASHANKAR RAO.pdf"
+    }
+}

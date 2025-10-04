@@ -1,0 +1,23 @@
+{
+    "patient_info": {
+        "Regd. Office": "Dr Lal Path abs Ltd, Block-E, Sector-18, Rohini, New Dethi-1 10085",
+        "Web": "www iaipathiabs com, CIN: L74899DL 1 99S5PLC065 388",
+        "Name": "Mr. K NAGASHANKAR RAO",
+        "Lab No.": "466878783 Age : 63 Years",
+        "Ref By": "Self Gender : Male",
+        "Collected 1/8/2024 8": "45:00AM Reported 1/8/2024 8:14:03PM",
+        "Alc Status": "P Report Status Final",
+        "Collected at": "RELEX HEALTHCARE INDIA Pvt. Ltd. Processed at LPL-BENGALURU REFERENCE LAB"
+    },
+    "lab_results": [],
+    "metadata": {
+        "extraction_method": "dynamic_rule_based_v6",
+        "num_tests_extracted": 0,
+        "detected_columns": [
+            "Test Name",
+            "Results",
+            "Units",
+            "Bio. Ref. Interval"
+        ]
+    }
+}

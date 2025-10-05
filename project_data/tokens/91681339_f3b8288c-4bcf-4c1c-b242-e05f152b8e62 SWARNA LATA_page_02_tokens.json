@@ -1,0 +1,1674 @@
+[
+    {
+        "text": "BD,",
+        "conf": 53.0,
+        "bbox": {
+            "left": 110,
+            "top": 32,
+            "width": 221,
+            "height": 118
+        },
+        "page": 2
+    },
+    {
+        "text": "Lal",
+        "conf": 60.0,
+        "bbox": {
+            "left": 345,
+            "top": 50,
+            "width": 170,
+            "height": 80
+        },
+        "page": 2
+    },
+    {
+        "text": "Pathlats",
+        "conf": 48.0,
+        "bbox": {
+            "left": 537,
+            "top": 50,
+            "width": 408,
+            "height": 81
+        },
+        "page": 2
+    },
+    {
+        "text": "Regd.",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1320,
+            "top": 194,
+            "width": 61,
+            "height": 23
+        },
+        "page": 2
+    },
+    {
+        "text": "Office:",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1389,
+            "top": 193,
+            "width": 73,
+            "height": 19
+        },
+        "page": 2
+    },
+    {
+        "text": "Dr",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1471,
+            "top": 194,
+            "width": 22,
+            "height": 17
+        },
+        "page": 2
+    },
+    {
+        "text": "Lat",
+        "conf": 63.0,
+        "bbox": {
+            "left": 1501,
+            "top": 195,
+            "width": 26,
+            "height": 16
+        },
+        "page": 2
+    },
+    {
+        "text": "Path",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1538,
+            "top": 194,
+            "width": 42,
+            "height": 18
+        },
+        "page": 2
+    },
+    {
+        "text": "abs",
+        "conf": 62.0,
+        "bbox": {
+            "left": 1588,
+            "top": 188,
+            "width": 28,
+            "height": 33
+        },
+        "page": 2
+    },
+    {
+        "text": "Ltd,",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1629,
+            "top": 195,
+            "width": 35,
+            "height": 18
+        },
+        "page": 2
+    },
+    {
+        "text": "Block-E,",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1673,
+            "top": 194,
+            "width": 76,
+            "height": 19
+        },
+        "page": 2
+    },
+    {
+        "text": "Sector-18,",
+        "conf": 52.0,
+        "bbox": {
+            "left": 1759,
+            "top": 194,
+            "width": 96,
+            "height": 18
+        },
+        "page": 2
+    },
+    {
+        "text": "Rohini,",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1865,
+            "top": 194,
+            "width": 65,
+            "height": 19
+        },
+        "page": 2
+    },
+    {
+        "text": "New",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1940,
+            "top": 194,
+            "width": 46,
+            "height": 17
+        },
+        "page": 2
+    },
+    {
+        "text": "Dethi-1",
+        "conf": 87.0,
+        "bbox": {
+            "left": 1993,
+            "top": 194,
+            "width": 67,
+            "height": 17
+        },
+        "page": 2
+    },
+    {
+        "text": "10085",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2068,
+            "top": 194,
+            "width": 59,
+            "height": 18
+        },
+        "page": 2
+    },
+    {
+        "text": "Web:",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1320,
+            "top": 231,
+            "width": 56,
+            "height": 16
+        },
+        "page": 2
+    },
+    {
+        "text": "www",
+        "conf": 85.0,
+        "bbox": {
+            "left": 1384,
+            "top": 235,
+            "width": 56,
+            "height": 11
+        },
+        "page": 2
+    },
+    {
+        "text": "iaipathiabs",
+        "conf": 68.0,
+        "bbox": {
+            "left": 1446,
+            "top": 231,
+            "width": 104,
+            "height": 21
+        },
+        "page": 2
+    },
+    {
+        "text": "com,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1558,
+            "top": 234,
+            "width": 46,
+            "height": 15
+        },
+        "page": 2
+    },
+    {
+        "text": "CIN:",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1613,
+            "top": 230,
+            "width": 46,
+            "height": 17
+        },
+        "page": 2
+    },
+    {
+        "text": "L748990L",
+        "conf": 40.0,
+        "bbox": {
+            "left": 1667,
+            "top": 231,
+            "width": 108,
+            "height": 16
+        },
+        "page": 2
+    },
+    {
+        "text": "1",
+        "conf": 40.0,
+        "bbox": {
+            "left": 1768,
+            "top": 226,
+            "width": 8,
+            "height": 30
+        },
+        "page": 2
+    },
+    {
+        "text": "99S5PLC065",
+        "conf": 22.0,
+        "bbox": {
+            "left": 1781,
+            "top": 230,
+            "width": 150,
+            "height": 17
+        },
+        "page": 2
+    },
+    {
+        "text": "388",
+        "conf": 22.0,
+        "bbox": {
+            "left": 1896,
+            "top": 226,
+            "width": 38,
+            "height": 30
+        },
+        "page": 2
+    },
+    {
+        "text": "Name",
+        "conf": 95.0,
+        "bbox": {
+            "left": 105,
+            "top": 320,
+            "width": 94,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": ":",
+        "conf": 91.0,
+        "bbox": {
+            "left": 352,
+            "top": 328,
+            "width": 6,
+            "height": 21
+        },
+        "page": 2
+    },
+    {
+        "text": "Mrs.",
+        "conf": 92.0,
+        "bbox": {
+            "left": 381,
+            "top": 322,
+            "width": 70,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "SWARNA",
+        "conf": 91.0,
+        "bbox": {
+            "left": 464,
+            "top": 322,
+            "width": 159,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "LATA",
+        "conf": 96.0,
+        "bbox": {
+            "left": 646,
+            "top": 322,
+            "width": 93,
+            "height": 26
+        },
+        "page": 2
+    },
+    {
+        "text": "Lab",
+        "conf": 96.0,
+        "bbox": {
+            "left": 105,
+            "top": 369,
+            "width": 60,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "No.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 178,
+            "top": 369,
+            "width": 54,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": ":",
+        "conf": 89.0,
+        "bbox": {
+            "left": 352,
+            "top": 377,
+            "width": 6,
+            "height": 21
+        },
+        "page": 2
+    },
+    {
+        "text": "466917439",
+        "conf": 96.0,
+        "bbox": {
+            "left": 379,
+            "top": 367,
+            "width": 178,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "Age",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1209,
+            "top": 369,
+            "width": 66,
+            "height": 33
+        },
+        "page": 2
+    },
+    {
+        "text": ":",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1493,
+            "top": 376,
+            "width": 6,
+            "height": 19
+        },
+        "page": 2
+    },
+    {
+        "text": "41",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1529,
+            "top": 369,
+            "width": 34,
+            "height": 26
+        },
+        "page": 2
+    },
+    {
+        "text": "Years",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1579,
+            "top": 369,
+            "width": 95,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "Ref",
+        "conf": 96.0,
+        "bbox": {
+            "left": 105,
+            "top": 418,
+            "width": 56,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "By",
+        "conf": 96.0,
+        "bbox": {
+            "left": 172,
+            "top": 418,
+            "width": 43,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": ":",
+        "conf": 91.0,
+        "bbox": {
+            "left": 352,
+            "top": 427,
+            "width": 6,
+            "height": 21
+        },
+        "page": 2
+    },
+    {
+        "text": "Self",
+        "conf": 96.0,
+        "bbox": {
+            "left": 380,
+            "top": 416,
+            "width": 66,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "Gender",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1210,
+            "top": 418,
+            "width": 125,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1493,
+            "top": 425,
+            "width": 6,
+            "height": 19
+        },
+        "page": 2
+    },
+    {
+        "text": "Female",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1531,
+            "top": 416,
+            "width": 120,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "Collected",
+        "conf": 95.0,
+        "bbox": {
+            "left": 104,
+            "top": 462,
+            "width": 158,
+            "height": 44
+        },
+        "page": 2
+    },
+    {
+        "text": ":",
+        "conf": 91.0,
+        "bbox": {
+            "left": 352,
+            "top": 475,
+            "width": 5,
+            "height": 19
+        },
+        "page": 2
+    },
+    {
+        "text": "8/8/2024",
+        "conf": 91.0,
+        "bbox": {
+            "left": 380,
+            "top": 466,
+            "width": 138,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "7:50:00AM",
+        "conf": 89.0,
+        "bbox": {
+            "left": 550,
+            "top": 466,
+            "width": 176,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "Reported",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1211,
+            "top": 459,
+            "width": 153,
+            "height": 46
+        },
+        "page": 2
+    },
+    {
+        "text": ":",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1493,
+            "top": 475,
+            "width": 6,
+            "height": 19
+        },
+        "page": 2
+    },
+    {
+        "text": "9/8/2024",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1529,
+            "top": 463,
+            "width": 138,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "10:06:36AM",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1691,
+            "top": 463,
+            "width": 194,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "A/c",
+        "conf": 71.0,
+        "bbox": {
+            "left": 103,
+            "top": 517,
+            "width": 54,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "Status",
+        "conf": 96.0,
+        "bbox": {
+            "left": 169,
+            "top": 517,
+            "width": 107,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": ":P",
+        "conf": 83.0,
+        "bbox": {
+            "left": 352,
+            "top": 517,
+            "width": 50,
+            "height": 29
+        },
+        "page": 2
+    },
+    {
+        "text": "Report",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1211,
+            "top": 517,
+            "width": 113,
+            "height": 33
+        },
+        "page": 2
+    },
+    {
+        "text": "Status",
+        "conf": 69.0,
+        "bbox": {
+            "left": 1336,
+            "top": 517,
+            "width": 106,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": ":",
+        "conf": 79.0,
+        "bbox": {
+            "left": 1493,
+            "top": 524,
+            "width": 6,
+            "height": 19
+        },
+        "page": 2
+    },
+    {
+        "text": "Final",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1534,
+            "top": 518,
+            "width": 79,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "Collected",
+        "conf": 95.0,
+        "bbox": {
+            "left": 101,
+            "top": 572,
+            "width": 158,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "at",
+        "conf": 64.0,
+        "bbox": {
+            "left": 272,
+            "top": 573,
+            "width": 31,
+            "height": 26
+        },
+        "page": 2
+    },
+    {
+        "text": "|}:",
+        "conf": 30.0,
+        "bbox": {
+            "left": 351,
+            "top": 577,
+            "width": 7,
+            "height": 21
+        },
+        "page": 2
+    },
+    {
+        "text": "RELEX",
+        "conf": 91.0,
+        "bbox": {
+            "left": 382,
+            "top": 576,
+            "width": 104,
+            "height": 23
+        },
+        "page": 2
+    },
+    {
+        "text": "HEALTHCARE",
+        "conf": 95.0,
+        "bbox": {
+            "left": 497,
+            "top": 575,
+            "width": 217,
+            "height": 25
+        },
+        "page": 2
+    },
+    {
+        "text": "INDIA",
+        "conf": 96.0,
+        "bbox": {
+            "left": 726,
+            "top": 576,
+            "width": 85,
+            "height": 23
+        },
+        "page": 2
+    },
+    {
+        "text": "Pvt.",
+        "conf": 87.0,
+        "bbox": {
+            "left": 822,
+            "top": 576,
+            "width": 55,
+            "height": 24
+        },
+        "page": 2
+    },
+    {
+        "text": "Ltd.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 890,
+            "top": 576,
+            "width": 55,
+            "height": 24
+        },
+        "page": 2
+    },
+    {
+        "text": "Processed",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1211,
+            "top": 572,
+            "width": 177,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "at",
+        "conf": 77.0,
+        "bbox": {
+            "left": 1401,
+            "top": 573,
+            "width": 31,
+            "height": 26
+        },
+        "page": 2
+    },
+    {
+        "text": ":",
+        "conf": 54.0,
+        "bbox": {
+            "left": 1494,
+            "top": 580,
+            "width": 6,
+            "height": 21
+        },
+        "page": 2
+    },
+    {
+        "text": "LPL-BENGALURU",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1542,
+            "top": 571,
+            "width": 270,
+            "height": 25
+        },
+        "page": 2
+    },
+    {
+        "text": "REFERENCE",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1825,
+            "top": 571,
+            "width": 195,
+            "height": 25
+        },
+        "page": 2
+    },
+    {
+        "text": "LAB",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2032,
+            "top": 572,
+            "width": 62,
+            "height": 23
+        },
+        "page": 2
+    },
+    {
+        "text": "NO.17/1,SERVICE",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1542,
+            "top": 617,
+            "width": 264,
+            "height": 29
+        },
+        "page": 2
+    },
+    {
+        "text": "ROAD,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1818,
+            "top": 617,
+            "width": 99,
+            "height": 29
+        },
+        "page": 2
+    },
+    {
+        "text": "THE",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1929,
+            "top": 618,
+            "width": 62,
+            "height": 23
+        },
+        "page": 2
+    },
+    {
+        "text": "ADDRESS,OPP",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1540,
+            "top": 663,
+            "width": 231,
+            "height": 29
+        },
+        "page": 2
+    },
+    {
+        "text": "PRESTIGE",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1783,
+            "top": 663,
+            "width": 158,
+            "height": 25
+        },
+        "page": 2
+    },
+    {
+        "text": "CESSNA",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1953,
+            "top": 663,
+            "width": 131,
+            "height": 25
+        },
+        "page": 2
+    },
+    {
+        "text": "PARK,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2095,
+            "top": 664,
+            "width": 96,
+            "height": 28
+        },
+        "page": 2
+    },
+    {
+        "text": "OUTER",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1541,
+            "top": 709,
+            "width": 110,
+            "height": 25
+        },
+        "page": 2
+    },
+    {
+        "text": "RING",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1662,
+            "top": 709,
+            "width": 77,
+            "height": 25
+        },
+        "page": 2
+    },
+    {
+        "text": "ROAD",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1751,
+            "top": 709,
+            "width": 91,
+            "height": 25
+        },
+        "page": 2
+    },
+    {
+        "text": ",KADUBEESANAHALLI",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1854,
+            "top": 709,
+            "width": 348,
+            "height": 29
+        },
+        "page": 2
+    },
+    {
+        "text": ":;BANGALORE-560103",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1541,
+            "top": 755,
+            "width": 330,
+            "height": 29
+        },
+        "page": 2
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1148,
+            "top": 875,
+            "width": 80,
+            "height": 30
+        },
+        "page": 2
+    },
+    {
+        "text": "Report",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1242,
+            "top": 875,
+            "width": 124,
+            "height": 37
+        },
+        "page": 2
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 163,
+            "top": 983,
+            "width": 73,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "Name",
+        "conf": 96.0,
+        "bbox": {
+            "left": 249,
+            "top": 983,
+            "width": 94,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "Results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1134,
+            "top": 979,
+            "width": 126,
+            "height": 42
+        },
+        "page": 2
+    },
+    {
+        "text": "Units",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1605,
+            "top": 979,
+            "width": 86,
+            "height": 41
+        },
+        "page": 2
+    },
+    {
+        "text": "Bio.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2018,
+            "top": 983,
+            "width": 63,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "Ref.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2096,
+            "top": 983,
+            "width": 63,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "Interval",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2173,
+            "top": 983,
+            "width": 123,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "Phosphorus",
+        "conf": 96.0,
+        "bbox": {
+            "left": 171,
+            "top": 1027,
+            "width": 193,
+            "height": 43
+        },
+        "page": 2
+    },
+    {
+        "text": "4.26",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1132,
+            "top": 1029,
+            "width": 70,
+            "height": 28
+        },
+        "page": 2
+    },
+    {
+        "text": "mg/dL",
+        "conf": 80.0,
+        "bbox": {
+            "left": 1605,
+            "top": 1031,
+            "width": 98,
+            "height": 35
+        },
+        "page": 2
+    },
+    {
+        "text": "2.40",
+        "conf": 92.0,
+        "bbox": {
+            "left": 2033,
+            "top": 1032,
+            "width": 68,
+            "height": 28
+        },
+        "page": 2
+    },
+    {
+        "text": "-",
+        "conf": 91.0,
+        "bbox": {
+            "left": 2114,
+            "top": 1048,
+            "width": 10,
+            "height": 3
+        },
+        "page": 2
+    },
+    {
+        "text": "4.40",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2136,
+            "top": 1032,
+            "width": 69,
+            "height": 28
+        },
+        "page": 2
+    },
+    {
+        "text": "(Molybdate",
+        "conf": 96.0,
+        "bbox": {
+            "left": 171,
+            "top": 1081,
+            "width": 178,
+            "height": 35
+        },
+        "page": 2
+    },
+    {
+        "text": "UV)",
+        "conf": 96.0,
+        "bbox": {
+            "left": 364,
+            "top": 1081,
+            "width": 59,
+            "height": 35
+        },
+        "page": 2
+    },
+    {
+        "text": "Sodium",
+        "conf": 96.0,
+        "bbox": {
+            "left": 171,
+            "top": 1138,
+            "width": 121,
+            "height": 28
+        },
+        "page": 2
+    },
+    {
+        "text": "134.90",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1135,
+            "top": 1137,
+            "width": 105,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "mEq/L",
+        "conf": 84.0,
+        "bbox": {
+            "left": 1605,
+            "top": 1138,
+            "width": 102,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "136.00",
+        "conf": 93.0,
+        "bbox": {
+            "left": 2035,
+            "top": 1138,
+            "width": 107,
+            "height": 28
+        },
+        "page": 2
+    },
+    {
+        "text": "-",
+        "conf": 93.0,
+        "bbox": {
+            "left": 2155,
+            "top": 1154,
+            "width": 10,
+            "height": 3
+        },
+        "page": 2
+    },
+    {
+        "text": "146.00",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2180,
+            "top": 1138,
+            "width": 107,
+            "height": 28
+        },
+        "page": 2
+    },
+    {
+        "text": "(ISE)",
+        "conf": 91.0,
+        "bbox": {
+            "left": 171,
+            "top": 1187,
+            "width": 81,
+            "height": 35
+        },
+        "page": 2
+    },
+    {
+        "text": "Potassium",
+        "conf": 96.0,
+        "bbox": {
+            "left": 171,
+            "top": 1245,
+            "width": 168,
+            "height": 28
+        },
+        "page": 2
+    },
+    {
+        "text": "\u00a7.75",
+        "conf": 85.0,
+        "bbox": {
+            "left": 1134,
+            "top": 1244,
+            "width": 67,
+            "height": 27
+        },
+        "page": 2
+    },
+    {
+        "text": "mEq/L",
+        "conf": 63.0,
+        "bbox": {
+            "left": 1605,
+            "top": 1245,
+            "width": 102,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "3.50",
+        "conf": 92.0,
+        "bbox": {
+            "left": 2033,
+            "top": 1245,
+            "width": 68,
+            "height": 28
+        },
+        "page": 2
+    },
+    {
+        "text": "-",
+        "conf": 92.0,
+        "bbox": {
+            "left": 2114,
+            "top": 1261,
+            "width": 10,
+            "height": 3
+        },
+        "page": 2
+    },
+    {
+        "text": "5.10",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2137,
+            "top": 1245,
+            "width": 68,
+            "height": 28
+        },
+        "page": 2
+    },
+    {
+        "text": "(ISE)",
+        "conf": 91.0,
+        "bbox": {
+            "left": 171,
+            "top": 1294,
+            "width": 81,
+            "height": 35
+        },
+        "page": 2
+    },
+    {
+        "text": "Chloride",
+        "conf": 96.0,
+        "bbox": {
+            "left": 171,
+            "top": 1343,
+            "width": 134,
+            "height": 42
+        },
+        "page": 2
+    },
+    {
+        "text": "104.00",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1136,
+            "top": 1348,
+            "width": 107,
+            "height": 28
+        },
+        "page": 2
+    },
+    {
+        "text": "mEq/L",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1605,
+            "top": 1351,
+            "width": 102,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "101.00",
+        "conf": 93.0,
+        "bbox": {
+            "left": 2035,
+            "top": 1352,
+            "width": 107,
+            "height": 28
+        },
+        "page": 2
+    },
+    {
+        "text": "-",
+        "conf": 93.0,
+        "bbox": {
+            "left": 2155,
+            "top": 1368,
+            "width": 10,
+            "height": 3
+        },
+        "page": 2
+    },
+    {
+        "text": "109.00",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2180,
+            "top": 1352,
+            "width": 107,
+            "height": 28
+        },
+        "page": 2
+    },
+    {
+        "text": "(ISE)",
+        "conf": 91.0,
+        "bbox": {
+            "left": 171,
+            "top": 1400,
+            "width": 81,
+            "height": 35
+        },
+        "page": 2
+    },
+    {
+        "text": "M0",
+        "conf": 15.0,
+        "bbox": {
+            "left": 987,
+            "top": 3267,
+            "width": 178,
+            "height": 84
+        },
+        "page": 2
+    },
+    {
+        "text": "_",
+        "conf": 15.0,
+        "bbox": {
+            "left": 2052,
+            "top": 3256,
+            "width": 204,
+            "height": 35
+        },
+        "page": 2
+    },
+    {
+        "text": "If",
+        "conf": 65.0,
+        "bbox": {
+            "left": 91,
+            "top": 3515,
+            "width": 25,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 123,
+            "top": 3515,
+            "width": 72,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 207,
+            "top": 3515,
+            "width": 115,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "are",
+        "conf": 96.0,
+        "bbox": {
+            "left": 334,
+            "top": 3524,
+            "width": 55,
+            "height": 25
+        },
+        "page": 2
+    },
+    {
+        "text": "alarming",
+        "conf": 96.0,
+        "bbox": {
+            "left": 401,
+            "top": 3515,
+            "width": 156,
+            "height": 42
+        },
+        "page": 2
+    },
+    {
+        "text": "or",
+        "conf": 96.0,
+        "bbox": {
+            "left": 570,
+            "top": 3524,
+            "width": 36,
+            "height": 25
+        },
+        "page": 2
+    },
+    {
+        "text": "unexpected,",
+        "conf": 94.0,
+        "bbox": {
+            "left": 618,
+            "top": 3515,
+            "width": 213,
+            "height": 42
+        },
+        "page": 2
+    },
+    {
+        "text": "client",
+        "conf": 94.0,
+        "bbox": {
+            "left": 839,
+            "top": 3515,
+            "width": 100,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "is",
+        "conf": 96.0,
+        "bbox": {
+            "left": 950,
+            "top": 3515,
+            "width": 26,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "advised",
+        "conf": 96.0,
+        "bbox": {
+            "left": 988,
+            "top": 3515,
+            "width": 133,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "to",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1133,
+            "top": 3520,
+            "width": 36,
+            "height": 29
+        },
+        "page": 2
+    },
+    {
+        "text": "contact",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1182,
+            "top": 3520,
+            "width": 130,
+            "height": 29
+        },
+        "page": 2
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1321,
+            "top": 3515,
+            "width": 58,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "Customer",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1392,
+            "top": 3515,
+            "width": 167,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "Care",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1571,
+            "top": 3515,
+            "width": 76,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "immediately",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1661,
+            "top": 3515,
+            "width": 218,
+            "height": 42
+        },
+        "page": 2
+    },
+    {
+        "text": "for",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1888,
+            "top": 3515,
+            "width": 50,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "possible",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1950,
+            "top": 3515,
+            "width": 144,
+            "height": 42
+        },
+        "page": 2
+    },
+    {
+        "text": "remedial",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2108,
+            "top": 3515,
+            "width": 154,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "action.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2273,
+            "top": 3515,
+            "width": 117,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "Tel:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 482,
+            "top": 3567,
+            "width": 61,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "011-4988-505S0,",
+        "conf": 61.0,
+        "bbox": {
+            "left": 552,
+            "top": 3567,
+            "width": 288,
+            "height": 39
+        },
+        "page": 2
+    },
+    {
+        "text": "Fax:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 847,
+            "top": 3567,
+            "width": 76,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "+91-11-2788-2134,",
+        "conf": 91.0,
+        "bbox": {
+            "left": 933,
+            "top": 3567,
+            "width": 344,
+            "height": 39
+        },
+        "page": 2
+    },
+    {
+        "text": "E-mail:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1284,
+            "top": 3567,
+            "width": 125,
+            "height": 34
+        },
+        "page": 2
+    },
+    {
+        "text": "customer.care@lalpathlabs.com",
+        "conf": 79.0,
+        "bbox": {
+            "left": 1419,
+            "top": 3567,
+            "width": 566,
+            "height": 42
+        },
+        "page": 2
+    }
+]

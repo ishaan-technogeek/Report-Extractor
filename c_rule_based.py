@@ -1,277 +1,9 @@
-# Imports & Initialisation
+# Define directories (update as needed)
+TOKEN_DIR = "project_data/tokens"
+CLEANED_DIR = "project_data/cleaned_images"
+EXTRACTED_REPORTS_DIR = "project_data/extracted_reports"
 
-# ! pip install -qq PyMuPDF opencv-python numpy pandas Pillow pytesseract spacy scikit-learn
-# ! pip install -qq fastapi uvicorn python-multipart
-
-import os
-import json
-import re
-import cv2
-import numpy as np
-import pandas as pd
-from PIL import Image
-from io import BytesIO
-
-# Third-party libraries
-import fitz # PyMuPDF for PDF handling
-import pytesseract
-import spacy
-from spacy.tokens import DocBin
-from sklearn.metrics import classification_report
-
-
-# DATA_DIR, INPUT_DIR, CLEANED_DIR, TOKEN_DIR, EXTRACTED_REPORTS_DIR, CORRECTIONS_DIR, DUMMY_PDF_PATH = (None,) * 7
-
-DATA_DIR = 'project_data'
-
-# Define subdirectories for inputs, outputs, and training data
-INPUT_DIR = os.path.join(DATA_DIR, 'raw_input')
-CLEANED_DIR = os.path.join(DATA_DIR, 'processed_images')
-TOKEN_DIR = os.path.join(DATA_DIR, 'tokens')
-EXTRACTED_REPORTS_DIR = os.path.join(DATA_DIR, 'extracted_reports')
-CORRECTIONS_DIR = os.path.join(DATA_DIR, 'training_data_corrections')
-PENDING_REPORTS_DIR = os.path.join(DATA_DIR, 'pending_reports')
-# Create directories if they do not exist
-for d in [INPUT_DIR, CLEANED_DIR, TOKEN_DIR, EXTRACTED_REPORTS_DIR, CORRECTIONS_DIR, PENDING_REPORTS_DIR]:
-    os.makedirs(d, exist_ok=True)
-
-
-try:
-    pytesseract.pytesseract.tesseract_cmd = 'tesseract' 
-except:
-    print("WARNING: Tesseract command not found. Please set the path correctly.")
-
-
-# 3. Create a dummy input file for testing 
-# DUMMY_PDF_PATH = os.path.join(INPUT_DIR, '17756177_50641000301.pdf')
-DUMMY_PDF_PATH = os.path.join(INPUT_DIR, '32187653_MRS. SATHYAVATHY.pdf')
-if not os.path.exists(DUMMY_PDF_PATH):
-    print(f"Placeholder: Create a dummy PDF at {DUMMY_PDF_PATH} for testing.")
-    # In a real scenario, you would manually place a report PDF here.
-    # For now, we will assume one exists for the code structure demonstration.
-    
-print("Setup complete. Directories created and paths defined.")
-
-
-# Module 1: File Input & Preprocessing 
-
-def deskew_image(image_cv: np.ndarray) -> tuple[np.ndarray, float]:
-    """Applies a simple skew correction using image moments."""
-    if len(image_cv.shape) == 3:
-        gray = cv2.cvtColor(image_cv, cv2.COLOR_BGR2GRAY)
-    else:
-        gray = image_cv
-
-    # Simple binary mask for contour finding
-    _, binary = cv2.threshold(gray, 150, 255, cv2.THRESH_BINARY_INV | cv2.THRESH_OTSU)
-    coords = np.column_stack(np.where(binary > 0))
-    
-    if coords.size == 0:
-        return image_cv, 0
-        
-    rect = cv2.minAreaRect(coords)
-    angle = rect[-1]
-
-    if angle < -45:
-        angle = -(90 + angle)
-    else:
-        angle = -angle
-
-    (h, w) = image_cv.shape[:2]
-    center = (w // 2, h // 2)
-    M = cv2.getRotationMatrix2D(center, angle, 1.0)
-    rotated = cv2.warpAffine(image_cv, M, (w, h),
-        flags=cv2.INTER_CUBIC, borderMode=cv2.BORDER_REPLICATE)
-
-    return rotated, angle
-
-def preprocess_image(img_cv: np.ndarray) -> np.ndarray:
-    """Applies deskewing, grayscale conversion, and OTSU thresholding."""
-    if img_cv is None:
-        return None
-
-    # 1. Deskew
-    deskewed_img = img_cv
-    # deskewed_img, angle = deskew_image(img_cv)
-    
-    # 2. Convert to Grayscale
-    if len(deskewed_img.shape) == 3:
-        gray_img = cv2.cvtColor(deskewed_img, cv2.COLOR_BGR2GRAY)
-    else:
-        gray_img = deskewed_img
-
-    # 3. Denoise and Threshold (OTSU) for optimal OCR quality
-    blurred = cv2.GaussianBlur(gray_img, (5, 5), 0)
-    _, final_clean_img = cv2.threshold(blurred, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
-    
-    return final_clean_img
-
-def convert_pdf_to_images(file_path: str) -> list[np.ndarray]:
-    """Converts PDF pages to high-resolution OpenCV image arrays using PyMuPDF."""
-    images = []
-    try:
-        doc = fitz.open(file_path)
-        zoom = 4.16 # ~300 DPI
-        matrix = fitz.Matrix(zoom, zoom)
-        
-        for page in doc:
-            pix = page.get_pixmap(matrix=matrix, alpha=False)
-            img_array = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.h, pix.w, pix.n)
-            img_cv = cv2.cvtColor(img_array, cv2.COLOR_RGB2BGR) 
-            images.append(img_cv)
-            
-        doc.close()
-    except Exception as e:
-        print(f"Error processing PDF with PyMuPDF: {e}")
-    return images
-
-def process_report_file(file_path: str, output_base_name: str) -> list[str]:
-    """Main function for Module 1: Handles input, preprocesses, and saves cleaned images."""
-    cleaned_image_paths = []
-    file_extension = file_path.lower().split('.')[-1]
-    images_to_process = []
-
-    if file_extension == 'pdf':
-        print(f"Processing PDF: {file_path}")
-        images_to_process = convert_pdf_to_images(file_path)
-    
-    elif file_extension in ['jpg', 'jpeg', 'png']:
-        print(f"Processing image: {file_path}")
-        img_cv = cv2.imread(file_path)
-        if img_cv is not None:
-            images_to_process.append(img_cv)
-    
-    else:
-        print(f"Unsupported file type: {file_extension}")
-        return []
-
-    for i, img_cv in enumerate(images_to_process):
-        cleaned_img_cv = preprocess_image(img_cv)
-        
-        output_filename = f"{output_base_name}_page_{i+1:02d}.png"
-        output_path = os.path.join(CLEANED_DIR, output_filename) 
-        cv2.imwrite(output_path, cleaned_img_cv)
-        cleaned_image_paths.append(output_path)
-        print(f"Saved cleaned image to: {output_path}")
-
-    return cleaned_image_paths
-# ## Test Module 1
-# report_file_path = DUMMY_PDF_PATH
-# base_name = os.path.splitext(os.path.basename(report_file_path))[0]
-
-# if os.path.exists(report_file_path):
-#     cleaned_files = process_report_file(report_file_path, base_name)
-    
-#     if cleaned_files:
-#         print(f"\n✅ Module 1 Success. Found {len(cleaned_files)} cleaned image(s).")
-#         print("Displaying the first cleaned image (Binary, Deskewed):")
-        
-#         # Display the image in the notebook
-#         try:
-#             display_img = Image.open(cleaned_files[0])
-#             # display(display_img)
-#         except Exception as e:
-#             print(f"Could not display image: {e}")
-#     else:
-#         print("❌ Module 1 Failed: Check file path and dependencies (PyMuPDF, Poppler).")
-# else:
-#     print("⚠️ Skipping Module 1 Test: Dummy PDF not found.")
-
-# Module 2: OCR & Tokenisation 
-def merge_close_tokens(tokens: list, max_gap: int = 20) -> list:
-    """
-    Merges adjacent tokens on the same horizontal line if the gap between them is small.
-    This fixes fragmented names and compound words (e.g., "John" + "Doe" -> "John Doe").
-    """
-    if not tokens:
-        return []
-    
-    merged_tokens = []
-    current_phrase = tokens[0]
-    
-    for i in range(1, len(tokens)):
-        next_token = tokens[i]
-        
-        # Calculate horizontal distance between tokens
-        current_right = current_phrase['bbox']['left'] + current_phrase['bbox']['width']
-        gap = next_token['bbox']['left'] - current_right
-        
-        # Check vertical alignment (y-overlap) and horizontal proximity
-        y_overlap = abs(current_phrase['bbox']['top'] - next_token['bbox']['top'])
-        
-        # If the gap is small and they are vertically aligned (small y_overlap)
-        if gap < max_gap and y_overlap < 5:
-            # Merge: update text, width, and confidence (use min confidence)
-            current_phrase['text'] += ' ' + next_token['text']
-            current_phrase['bbox']['width'] += next_token['bbox']['width'] + gap
-            current_phrase['conf'] = min(current_phrase['conf'], next_token['conf'])
-        else:
-            # Not mergeable, finalize the current phrase and start a new one
-            merged_tokens.append(current_phrase)
-            current_phrase = next_token
-            
-    merged_tokens.append(current_phrase)
-    return merged_tokens
-
-def run_ocr_and_tokenize(image_path: str, report_name: str) -> str:
-    """Runs OCR on a cleaned image and saves word-level tokens with bboxes."""
-    try:
-        img_cv = cv2.imread(image_path)
-        if img_cv is None:
-            print(f"Error: Could not read image at {image_path}")
-            return None
-
-        # Use image_to_data to get word-level details (text, box, confidence)
-        data = pytesseract.image_to_data(img_cv, output_type=pytesseract.Output.DICT)
-        
-        tokens_list = []
-        n_boxes = len(data['level'])
-        
-        for i in range(n_boxes):
-            # level 5 is word level
-            if data['level'][i] == 5 and data['text'][i].strip():
-                token = {
-                    "text": data['text'][i],
-                    "conf": float(data['conf'][i]) / 100, # Convert confidence to 0.0 to 1.0
-                    "bbox": {
-                        "left": data['left'][i],
-                        "top": data['top'][i],
-                        "width": data['width'][i],
-                        "height": data['height'][i]
-                    }
-                }
-                tokens_list.append(token)
-
-        merged_tokens = merge_close_tokens(tokens_list)
-
-        # Save tokens to a JSON file
-        output_filename = f"{report_name}_tokens.json"
-        output_path = os.path.join(TOKEN_DIR, output_filename)
-        
-        with open(output_path, 'w') as f:
-            json.dump(merged_tokens, f, indent=4)
-            
-        print(f"Saved {len(merged_tokens)} tokens to: {output_path}")
-        return output_path
-
-    except Exception as e:
-        print(f" Module 2 Failed during OCR: {e}")
-        return None
-
-# ## Test Module 2
-# if 'cleaned_files' in locals() and cleaned_files:
-#     token_file_path = run_ocr_and_tokenize(cleaned_files[0], base_name)
-    
-#     if token_file_path:
-#         with open(token_file_path, 'r') as f:
-#             tokens = json.load(f)
-            
-#         print("\n Module 2 Success. First 10 tokens extracted:")
-#         for token in tokens[:10]:
-#             print(f" - Text: '{token['text']}', Conf: {token['conf']:.2f}, BBox: {token['bbox']}")
-    
-# else:
-#     print(" Skipping Module 2 Test: No cleaned image found from Module 1.")
+# Import or define any additional functions used in the pipeline
 
 # Module 3: Rule-Based Extraction (fast baseline) 
 def group_tokens_into_lines(tokens: list, y_tolerance: int = 10) -> list:
@@ -311,8 +43,28 @@ def extract_patient_info(lines):
     )
 
     for line in lines:
-        # Join tokens to form the full line text
-        line_text = " ".join([token['text'] for token in line])
+        if not line:
+            continue
+         # Reconstruct the line text, preserving original spacing
+        line = sorted(line, key=lambda t: t['bbox']['left'])
+        line_text = line[0]['text']
+        avg_char_width = 10 # A reasonable estimate for average character width in pixels
+
+        for i in range(len(line) - 1):
+            current_token = line[i]
+            next_token = line[i+1]
+            
+            current_right_edge = current_token['bbox']['left'] + current_token['bbox']['width']
+            next_left_edge = next_token['bbox']['left']
+            
+            # Calculate the visual gap in pixels
+            gap = next_left_edge - current_right_edge
+            
+            # Add spaces proportional to the visual gap
+            # A large gap (e.g., > 30 pixels) will get multiple spaces
+            num_spaces = 1 + int(gap / avg_char_width) if gap > (avg_char_width * 1.5) else 1
+            
+            line_text += (' ' * num_spaces) + next_token['text']
         
         # Pre-process the line for cleaner matching
         line_text = re.sub(r'(_)(?=\s*[-.\s]*[:=])', '', line_text) # Removes trailing underscores from keys
@@ -336,6 +88,11 @@ import re
 import json
 import numpy as np
 from PIL import Image
+import os
+import cv2
+import pytesseract
+import fitz
+from a_preprocessing import preprocess_image, convert_pdf_to_images
 
 
 
@@ -408,7 +165,7 @@ def extract_table_rows(lines, start_index, columns, all_test_results):
     for i in range(start_index, len(lines)):
         line_tokens = lines[i]
         line_text = " ".join([t['text'] for t in line_tokens])
-        
+        line_text = line_text.replace('–', '-').replace('—', '-').replace('-',' - ')
         # Heuristic to detect end of table (e.g., summary notes, page footers)
         skip_patterns = [
             "end of report", "verified by", "page", "of", "contact", "customer care",
@@ -452,7 +209,7 @@ def extract_table_rows(lines, start_index, columns, all_test_results):
         if observed_value:
             # Check if it's a standalone numeric value (the actual test result)
             if re.match(r'([<>]|[A-Z]{1})\s*\d+\.?\d*|\d+\.?\d*$', observed_value.strip()):
-            # if re.search(r'\d', observed_value):
+            # if re.search(r'\d', observed_value) or any(c in observed_value for c in ['<', '>', ':', '/']):
                 is_valid_result = True
 
         # Logic to handle multi-line test names
@@ -500,9 +257,7 @@ def find_table_header_and_boundaries_dynamic(lines, image_cv):
     header_line_index = np.argmax(line_scores)
     header_line = lines[header_line_index]
     
-    # To group header tokens based on horizontal spacing
-    avg_char_width = np.mean([token['bbox']['width'] / len(token['text']) for token in header_line if token['text']])
-    space_threshold = avg_char_width * 5 # A large gap signifies a new column
+    column_break_threshold = 75 
 
     grouped_headers = []
     current_group = []
@@ -513,13 +268,14 @@ def find_table_header_and_boundaries_dynamic(lines, image_cv):
             next_token = header_line[i+1]
             gap = next_token['bbox']['left'] - (prev_token['bbox']['left'] + prev_token['bbox']['width'])
             
-            if gap < space_threshold:
+            if gap < column_break_threshold:
                 current_group.append(next_token)
             else:
                 grouped_headers.append(current_group)
                 current_group = [next_token]
         grouped_headers.append(current_group)
 
+   
     # Define column boundaries from the grouped headers
     columns = []
     for i, group in enumerate(grouped_headers):
@@ -531,6 +287,7 @@ def find_table_header_and_boundaries_dynamic(lines, image_cv):
         if i + 1 < len(grouped_headers):
             next_start_x = grouped_headers[i+1][0]['bbox']['left']
             end_x = (end_x + next_start_x) / 2 # Midpoint between columns
+            # end_x = grouped_headers[i+1][0]['bbox']['left'] -1
         else:
             end_x = image_cv.shape[1] # Extend to the edge for the last column
             
@@ -671,6 +428,19 @@ def run_rule_based_pipeline(file_path: str):
             json.dump(page_tokens, f, indent=4)
 
         all_tokens.extend(page_tokens)
+
+    # --- Module 3: Rule-Based Information Extraction ---
+    if not tokens_by_page:
+        return None, {"error": "No tokens were extracted from the document."}
+        
+    final_json = process_all_pages(tokens_by_page, images_by_page)
+
+    base_name = os.path.splitext(os.path.basename(file_path))[0]
+    output_filename = f"{base_name}_extracted_dynamic.json"
+    output_path = os.path.join(EXTRACTED_REPORTS_DIR, output_filename)
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(final_json, f, indent=4, ensure_ascii=False)
+    print(f"\nSaved structured data to: {output_path}")
    
     
     return all_tokens, final_json
@@ -686,106 +456,3 @@ def run_rule_based_pipeline(file_path: str):
 #     # test_extraction_pipeline_dynamic('project_data/raw_input/97308261_Mr. MANISH BAJPIE.pdf')
 
 
-# Module 6 : Load trained spaCy model
-
-MODEL_PATH = "./models/model-best"
-nlp_model = None
-if os.path.exists(MODEL_PATH):
-    nlp_model = spacy.load(MODEL_PATH)
-    print(" Trained spaCy model loaded successfully from models/model-best.")
-else:
-    print(" WARNING: Trained spaCy model not found at models/model-best. Inference will use rule-based fallback only.")
-
-
-def process_model_entities(doc, tokens):
-    """
-    Converts spaCy's entity predictions into a structured JSON format.
-    Groups lab results by their vertical position (y-coordinate).
-    """
-    patient_info = {}
-    lab_results_by_line = {} # Use y-coord as a key to group entities
-    y_tolerance = 15 # Pixels
-
-    # Create a mapping from character index to token for bbox lookup
-    char_to_token_idx = {}
-    current_char = 0
-    for i, token in enumerate(tokens):
-        for _ in range(len(token['text'])):
-            char_to_token_idx[current_char] = i
-            current_char += 1
-        current_char += 1 # For the space
-
-    for ent in doc.ents:
-        # Find the approximate y-coordinate of the entity
-        start_token_idx = char_to_token_idx.get(ent.start_char)
-        if start_token_idx is None:
-            continue
-        
-        y_coord = tokens[start_token_idx]['bbox']['top']
-
-        # Group patient info directly
-        if ent.label_ in ['Patient Name', 'Age', 'Gender', 'Patient ID', 'PATIENT_NAME', 'AGE', 'GENDER']:
-            patient_info[ent.label_.replace(' ', '_')] = ent.text
-        else:
-            # Group lab results by vertical line
-            found_line = False
-            for y_key in lab_results_by_line:
-                if abs(y_key - y_coord) < y_tolerance:
-                    lab_results_by_line[y_key][ent.label_] = ent.text
-                    found_line = True
-                    break
-            if not found_line:
-                lab_results_by_line[y_coord] = {ent.label_: ent.text}
-
-    # Convert the grouped lab results into a list of dicts
-    lab_results = list(lab_results_by_line.values())
-
-    return {"patient_info": patient_info, "lab_results": lab_results}
-
-
-def run_inference_pipeline(file_path: str):
-    """
-    Runs the full inference pipeline.
-    1. Tries ML model extraction.
-    2. Falls back to rule-based extraction if ML fails or is insufficient.
-    """
-    # Step 1 & 2: Preprocessing and OCR to get tokens
-    # The rule-based function already does this, so we can call it to get the tokens
-    all_tokens, rule_based_result = run_rule_based_pipeline(file_path)
-    final_result = None
-    if not all_tokens:
-         return {"error": "OCR failed to extract any tokens from the document."}
-
-    # Step 3: Try ML Model first
-    if nlp_model:
-        print("--- Attempting ML Model Extraction ---")
-        full_text = " ".join([t['text'] for t in all_tokens])
-        doc = nlp_model(full_text)
-        ml_result = process_model_entities(doc, all_tokens)
-        
-        # Step 5: Fallback Logic
-        # Check if the ML result is good enough (e.g., has patient info AND lab results)
-        if ml_result.get("patient_info") and ml_result.get("lab_results"):
-            print("Using ML Model for extraction.")
-            ml_result["metadata"] = {"extraction_method": "ml_model"}
-            final_result = ml_result
-            return final_result            
-        else:
-            print(" ML model result was insufficient. Falling back to rule-based method.")
-
-    final_result = rule_based_result
-
-    base_name = os.path.splitext(os.path.basename(file_path))[0]
-    output_filename = f"{base_name}_pending.json"
-    output_path = os.path.join(PENDING_REPORTS_DIR, output_filename)
-    
-    try:
-        with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(final_result, f, indent=4)
-        print(f" Saved pending JSON to: {output_path}")
-    except Exception as e:
-        print(f" Error saving pending JSON: {e}")
-    
-    # If ML model is not available or failed, return the rule-based result
-    print("Using Rule-Based Fallback for extraction.")
-    return final_result

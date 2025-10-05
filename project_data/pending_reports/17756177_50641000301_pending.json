@@ -1,9 +1,14 @@
 {
     "patient_info": {
-        "Name": "Mr K P SHRAVAN Gender: Male LabID : 50641000301",
-        "Age'": "40 Years Mob. No. : 9035707662 Pt.ID : 6186848",
-        "B2B_ SC": "Ref. By \u00a9 VIKRAMKAMATH Pt. Loc",
-        "Reg Date and Time": ": 29-Jun-2025 06:37 Report Date and Time : Ref Id1"
+        "Name": "Mr K P SHRAVAN",
+        "Gender": "Male",
+        "LabID": "50641000301",
+        "Age'": "40 Years",
+        "Mob. No": "9035707662",
+        "Pt.ID": "6186848",
+        "B2B_       SC": "Ref.  By      \u00a9   VIKRAMKAMATH        Pt. Loc",
+        "Reg  Date and Time": ":   29-Jun-2025 06:37",
+        "Report Date and Time": "Ref Id1"
     },
     "lab_results": [
         {

@@ -1,0 +1,3258 @@
+[
+    {
+        "text": "BD,",
+        "conf": 57.0,
+        "bbox": {
+            "left": 110,
+            "top": 32,
+            "width": 221,
+            "height": 118
+        },
+        "page": 4
+    },
+    {
+        "text": "Lal",
+        "conf": 58.0,
+        "bbox": {
+            "left": 345,
+            "top": 50,
+            "width": 170,
+            "height": 80
+        },
+        "page": 4
+    },
+    {
+        "text": "Pathlats",
+        "conf": 44.0,
+        "bbox": {
+            "left": 537,
+            "top": 50,
+            "width": 408,
+            "height": 81
+        },
+        "page": 4
+    },
+    {
+        "text": "Regd.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1320,
+            "top": 194,
+            "width": 61,
+            "height": 23
+        },
+        "page": 4
+    },
+    {
+        "text": "Office:",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1389,
+            "top": 193,
+            "width": 73,
+            "height": 19
+        },
+        "page": 4
+    },
+    {
+        "text": "Dr",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1471,
+            "top": 194,
+            "width": 22,
+            "height": 17
+        },
+        "page": 4
+    },
+    {
+        "text": "Lal",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1501,
+            "top": 195,
+            "width": 26,
+            "height": 17
+        },
+        "page": 4
+    },
+    {
+        "text": "Path",
+        "conf": 42.0,
+        "bbox": {
+            "left": 1538,
+            "top": 194,
+            "width": 42,
+            "height": 18
+        },
+        "page": 4
+    },
+    {
+        "text": "abs",
+        "conf": 76.0,
+        "bbox": {
+            "left": 1591,
+            "top": 195,
+            "width": 28,
+            "height": 17
+        },
+        "page": 4
+    },
+    {
+        "text": "Ltd,",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1629,
+            "top": 195,
+            "width": 35,
+            "height": 18
+        },
+        "page": 4
+    },
+    {
+        "text": "Block-E,",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1673,
+            "top": 194,
+            "width": 76,
+            "height": 19
+        },
+        "page": 4
+    },
+    {
+        "text": "Sector-18,",
+        "conf": 82.0,
+        "bbox": {
+            "left": 1759,
+            "top": 194,
+            "width": 96,
+            "height": 19
+        },
+        "page": 4
+    },
+    {
+        "text": "Rohini,",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1865,
+            "top": 194,
+            "width": 65,
+            "height": 19
+        },
+        "page": 4
+    },
+    {
+        "text": "New",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1940,
+            "top": 194,
+            "width": 46,
+            "height": 17
+        },
+        "page": 4
+    },
+    {
+        "text": "Dethi-1",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1993,
+            "top": 194,
+            "width": 67,
+            "height": 17
+        },
+        "page": 4
+    },
+    {
+        "text": "10085",
+        "conf": 0.0,
+        "bbox": {
+            "left": 2068,
+            "top": 194,
+            "width": 59,
+            "height": 18
+        },
+        "page": 4
+    },
+    {
+        "text": "Web:",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1320,
+            "top": 231,
+            "width": 56,
+            "height": 16
+        },
+        "page": 4
+    },
+    {
+        "text": "www",
+        "conf": 81.0,
+        "bbox": {
+            "left": 1384,
+            "top": 234,
+            "width": 56,
+            "height": 12
+        },
+        "page": 4
+    },
+    {
+        "text": "iaipathiabs",
+        "conf": 72.0,
+        "bbox": {
+            "left": 1446,
+            "top": 231,
+            "width": 104,
+            "height": 21
+        },
+        "page": 4
+    },
+    {
+        "text": "com,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1558,
+            "top": 234,
+            "width": 46,
+            "height": 15
+        },
+        "page": 4
+    },
+    {
+        "text": "CIN:",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1613,
+            "top": 230,
+            "width": 46,
+            "height": 17
+        },
+        "page": 4
+    },
+    {
+        "text": "L74899DL",
+        "conf": 56.0,
+        "bbox": {
+            "left": 1667,
+            "top": 231,
+            "width": 108,
+            "height": 16
+        },
+        "page": 4
+    },
+    {
+        "text": "1",
+        "conf": 56.0,
+        "bbox": {
+            "left": 1768,
+            "top": 226,
+            "width": 8,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "99S5PLC065",
+        "conf": 46.0,
+        "bbox": {
+            "left": 1781,
+            "top": 230,
+            "width": 150,
+            "height": 17
+        },
+        "page": 4
+    },
+    {
+        "text": "388",
+        "conf": 48.0,
+        "bbox": {
+            "left": 1896,
+            "top": 226,
+            "width": 38,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "Name",
+        "conf": 96.0,
+        "bbox": {
+            "left": 105,
+            "top": 320,
+            "width": 94,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 352,
+            "top": 328,
+            "width": 6,
+            "height": 21
+        },
+        "page": 4
+    },
+    {
+        "text": "Mrs.",
+        "conf": 93.0,
+        "bbox": {
+            "left": 381,
+            "top": 322,
+            "width": 70,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "SWARNA",
+        "conf": 92.0,
+        "bbox": {
+            "left": 464,
+            "top": 322,
+            "width": 159,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "LATA",
+        "conf": 96.0,
+        "bbox": {
+            "left": 646,
+            "top": 322,
+            "width": 93,
+            "height": 26
+        },
+        "page": 4
+    },
+    {
+        "text": "Lab",
+        "conf": 96.0,
+        "bbox": {
+            "left": 105,
+            "top": 369,
+            "width": 60,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "No.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 178,
+            "top": 369,
+            "width": 54,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": ":",
+        "conf": 89.0,
+        "bbox": {
+            "left": 352,
+            "top": 377,
+            "width": 6,
+            "height": 21
+        },
+        "page": 4
+    },
+    {
+        "text": "466917439",
+        "conf": 96.0,
+        "bbox": {
+            "left": 379,
+            "top": 367,
+            "width": 178,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "Age",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1209,
+            "top": 369,
+            "width": 66,
+            "height": 33
+        },
+        "page": 4
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1493,
+            "top": 376,
+            "width": 6,
+            "height": 19
+        },
+        "page": 4
+    },
+    {
+        "text": "41",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1529,
+            "top": 369,
+            "width": 34,
+            "height": 26
+        },
+        "page": 4
+    },
+    {
+        "text": "Years",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1579,
+            "top": 369,
+            "width": 95,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "Ref",
+        "conf": 95.0,
+        "bbox": {
+            "left": 105,
+            "top": 418,
+            "width": 56,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "By",
+        "conf": 95.0,
+        "bbox": {
+            "left": 172,
+            "top": 418,
+            "width": 43,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": ":",
+        "conf": 90.0,
+        "bbox": {
+            "left": 352,
+            "top": 427,
+            "width": 6,
+            "height": 21
+        },
+        "page": 4
+    },
+    {
+        "text": "Self",
+        "conf": 96.0,
+        "bbox": {
+            "left": 380,
+            "top": 416,
+            "width": 66,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "Gender",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1210,
+            "top": 418,
+            "width": 125,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1493,
+            "top": 425,
+            "width": 6,
+            "height": 19
+        },
+        "page": 4
+    },
+    {
+        "text": "Female",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1531,
+            "top": 416,
+            "width": 120,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "Collected",
+        "conf": 96.0,
+        "bbox": {
+            "left": 104,
+            "top": 463,
+            "width": 158,
+            "height": 46
+        },
+        "page": 4
+    },
+    {
+        "text": ":",
+        "conf": 89.0,
+        "bbox": {
+            "left": 352,
+            "top": 475,
+            "width": 5,
+            "height": 19
+        },
+        "page": 4
+    },
+    {
+        "text": "8/8/2024",
+        "conf": 88.0,
+        "bbox": {
+            "left": 380,
+            "top": 466,
+            "width": 138,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "7:50:00AM",
+        "conf": 88.0,
+        "bbox": {
+            "left": 550,
+            "top": 466,
+            "width": 176,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "Reported",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1211,
+            "top": 463,
+            "width": 153,
+            "height": 46
+        },
+        "page": 4
+    },
+    {
+        "text": ":",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1493,
+            "top": 475,
+            "width": 6,
+            "height": 19
+        },
+        "page": 4
+    },
+    {
+        "text": "9/8/2024",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1529,
+            "top": 463,
+            "width": 138,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "10:06:36AM",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1691,
+            "top": 463,
+            "width": 194,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "A/c",
+        "conf": 70.0,
+        "bbox": {
+            "left": 103,
+            "top": 517,
+            "width": 54,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "Status",
+        "conf": 96.0,
+        "bbox": {
+            "left": 169,
+            "top": 517,
+            "width": 107,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": ":P",
+        "conf": 83.0,
+        "bbox": {
+            "left": 352,
+            "top": 517,
+            "width": 50,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "Report",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1211,
+            "top": 517,
+            "width": 113,
+            "height": 33
+        },
+        "page": 4
+    },
+    {
+        "text": "Status",
+        "conf": 71.0,
+        "bbox": {
+            "left": 1336,
+            "top": 517,
+            "width": 106,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": ":",
+        "conf": 76.0,
+        "bbox": {
+            "left": 1493,
+            "top": 524,
+            "width": 6,
+            "height": 19
+        },
+        "page": 4
+    },
+    {
+        "text": "Final",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1534,
+            "top": 518,
+            "width": 79,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "Collected",
+        "conf": 96.0,
+        "bbox": {
+            "left": 113,
+            "top": 572,
+            "width": 158,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "at",
+        "conf": 87.0,
+        "bbox": {
+            "left": 284,
+            "top": 573,
+            "width": 31,
+            "height": 26
+        },
+        "page": 4
+    },
+    {
+        "text": ":",
+        "conf": 77.0,
+        "bbox": {
+            "left": 352,
+            "top": 580,
+            "width": 7,
+            "height": 21
+        },
+        "page": 4
+    },
+    {
+        "text": "RELEX",
+        "conf": 87.0,
+        "bbox": {
+            "left": 402,
+            "top": 572,
+            "width": 105,
+            "height": 23
+        },
+        "page": 4
+    },
+    {
+        "text": "HEALTHCARE",
+        "conf": 93.0,
+        "bbox": {
+            "left": 518,
+            "top": 571,
+            "width": 217,
+            "height": 25
+        },
+        "page": 4
+    },
+    {
+        "text": "INDIA",
+        "conf": 95.0,
+        "bbox": {
+            "left": 747,
+            "top": 572,
+            "width": 85,
+            "height": 23
+        },
+        "page": 4
+    },
+    {
+        "text": "Pvt.",
+        "conf": 93.0,
+        "bbox": {
+            "left": 843,
+            "top": 572,
+            "width": 55,
+            "height": 24
+        },
+        "page": 4
+    },
+    {
+        "text": "Ltd.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 911,
+            "top": 572,
+            "width": 55,
+            "height": 24
+        },
+        "page": 4
+    },
+    {
+        "text": "Processed",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1219,
+            "top": 572,
+            "width": 177,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "at",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1410,
+            "top": 573,
+            "width": 30,
+            "height": 26
+        },
+        "page": 4
+    },
+    {
+        "text": ":",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1502,
+            "top": 580,
+            "width": 6,
+            "height": 21
+        },
+        "page": 4
+    },
+    {
+        "text": "LPL-BENGALURU",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1542,
+            "top": 571,
+            "width": 270,
+            "height": 25
+        },
+        "page": 4
+    },
+    {
+        "text": "REFERENCE",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1825,
+            "top": 571,
+            "width": 195,
+            "height": 25
+        },
+        "page": 4
+    },
+    {
+        "text": "LAB",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2032,
+            "top": 572,
+            "width": 62,
+            "height": 23
+        },
+        "page": 4
+    },
+    {
+        "text": "NO.17/1,SERVICE",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1542,
+            "top": 617,
+            "width": 265,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "ROAD,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1818,
+            "top": 617,
+            "width": 99,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "THE",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1929,
+            "top": 618,
+            "width": 62,
+            "height": 23
+        },
+        "page": 4
+    },
+    {
+        "text": "ADDRESS,OPP",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1540,
+            "top": 663,
+            "width": 231,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "PRESTIGE",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1783,
+            "top": 663,
+            "width": 159,
+            "height": 25
+        },
+        "page": 4
+    },
+    {
+        "text": "CESSNA",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1953,
+            "top": 663,
+            "width": 131,
+            "height": 25
+        },
+        "page": 4
+    },
+    {
+        "text": "PARK,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2095,
+            "top": 664,
+            "width": 96,
+            "height": 28
+        },
+        "page": 4
+    },
+    {
+        "text": "OUTER",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1541,
+            "top": 709,
+            "width": 110,
+            "height": 25
+        },
+        "page": 4
+    },
+    {
+        "text": "RING",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1662,
+            "top": 709,
+            "width": 77,
+            "height": 25
+        },
+        "page": 4
+    },
+    {
+        "text": "ROAD",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1751,
+            "top": 709,
+            "width": 91,
+            "height": 25
+        },
+        "page": 4
+    },
+    {
+        "text": ",KADUBEESANAHALLI",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1854,
+            "top": 709,
+            "width": 348,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": ";BANGALORE-560103",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1541,
+            "top": 755,
+            "width": 330,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1148,
+            "top": 875,
+            "width": 80,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "Report",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1242,
+            "top": 875,
+            "width": 124,
+            "height": 37
+        },
+        "page": 4
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 163,
+            "top": 983,
+            "width": 73,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "Name",
+        "conf": 96.0,
+        "bbox": {
+            "left": 249,
+            "top": 983,
+            "width": 94,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "Results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1134,
+            "top": 979,
+            "width": 126,
+            "height": 42
+        },
+        "page": 4
+    },
+    {
+        "text": "Units",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1605,
+            "top": 979,
+            "width": 86,
+            "height": 42
+        },
+        "page": 4
+    },
+    {
+        "text": "Bio.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2018,
+            "top": 983,
+            "width": 63,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "Ref.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2096,
+            "top": 983,
+            "width": 63,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "Interval",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2173,
+            "top": 983,
+            "width": 123,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "GLUCOSE,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 162,
+            "top": 1060,
+            "width": 184,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "FASTING",
+        "conf": 92.0,
+        "bbox": {
+            "left": 361,
+            "top": 1060,
+            "width": 153,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "(F)",
+        "conf": 92.0,
+        "bbox": {
+            "left": 527,
+            "top": 1060,
+            "width": 43,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "(Hexokinase)",
+        "conf": 91.0,
+        "bbox": {
+            "left": 163,
+            "top": 1109,
+            "width": 213,
+            "height": 35
+        },
+        "page": 4
+    },
+    {
+        "text": "Glucose",
+        "conf": 96.0,
+        "bbox": {
+            "left": 171,
+            "top": 1205,
+            "width": 132,
+            "height": 28
+        },
+        "page": 4
+    },
+    {
+        "text": "Fasting",
+        "conf": 96.0,
+        "bbox": {
+            "left": 317,
+            "top": 1205,
+            "width": 115,
+            "height": 35
+        },
+        "page": 4
+    },
+    {
+        "text": "93.00",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1133,
+            "top": 1202,
+            "width": 89,
+            "height": 28
+        },
+        "page": 4
+    },
+    {
+        "text": "mg/dL",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1605,
+            "top": 1205,
+            "width": 98,
+            "height": 35
+        },
+        "page": 4
+    },
+    {
+        "text": "70.00",
+        "conf": 92.0,
+        "bbox": {
+            "left": 2033,
+            "top": 1205,
+            "width": 89,
+            "height": 28
+        },
+        "page": 4
+    },
+    {
+        "text": "-",
+        "conf": 92.0,
+        "bbox": {
+            "left": 2134,
+            "top": 1221,
+            "width": 11,
+            "height": 3
+        },
+        "page": 4
+    },
+    {
+        "text": "100.00",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2160,
+            "top": 1205,
+            "width": 106,
+            "height": 28
+        },
+        "page": 4
+    },
+    {
+        "text": "VITAMIN",
+        "conf": 96.0,
+        "bbox": {
+            "left": 161,
+            "top": 1358,
+            "width": 145,
+            "height": 26
+        },
+        "page": 4
+    },
+    {
+        "text": "B12;",
+        "conf": 92.0,
+        "bbox": {
+            "left": 321,
+            "top": 1358,
+            "width": 72,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "CYANOCOBALAMIN",
+        "conf": 78.0,
+        "bbox": {
+            "left": 407,
+            "top": 1358,
+            "width": 345,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "(CLIA)",
+        "conf": 92.0,
+        "bbox": {
+            "left": 163,
+            "top": 1408,
+            "width": 103,
+            "height": 35
+        },
+        "page": 4
+    },
+    {
+        "text": "Vitamin",
+        "conf": 96.0,
+        "bbox": {
+            "left": 170,
+            "top": 1504,
+            "width": 119,
+            "height": 28
+        },
+        "page": 4
+    },
+    {
+        "text": "B12;",
+        "conf": 93.0,
+        "bbox": {
+            "left": 304,
+            "top": 1504,
+            "width": 70,
+            "height": 32
+        },
+        "page": 4
+    },
+    {
+        "text": "Cyanocobalamin",
+        "conf": 91.0,
+        "bbox": {
+            "left": 389,
+            "top": 1504,
+            "width": 269,
+            "height": 35
+        },
+        "page": 4
+    },
+    {
+        "text": "133.80",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1135,
+            "top": 1503,
+            "width": 106,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "pg/mL",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1605,
+            "top": 1504,
+            "width": 98,
+            "height": 35
+        },
+        "page": 4
+    },
+    {
+        "text": "180.00",
+        "conf": 93.0,
+        "bbox": {
+            "left": 2035,
+            "top": 1504,
+            "width": 107,
+            "height": 28
+        },
+        "page": 4
+    },
+    {
+        "text": "-",
+        "conf": 92.0,
+        "bbox": {
+            "left": 2155,
+            "top": 1520,
+            "width": 10,
+            "height": 3
+        },
+        "page": 4
+    },
+    {
+        "text": "914.00",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2178,
+            "top": 1504,
+            "width": 109,
+            "height": 28
+        },
+        "page": 4
+    },
+    {
+        "text": "Interpretation",
+        "conf": 96.0,
+        "bbox": {
+            "left": 165,
+            "top": 1633,
+            "width": 250,
+            "height": 37
+        },
+        "page": 4
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 172,
+            "top": 1710,
+            "width": 3,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "Remarks",
+        "conf": 96.0,
+        "bbox": {
+            "left": 210,
+            "top": 1710,
+            "width": 150,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "|",
+        "conf": 95.0,
+        "bbox": {
+            "left": 550,
+            "top": 1710,
+            "width": 3,
+            "height": 71
+        },
+        "page": 4
+    },
+    {
+        "text": "Result",
+        "conf": 96.0,
+        "bbox": {
+            "left": 588,
+            "top": 1710,
+            "width": 128,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "In",
+        "conf": 96.0,
+        "bbox": {
+            "left": 744,
+            "top": 1716,
+            "width": 38,
+            "height": 23
+        },
+        "page": 4
+    },
+    {
+        "text": "pg/mL",
+        "conf": 0.0,
+        "bbox": {
+            "left": 810,
+            "top": 1710,
+            "width": 107,
+            "height": 37
+        },
+        "page": 4
+    },
+    {
+        "text": "|",
+        "conf": 87.0,
+        "bbox": {
+            "left": 1150,
+            "top": 1711,
+            "width": 3,
+            "height": 70
+        },
+        "page": 4
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 172,
+            "top": 1783,
+            "width": 3,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "Normal",
+        "conf": 83.0,
+        "bbox": {
+            "left": 209,
+            "top": 1783,
+            "width": 124,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "|",
+        "conf": 95.0,
+        "bbox": {
+            "left": 550,
+            "top": 1783,
+            "width": 3,
+            "height": 71
+        },
+        "page": 4
+    },
+    {
+        "text": "180",
+        "conf": 92.0,
+        "bbox": {
+            "left": 611,
+            "top": 1784,
+            "width": 62,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "-",
+        "conf": 92.0,
+        "bbox": {
+            "left": 700,
+            "top": 1799,
+            "width": 15,
+            "height": 4
+        },
+        "page": 4
+    },
+    {
+        "text": "914",
+        "conf": 96.0,
+        "bbox": {
+            "left": 743,
+            "top": 1784,
+            "width": 63,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "|",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1150,
+            "top": 1783,
+            "width": 3,
+            "height": 71
+        },
+        "page": 4
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 172,
+            "top": 1857,
+            "width": 3,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "Indeterminate",
+        "conf": 95.0,
+        "bbox": {
+            "left": 210,
+            "top": 1857,
+            "width": 284,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "|",
+        "conf": 95.0,
+        "bbox": {
+            "left": 550,
+            "top": 1857,
+            "width": 3,
+            "height": 71
+        },
+        "page": 4
+    },
+    {
+        "text": "120",
+        "conf": 92.0,
+        "bbox": {
+            "left": 611,
+            "top": 1858,
+            "width": 62,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "-",
+        "conf": 92.0,
+        "bbox": {
+            "left": 700,
+            "top": 1873,
+            "width": 15,
+            "height": 4
+        },
+        "page": 4
+    },
+    {
+        "text": "180",
+        "conf": 96.0,
+        "bbox": {
+            "left": 744,
+            "top": 1858,
+            "width": 62,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "|",
+        "conf": 53.0,
+        "bbox": {
+            "left": 1150,
+            "top": 1858,
+            "width": 4,
+            "height": 70
+        },
+        "page": 4
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 172,
+            "top": 1931,
+            "width": 3,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "Deficient",
+        "conf": 96.0,
+        "bbox": {
+            "left": 209,
+            "top": 1931,
+            "width": 196,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "|",
+        "conf": 93.0,
+        "bbox": {
+            "left": 550,
+            "top": 1931,
+            "width": 3,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "<",
+        "conf": 93.0,
+        "bbox": {
+            "left": 632,
+            "top": 1941,
+            "width": 18,
+            "height": 18
+        },
+        "page": 4
+    },
+    {
+        "text": "120",
+        "conf": 96.0,
+        "bbox": {
+            "left": 677,
+            "top": 1932,
+            "width": 62,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1150,
+            "top": 1932,
+            "width": 4,
+            "height": 33
+        },
+        "page": 4
+    },
+    {
+        "text": "Notes",
+        "conf": 96.0,
+        "bbox": {
+            "left": 165,
+            "top": 2084,
+            "width": 106,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "1.",
+        "conf": 81.0,
+        "bbox": {
+            "left": 241,
+            "top": 2147,
+            "width": 26,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "Interpretation",
+        "conf": 81.0,
+        "bbox": {
+            "left": 313,
+            "top": 2147,
+            "width": 233,
+            "height": 37
+        },
+        "page": 4
+    },
+    {
+        "text": "of",
+        "conf": 97.0,
+        "bbox": {
+            "left": 560,
+            "top": 2146,
+            "width": 34,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 605,
+            "top": 2147,
+            "width": 54,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "result",
+        "conf": 96.0,
+        "bbox": {
+            "left": 674,
+            "top": 2147,
+            "width": 96,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "should",
+        "conf": 96.0,
+        "bbox": {
+            "left": 783,
+            "top": 2147,
+            "width": 115,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "be",
+        "conf": 96.0,
+        "bbox": {
+            "left": 914,
+            "top": 2147,
+            "width": 41,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "considered",
+        "conf": 96.0,
+        "bbox": {
+            "left": 969,
+            "top": 2147,
+            "width": 193,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1178,
+            "top": 2147,
+            "width": 27,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "relation",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1221,
+            "top": 2147,
+            "width": 128,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "to",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1363,
+            "top": 2148,
+            "width": 32,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "clinical",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1409,
+            "top": 2147,
+            "width": 117,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "circumstances.",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1541,
+            "top": 2147,
+            "width": 264,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "2.",
+        "conf": 70.0,
+        "bbox": {
+            "left": 238,
+            "top": 2207,
+            "width": 29,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "It",
+        "conf": 59.0,
+        "bbox": {
+            "left": 313,
+            "top": 2207,
+            "width": 19,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "is",
+        "conf": 59.0,
+        "bbox": {
+            "left": 346,
+            "top": 2207,
+            "width": 26,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "recommended",
+        "conf": 96.0,
+        "bbox": {
+            "left": 386,
+            "top": 2207,
+            "width": 253,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "to",
+        "conf": 96.0,
+        "bbox": {
+            "left": 654,
+            "top": 2208,
+            "width": 32,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "consider",
+        "conf": 95.0,
+        "bbox": {
+            "left": 700,
+            "top": 2207,
+            "width": 151,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "supplementary",
+        "conf": 96.0,
+        "bbox": {
+            "left": 863,
+            "top": 2207,
+            "width": 263,
+            "height": 38
+        },
+        "page": 4
+    },
+    {
+        "text": "testing",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1139,
+            "top": 2207,
+            "width": 116,
+            "height": 38
+        },
+        "page": 4
+    },
+    {
+        "text": "with",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1268,
+            "top": 2207,
+            "width": 70,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "plasma",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1353,
+            "top": 2207,
+            "width": 126,
+            "height": 37
+        },
+        "page": 4
+    },
+    {
+        "text": "Methylmalonic",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1495,
+            "top": 2207,
+            "width": 255,
+            "height": 38
+        },
+        "page": 4
+    },
+    {
+        "text": "acid",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1763,
+            "top": 2207,
+            "width": 70,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "(MMA)",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1849,
+            "top": 2207,
+            "width": 118,
+            "height": 38
+        },
+        "page": 4
+    },
+    {
+        "text": "or",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1980,
+            "top": 2214,
+            "width": 35,
+            "height": 23
+        },
+        "page": 4
+    },
+    {
+        "text": "plasma",
+        "conf": 95.0,
+        "bbox": {
+            "left": 312,
+            "top": 2259,
+            "width": 126,
+            "height": 37
+        },
+        "page": 4
+    },
+    {
+        "text": "homocysteine",
+        "conf": 95.0,
+        "bbox": {
+            "left": 454,
+            "top": 2259,
+            "width": 245,
+            "height": 38
+        },
+        "page": 4
+    },
+    {
+        "text": "levels",
+        "conf": 96.0,
+        "bbox": {
+            "left": 714,
+            "top": 2259,
+            "width": 99,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "to",
+        "conf": 96.0,
+        "bbox": {
+            "left": 827,
+            "top": 2260,
+            "width": 32,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "determine",
+        "conf": 96.0,
+        "bbox": {
+            "left": 872,
+            "top": 2259,
+            "width": 177,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "biochemical",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1064,
+            "top": 2259,
+            "width": 208,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "cobalamin",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1287,
+            "top": 2259,
+            "width": 181,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "deficiency",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1482,
+            "top": 2258,
+            "width": 178,
+            "height": 39
+        },
+        "page": 4
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1674,
+            "top": 2259,
+            "width": 27,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "presence",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1717,
+            "top": 2266,
+            "width": 162,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1893,
+            "top": 2258,
+            "width": 34,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "clinical",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1938,
+            "top": 2259,
+            "width": 117,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "suspicion",
+        "conf": 96.0,
+        "bbox": {
+            "left": 311,
+            "top": 2312,
+            "width": 165,
+            "height": 37
+        },
+        "page": 4
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 491,
+            "top": 2311,
+            "width": 34,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "deficiency",
+        "conf": 95.0,
+        "bbox": {
+            "left": 536,
+            "top": 2311,
+            "width": 178,
+            "height": 39
+        },
+        "page": 4
+    },
+    {
+        "text": "but",
+        "conf": 96.0,
+        "bbox": {
+            "left": 727,
+            "top": 2312,
+            "width": 54,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "indeterminate",
+        "conf": 95.0,
+        "bbox": {
+            "left": 795,
+            "top": 2312,
+            "width": 240,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "levels.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1050,
+            "top": 2312,
+            "width": 109,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "Homocysteine",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1177,
+            "top": 2312,
+            "width": 251,
+            "height": 38
+        },
+        "page": 4
+    },
+    {
+        "text": "levels",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1443,
+            "top": 2312,
+            "width": 99,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "are",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1556,
+            "top": 2319,
+            "width": 56,
+            "height": 23
+        },
+        "page": 4
+    },
+    {
+        "text": "more",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1627,
+            "top": 2319,
+            "width": 88,
+            "height": 23
+        },
+        "page": 4
+    },
+    {
+        "text": "sensitive",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1729,
+            "top": 2312,
+            "width": 154,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "but",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1898,
+            "top": 2312,
+            "width": 54,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "MMA",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1966,
+            "top": 2312,
+            "width": 91,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "is",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2071,
+            "top": 2312,
+            "width": 25,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "more",
+        "conf": 96.0,
+        "bbox": {
+            "left": 312,
+            "top": 2371,
+            "width": 88,
+            "height": 23
+        },
+        "page": 4
+    },
+    {
+        "text": "specific",
+        "conf": 96.0,
+        "bbox": {
+            "left": 415,
+            "top": 2363,
+            "width": 132,
+            "height": 38
+        },
+        "page": 4
+    },
+    {
+        "text": "3.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 238,
+            "top": 2468,
+            "width": 29,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "False",
+        "conf": 95.0,
+        "bbox": {
+            "left": 313,
+            "top": 2468,
+            "width": 94,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "increase",
+        "conf": 96.0,
+        "bbox": {
+            "left": 422,
+            "top": 2468,
+            "width": 149,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 586,
+            "top": 2468,
+            "width": 27,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "Vitamin",
+        "conf": 95.0,
+        "bbox": {
+            "left": 627,
+            "top": 2468,
+            "width": 132,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "B12",
+        "conf": 95.0,
+        "bbox": {
+            "left": 775,
+            "top": 2468,
+            "width": 67,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "levels",
+        "conf": 96.0,
+        "bbox": {
+            "left": 858,
+            "top": 2468,
+            "width": 99,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "may",
+        "conf": 96.0,
+        "bbox": {
+            "left": 972,
+            "top": 2475,
+            "width": 73,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "be",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1059,
+            "top": 2468,
+            "width": 41,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "observed",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1114,
+            "top": 2468,
+            "width": 163,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "in",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1293,
+            "top": 2468,
+            "width": 27,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "patients",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1335,
+            "top": 2468,
+            "width": 138,
+            "height": 37
+        },
+        "page": 4
+    },
+    {
+        "text": "with",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1486,
+            "top": 2468,
+            "width": 69,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "intrinsic",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1571,
+            "top": 2468,
+            "width": 134,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "factor",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1717,
+            "top": 2467,
+            "width": 101,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "blocking",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1831,
+            "top": 2468,
+            "width": 144,
+            "height": 38
+        },
+        "page": 4
+    },
+    {
+        "text": "antibodies,",
+        "conf": 94.0,
+        "bbox": {
+            "left": 311,
+            "top": 2521,
+            "width": 191,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "MMA",
+        "conf": 94.0,
+        "bbox": {
+            "left": 519,
+            "top": 2521,
+            "width": 92,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "measurement",
+        "conf": 96.0,
+        "bbox": {
+            "left": 624,
+            "top": 2522,
+            "width": 244,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "should",
+        "conf": 96.0,
+        "bbox": {
+            "left": 881,
+            "top": 2521,
+            "width": 115,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "be",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1012,
+            "top": 2521,
+            "width": 41,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "considered",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1067,
+            "top": 2521,
+            "width": 194,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1277,
+            "top": 2521,
+            "width": 27,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "such",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1319,
+            "top": 2521,
+            "width": 81,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "patients",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1416,
+            "top": 2521,
+            "width": 138,
+            "height": 37
+        },
+        "page": 4
+    },
+    {
+        "text": "4.",
+        "conf": 94.0,
+        "bbox": {
+            "left": 237,
+            "top": 2625,
+            "width": 30,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "The",
+        "conf": 91.0,
+        "bbox": {
+            "left": 311,
+            "top": 2625,
+            "width": 67,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "concentration",
+        "conf": 91.0,
+        "bbox": {
+            "left": 392,
+            "top": 2625,
+            "width": 239,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 646,
+            "top": 2624,
+            "width": 34,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "Vitamin",
+        "conf": 96.0,
+        "bbox": {
+            "left": 690,
+            "top": 2625,
+            "width": 132,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "B12",
+        "conf": 96.0,
+        "bbox": {
+            "left": 838,
+            "top": 2625,
+            "width": 67,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "obtained",
+        "conf": 95.0,
+        "bbox": {
+            "left": 919,
+            "top": 2625,
+            "width": 151,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "with",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1084,
+            "top": 2625,
+            "width": 70,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "different",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1168,
+            "top": 2624,
+            "width": 145,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "assay",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1325,
+            "top": 2632,
+            "width": 104,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "methods",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1443,
+            "top": 2625,
+            "width": 151,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "cannot",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1608,
+            "top": 2626,
+            "width": 120,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "be",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1742,
+            "top": 2625,
+            "width": 40,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "used",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1798,
+            "top": 2625,
+            "width": 82,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "interchangeably",
+        "conf": 96.0,
+        "bbox": {
+            "left": 312,
+            "top": 2677,
+            "width": 283,
+            "height": 38
+        },
+        "page": 4
+    },
+    {
+        "text": "due",
+        "conf": 96.0,
+        "bbox": {
+            "left": 608,
+            "top": 2677,
+            "width": 64,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "to",
+        "conf": 95.0,
+        "bbox": {
+            "left": 686,
+            "top": 2678,
+            "width": 31,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "differences",
+        "conf": 95.0,
+        "bbox": {
+            "left": 731,
+            "top": 2676,
+            "width": 195,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 941,
+            "top": 2677,
+            "width": 27,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "assay",
+        "conf": 96.0,
+        "bbox": {
+            "left": 982,
+            "top": 2684,
+            "width": 104,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "methods",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1100,
+            "top": 2677,
+            "width": 151,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "and",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1265,
+            "top": 2677,
+            "width": 63,
+            "height": 30
+        },
+        "page": 4
+    },
+    {
+        "text": "reagent",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1344,
+            "top": 2678,
+            "width": 135,
+            "height": 37
+        },
+        "page": 4
+    },
+    {
+        "text": "specificity",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1492,
+            "top": 2676,
+            "width": 173,
+            "height": 39
+        },
+        "page": 4
+    },
+    {
+        "text": "VITAMIN",
+        "conf": 93.0,
+        "bbox": {
+            "left": 161,
+            "top": 2882,
+            "width": 145,
+            "height": 26
+        },
+        "page": 4
+    },
+    {
+        "text": "D,",
+        "conf": 93.0,
+        "bbox": {
+            "left": 321,
+            "top": 2882,
+            "width": 31,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "25",
+        "conf": 92.0,
+        "bbox": {
+            "left": 365,
+            "top": 2882,
+            "width": 38,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "-",
+        "conf": 92.0,
+        "bbox": {
+            "left": 422,
+            "top": 2896,
+            "width": 4,
+            "height": 6
+        },
+        "page": 4
+    },
+    {
+        "text": "HYDROXY,",
+        "conf": 95.0,
+        "bbox": {
+            "left": 438,
+            "top": 2882,
+            "width": 183,
+            "height": 31
+        },
+        "page": 4
+    },
+    {
+        "text": "SERUM",
+        "conf": 96.0,
+        "bbox": {
+            "left": 634,
+            "top": 2882,
+            "width": 127,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "(CLIA)",
+        "conf": 91.0,
+        "bbox": {
+            "left": 163,
+            "top": 2931,
+            "width": 103,
+            "height": 35
+        },
+        "page": 4
+    },
+    {
+        "text": "Vitamin",
+        "conf": 92.0,
+        "bbox": {
+            "left": 170,
+            "top": 3027,
+            "width": 119,
+            "height": 28
+        },
+        "page": 4
+    },
+    {
+        "text": "D,",
+        "conf": 92.0,
+        "bbox": {
+            "left": 304,
+            "top": 3027,
+            "width": 31,
+            "height": 32
+        },
+        "page": 4
+    },
+    {
+        "text": "25",
+        "conf": 96.0,
+        "bbox": {
+            "left": 350,
+            "top": 3027,
+            "width": 38,
+            "height": 28
+        },
+        "page": 4
+    },
+    {
+        "text": "Hydroxy",
+        "conf": 95.0,
+        "bbox": {
+            "left": 402,
+            "top": 3028,
+            "width": 131,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "33.17",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1133,
+            "top": 3026,
+            "width": 88,
+            "height": 27
+        },
+        "page": 4
+    },
+    {
+        "text": "nmol/L",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1605,
+            "top": 3023,
+            "width": 106,
+            "height": 44
+        },
+        "page": 4
+    },
+    {
+        "text": "75.00",
+        "conf": 91.0,
+        "bbox": {
+            "left": 2033,
+            "top": 3027,
+            "width": 89,
+            "height": 28
+        },
+        "page": 4
+    },
+    {
+        "text": "-",
+        "conf": 91.0,
+        "bbox": {
+            "left": 2134,
+            "top": 3043,
+            "width": 11,
+            "height": 3
+        },
+        "page": 4
+    },
+    {
+        "text": "250",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2157,
+            "top": 3027,
+            "width": 58,
+            "height": 28
+        },
+        "page": 4
+    },
+    {
+        "text": "Interpretation",
+        "conf": 96.0,
+        "bbox": {
+            "left": 165,
+            "top": 3156,
+            "width": 250,
+            "height": 37
+        },
+        "page": 4
+    },
+    {
+        "text": "M0",
+        "conf": 15.0,
+        "bbox": {
+            "left": 987,
+            "top": 3267,
+            "width": 178,
+            "height": 84
+        },
+        "page": 4
+    },
+    {
+        "text": "_",
+        "conf": 2.0,
+        "bbox": {
+            "left": 2052,
+            "top": 3256,
+            "width": 204,
+            "height": 35
+        },
+        "page": 4
+    },
+    {
+        "text": "If",
+        "conf": 63.0,
+        "bbox": {
+            "left": 91,
+            "top": 3515,
+            "width": 25,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 123,
+            "top": 3515,
+            "width": 72,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 207,
+            "top": 3515,
+            "width": 115,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "are",
+        "conf": 97.0,
+        "bbox": {
+            "left": 334,
+            "top": 3524,
+            "width": 55,
+            "height": 25
+        },
+        "page": 4
+    },
+    {
+        "text": "alarming",
+        "conf": 96.0,
+        "bbox": {
+            "left": 401,
+            "top": 3515,
+            "width": 156,
+            "height": 42
+        },
+        "page": 4
+    },
+    {
+        "text": "or",
+        "conf": 96.0,
+        "bbox": {
+            "left": 570,
+            "top": 3524,
+            "width": 36,
+            "height": 25
+        },
+        "page": 4
+    },
+    {
+        "text": "unexpected,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 618,
+            "top": 3515,
+            "width": 213,
+            "height": 42
+        },
+        "page": 4
+    },
+    {
+        "text": "client",
+        "conf": 96.0,
+        "bbox": {
+            "left": 839,
+            "top": 3515,
+            "width": 100,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "is",
+        "conf": 96.0,
+        "bbox": {
+            "left": 950,
+            "top": 3515,
+            "width": 26,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "advised",
+        "conf": 96.0,
+        "bbox": {
+            "left": 988,
+            "top": 3515,
+            "width": 133,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "to",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1133,
+            "top": 3520,
+            "width": 36,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "contact",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1182,
+            "top": 3520,
+            "width": 130,
+            "height": 29
+        },
+        "page": 4
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1321,
+            "top": 3515,
+            "width": 59,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "Customer",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1392,
+            "top": 3515,
+            "width": 167,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "Care",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1571,
+            "top": 3515,
+            "width": 76,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "immediately",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1661,
+            "top": 3515,
+            "width": 218,
+            "height": 42
+        },
+        "page": 4
+    },
+    {
+        "text": "for",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1888,
+            "top": 3515,
+            "width": 50,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "possible",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1950,
+            "top": 3515,
+            "width": 145,
+            "height": 42
+        },
+        "page": 4
+    },
+    {
+        "text": "remedial",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2108,
+            "top": 3515,
+            "width": 154,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "action.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2273,
+            "top": 3515,
+            "width": 117,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "Tel:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 482,
+            "top": 3567,
+            "width": 61,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "011-4988-5050,",
+        "conf": 92.0,
+        "bbox": {
+            "left": 552,
+            "top": 3567,
+            "width": 288,
+            "height": 40
+        },
+        "page": 4
+    },
+    {
+        "text": "Fax:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 847,
+            "top": 3567,
+            "width": 76,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "+91-11-2788-2134,",
+        "conf": 91.0,
+        "bbox": {
+            "left": 933,
+            "top": 3567,
+            "width": 344,
+            "height": 39
+        },
+        "page": 4
+    },
+    {
+        "text": "E-mail:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1284,
+            "top": 3567,
+            "width": 125,
+            "height": 34
+        },
+        "page": 4
+    },
+    {
+        "text": "customer.care@lalpathlabs.com",
+        "conf": 76.0,
+        "bbox": {
+            "left": 1419,
+            "top": 3567,
+            "width": 566,
+            "height": 42
+        },
+        "page": 4
+    }
+]

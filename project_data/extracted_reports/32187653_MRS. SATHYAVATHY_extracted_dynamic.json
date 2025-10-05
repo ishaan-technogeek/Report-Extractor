@@ -1,6 +1,6 @@
 {
     "patient_info": {
-        "Lab. Id": "P0893801                                                                        Reg. Date         —:  16-Sep-2025 / 12:26 PM",
+        "Lab. Id": "P0893801                      Hosp. UHID                                                             Reg. Date         —:  16-Sep-2025 / 12:26 PM",
         "Name": "MRS. SATHYAVATHY                                                                                 Collection        + 16-Sep-2025 / 12:27 PM",
         "Gender": "7ZOY / Female",
         "Received": "16-Sep-2025 / 13:09 PM",
@@ -14,168 +14,204 @@
         {
             "Investigation": {
                 "value": "BILIRUBIN TOTAL",
-                "confidence": 96
+                "confidence": 96.0
             },
             "Observed Value": {
                 "value": "0.44",
-                "confidence": 94
+                "confidence": 94.0
             },
             "Unit": {
                 "value": "mg/dl",
-                "confidence": 92
+                "confidence": 92.0
+            },
+            "Biological Ref. Interval": {
+                "value": "<0.9",
+                "confidence": 88.0
             },
             "Specimen": {
                 "value": "Serum",
-                "confidence": 96
+                "confidence": 96.0
             }
         },
         {
             "Investigation": {
                 "value": "BILIRUBIN DIRECT",
-                "confidence": 96
+                "confidence": 96.0
             },
             "Observed Value": {
                 "value": "0.26",
-                "confidence": 95
+                "confidence": 95.0
             },
             "Unit": {
                 "value": "mg/dl",
-                "confidence": 92
+                "confidence": 92.0
+            },
+            "Biological Ref. Interval": {
+                "value": "<0.30",
+                "confidence": 91.0
             },
             "Specimen": {
                 "value": "Serum",
-                "confidence": 96
+                "confidence": 96.0
             }
         },
         {
             "Investigation": {
                 "value": "BILIRUBIN INDIRECT",
-                "confidence": 95
+                "confidence": 95.0
             },
             "Observed Value": {
                 "value": "0.18",
-                "confidence": 96
+                "confidence": 96.0
             },
             "Unit": {
                 "value": "mg/dl",
-                "confidence": 92
+                "confidence": 92.0
+            },
+            "Biological Ref. Interval": {
+                "value": "0.1-1.0",
+                "confidence": 88.0
             },
             "Specimen": {
                 "value": "Serum",
-                "confidence": 96
+                "confidence": 96.0
             }
         },
         {
             "Investigation": {
                 "value": "TOTAL PROTEIN",
-                "confidence": 96
+                "confidence": 96.0
             },
             "Observed Value": {
                 "value": "7.1",
-                "confidence": 94
+                "confidence": 94.0
             },
             "Unit": {
                 "value": "g/dL",
-                "confidence": 89
+                "confidence": 89.0
+            },
+            "Biological Ref. Interval": {
+                "value": "Umbilical cord =: 4.8-8.8",
+                "confidence": 69.0
             },
             "Specimen": {
                 "value": "Serum",
-                "confidence": 96
+                "confidence": 96.0
             }
         },
         {
             "Investigation": {
                 "value": "ALBUMIN",
-                "confidence": 96
+                "confidence": 96.0
             },
             "Observed Value": {
                 "value": "3.9",
-                "confidence": 96
+                "confidence": 96.0
             },
             "Unit": {
                 "value": "g/L",
-                "confidence": 96
+                "confidence": 96.0
+            },
+            "Biological Ref. Interval": {
+                "value": "Adults : 3.5-5.2",
+                "confidence": 66.0
             },
             "Specimen": {
                 "value": "Serum",
-                "confidence": 96
+                "confidence": 96.0
             }
         },
         {
             "Investigation": {
                 "value": "GLOBULIN",
-                "confidence": 95
+                "confidence": 95.0
             },
             "Observed Value": {
                 "value": "3.2",
-                "confidence": 95
+                "confidence": 95.0
             },
             "Unit": {
                 "value": "g/dL",
-                "confidence": 94
+                "confidence": 94.0
+            },
+            "Biological Ref. Interval": {
+                "value": "2.3-3.5",
+                "confidence": 88.0
             },
             "Specimen": {
                 "value": "Serum",
-                "confidence": 96
+                "confidence": 96.0
             }
         },
         {
             "Investigation": {
                 "value": "SGPT (ALT)",
-                "confidence": 94
+                "confidence": 94.0
             },
             "Observed Value": {
                 "value": "22",
-                "confidence": 96
+                "confidence": 96.0
             },
             "Unit": {
                 "value": "U/L",
-                "confidence": 94
+                "confidence": 94.0
+            },
+            "Biological Ref. Interval": {
+                "value": "10-35",
+                "confidence": 96.0
             },
             "Specimen": {
                 "value": "Serum",
-                "confidence": 96
+                "confidence": 96.0
             }
         },
         {
             "Investigation": {
                 "value": "GGT",
-                "confidence": 95
+                "confidence": 95.0
             },
             "Observed Value": {
                 "value": "15",
-                "confidence": 93
+                "confidence": 93.0
             },
             "Unit": {
                 "value": "U/L",
-                "confidence": 94
+                "confidence": 94.0
+            },
+            "Biological Ref. Interval": {
+                "value": "<40",
+                "confidence": 92.0
             },
             "Specimen": {
                 "value": "Serum",
-                "confidence": 96
+                "confidence": 96.0
             }
         },
         {
             "Investigation": {
                 "value": "ALKALINE PHOSPHATASE",
-                "confidence": 96
+                "confidence": 96.0
             },
             "Observed Value": {
                 "value": "67",
-                "confidence": 96
+                "confidence": 96.0
             },
             "Unit": {
                 "value": "U/L",
-                "confidence": 94
+                "confidence": 94.0
+            },
+            "Biological Ref. Interval": {
+                "value": "35-104",
+                "confidence": 96.0
             },
             "Specimen": {
                 "value": "Serum",
-                "confidence": 96
+                "confidence": 96.0
             }
         }
     ],
     "metadata": {
-        "extraction_method": "human_corrected",
+        "extraction_method": "dynamic_rule_based_v6",
         "num_tests_extracted": 9,
         "detected_columns": [
             "Investigation",
@@ -183,7 +219,6 @@
             "Unit",
             "Biological Ref. Interval",
             "Specimen"
-        ],
-        "original_filename": "32187653_MRS. SATHYAVATHY.pdf"
+        ]
     }
 }

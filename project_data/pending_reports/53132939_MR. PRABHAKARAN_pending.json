@@ -1,14 +1,13 @@
 {
     "patient_info": {
-        "Lab. Id": "P1238545 Hosp. UHID : Reg. Date : 17-Sep-2025 / 11:30 AM",
-        "Name": "MR. PRABHAKARAN NAIR . Collection + 17-Sep-2025 / 11:31 AM",
-        "Collected At": "Emami Frank Ross Limited Report : 17-Sep-2025 / 13:35 PM",
-        "Referral Dr se Report Status": "Final Print :",
-        "Method": "Indirect ISE",
-        "Remarks": "",
-        "Comments": "",
-        "Age": "72Y",
-        "Gender": "Male Received ! 17-Sep-2025 / 12:13 PM"
+        "Lab. Id": "P1238545",
+        "Hosp. UHID": "Reg. Date",
+        "11": "30 AM",
+        "Name": "MR. PRABHAKARAN NAIR .                                                                        Collection        +  17-Sep-2025 / 11:31 AM",
+        "Gender": "72Y /Male                                                                                                   Received         !  17-Sep-2025 / 12:13 PM",
+        "Collected At": "Emami Frank Ross Limited",
+        "Report": "17-Sep-2025 / 13:35 PM",
+        "Method": "Indirect ISE"
     },
     "lab_results": [
         {

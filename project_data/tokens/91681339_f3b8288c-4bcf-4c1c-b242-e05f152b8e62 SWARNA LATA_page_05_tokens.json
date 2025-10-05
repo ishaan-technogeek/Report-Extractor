@@ -1,0 +1,5084 @@
+[
+    {
+        "text": "BD",
+        "conf": 45.0,
+        "bbox": {
+            "left": 110,
+            "top": 32,
+            "width": 185,
+            "height": 118
+        },
+        "page": 5
+    },
+    {
+        "text": "Lal",
+        "conf": 64.0,
+        "bbox": {
+            "left": 362,
+            "top": 28,
+            "width": 150,
+            "height": 128
+        },
+        "page": 5
+    },
+    {
+        "text": "Pathlabs",
+        "conf": 58.0,
+        "bbox": {
+            "left": 537,
+            "top": 50,
+            "width": 408,
+            "height": 81
+        },
+        "page": 5
+    },
+    {
+        "text": "Regd.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1320,
+            "top": 194,
+            "width": 61,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "Office:",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1389,
+            "top": 193,
+            "width": 73,
+            "height": 19
+        },
+        "page": 5
+    },
+    {
+        "text": "Dr",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1471,
+            "top": 194,
+            "width": 22,
+            "height": 17
+        },
+        "page": 5
+    },
+    {
+        "text": "Lal",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1501,
+            "top": 195,
+            "width": 26,
+            "height": 17
+        },
+        "page": 5
+    },
+    {
+        "text": "Path",
+        "conf": 61.0,
+        "bbox": {
+            "left": 1538,
+            "top": 194,
+            "width": 42,
+            "height": 18
+        },
+        "page": 5
+    },
+    {
+        "text": "abs",
+        "conf": 68.0,
+        "bbox": {
+            "left": 1591,
+            "top": 189,
+            "width": 25,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "Ltd,",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1629,
+            "top": 195,
+            "width": 35,
+            "height": 18
+        },
+        "page": 5
+    },
+    {
+        "text": "Block-E,",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1673,
+            "top": 194,
+            "width": 76,
+            "height": 19
+        },
+        "page": 5
+    },
+    {
+        "text": "Sector-18,",
+        "conf": 85.0,
+        "bbox": {
+            "left": 1759,
+            "top": 194,
+            "width": 96,
+            "height": 19
+        },
+        "page": 5
+    },
+    {
+        "text": "Rohini,",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1865,
+            "top": 194,
+            "width": 65,
+            "height": 19
+        },
+        "page": 5
+    },
+    {
+        "text": "New",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1940,
+            "top": 194,
+            "width": 46,
+            "height": 18
+        },
+        "page": 5
+    },
+    {
+        "text": "Dethi-1",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1993,
+            "top": 194,
+            "width": 67,
+            "height": 17
+        },
+        "page": 5
+    },
+    {
+        "text": "10085",
+        "conf": 0.0,
+        "bbox": {
+            "left": 2068,
+            "top": 194,
+            "width": 59,
+            "height": 18
+        },
+        "page": 5
+    },
+    {
+        "text": "Web:",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1320,
+            "top": 231,
+            "width": 56,
+            "height": 16
+        },
+        "page": 5
+    },
+    {
+        "text": "www",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1384,
+            "top": 234,
+            "width": 56,
+            "height": 12
+        },
+        "page": 5
+    },
+    {
+        "text": "iaipathiabs",
+        "conf": 72.0,
+        "bbox": {
+            "left": 1446,
+            "top": 231,
+            "width": 104,
+            "height": 21
+        },
+        "page": 5
+    },
+    {
+        "text": "com,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1558,
+            "top": 234,
+            "width": 46,
+            "height": 15
+        },
+        "page": 5
+    },
+    {
+        "text": "CIN:",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1613,
+            "top": 230,
+            "width": 46,
+            "height": 17
+        },
+        "page": 5
+    },
+    {
+        "text": "L74899DL",
+        "conf": 54.0,
+        "bbox": {
+            "left": 1667,
+            "top": 231,
+            "width": 108,
+            "height": 16
+        },
+        "page": 5
+    },
+    {
+        "text": "1",
+        "conf": 54.0,
+        "bbox": {
+            "left": 1768,
+            "top": 226,
+            "width": 11,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "99SPLC065",
+        "conf": 34.0,
+        "bbox": {
+            "left": 1781,
+            "top": 230,
+            "width": 150,
+            "height": 17
+        },
+        "page": 5
+    },
+    {
+        "text": "388",
+        "conf": 71.0,
+        "bbox": {
+            "left": 1896,
+            "top": 226,
+            "width": 38,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "Name",
+        "conf": 96.0,
+        "bbox": {
+            "left": 105,
+            "top": 320,
+            "width": 94,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 90.0,
+        "bbox": {
+            "left": 352,
+            "top": 328,
+            "width": 6,
+            "height": 21
+        },
+        "page": 5
+    },
+    {
+        "text": "Mrs.",
+        "conf": 93.0,
+        "bbox": {
+            "left": 381,
+            "top": 322,
+            "width": 70,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "SWARNA",
+        "conf": 91.0,
+        "bbox": {
+            "left": 464,
+            "top": 322,
+            "width": 159,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "LATA",
+        "conf": 96.0,
+        "bbox": {
+            "left": 646,
+            "top": 322,
+            "width": 93,
+            "height": 26
+        },
+        "page": 5
+    },
+    {
+        "text": "Lab",
+        "conf": 96.0,
+        "bbox": {
+            "left": 105,
+            "top": 369,
+            "width": 60,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "No.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 178,
+            "top": 369,
+            "width": 54,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 89.0,
+        "bbox": {
+            "left": 352,
+            "top": 377,
+            "width": 6,
+            "height": 21
+        },
+        "page": 5
+    },
+    {
+        "text": "466917439",
+        "conf": 96.0,
+        "bbox": {
+            "left": 379,
+            "top": 367,
+            "width": 178,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Age",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1209,
+            "top": 369,
+            "width": 66,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1493,
+            "top": 376,
+            "width": 6,
+            "height": 19
+        },
+        "page": 5
+    },
+    {
+        "text": "41",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1529,
+            "top": 369,
+            "width": 34,
+            "height": 26
+        },
+        "page": 5
+    },
+    {
+        "text": "Years",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1579,
+            "top": 369,
+            "width": 95,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Ref",
+        "conf": 95.0,
+        "bbox": {
+            "left": 105,
+            "top": 418,
+            "width": 56,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "By",
+        "conf": 95.0,
+        "bbox": {
+            "left": 172,
+            "top": 418,
+            "width": 43,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 90.0,
+        "bbox": {
+            "left": 352,
+            "top": 427,
+            "width": 6,
+            "height": 21
+        },
+        "page": 5
+    },
+    {
+        "text": "Self",
+        "conf": 96.0,
+        "bbox": {
+            "left": 380,
+            "top": 416,
+            "width": 66,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Gender",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1210,
+            "top": 418,
+            "width": 125,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1493,
+            "top": 425,
+            "width": 6,
+            "height": 19
+        },
+        "page": 5
+    },
+    {
+        "text": "Female",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1531,
+            "top": 416,
+            "width": 120,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Collected",
+        "conf": 96.0,
+        "bbox": {
+            "left": 104,
+            "top": 463,
+            "width": 158,
+            "height": 46
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 89.0,
+        "bbox": {
+            "left": 352,
+            "top": 475,
+            "width": 5,
+            "height": 19
+        },
+        "page": 5
+    },
+    {
+        "text": "8/8/2024",
+        "conf": 87.0,
+        "bbox": {
+            "left": 380,
+            "top": 466,
+            "width": 138,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "7:50:00AM",
+        "conf": 87.0,
+        "bbox": {
+            "left": 550,
+            "top": 466,
+            "width": 176,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Reported",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1211,
+            "top": 463,
+            "width": 153,
+            "height": 46
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1493,
+            "top": 475,
+            "width": 6,
+            "height": 19
+        },
+        "page": 5
+    },
+    {
+        "text": "9/8/2024",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1529,
+            "top": 463,
+            "width": 138,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "10:06:36AM",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1691,
+            "top": 463,
+            "width": 194,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Alc",
+        "conf": 69.0,
+        "bbox": {
+            "left": 103,
+            "top": 517,
+            "width": 54,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Status",
+        "conf": 96.0,
+        "bbox": {
+            "left": 169,
+            "top": 517,
+            "width": 107,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": ":P",
+        "conf": 85.0,
+        "bbox": {
+            "left": 352,
+            "top": 517,
+            "width": 50,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Report",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1211,
+            "top": 517,
+            "width": 113,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "Status",
+        "conf": 66.0,
+        "bbox": {
+            "left": 1336,
+            "top": 517,
+            "width": 106,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 77.0,
+        "bbox": {
+            "left": 1493,
+            "top": 524,
+            "width": 6,
+            "height": 19
+        },
+        "page": 5
+    },
+    {
+        "text": "Final",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1534,
+            "top": 518,
+            "width": 79,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Collected",
+        "conf": 95.0,
+        "bbox": {
+            "left": 113,
+            "top": 572,
+            "width": 158,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "at",
+        "conf": 85.0,
+        "bbox": {
+            "left": 284,
+            "top": 573,
+            "width": 31,
+            "height": 26
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 85.0,
+        "bbox": {
+            "left": 352,
+            "top": 580,
+            "width": 7,
+            "height": 21
+        },
+        "page": 5
+    },
+    {
+        "text": "RELEX",
+        "conf": 90.0,
+        "bbox": {
+            "left": 402,
+            "top": 572,
+            "width": 105,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "HEALTHCARE",
+        "conf": 95.0,
+        "bbox": {
+            "left": 518,
+            "top": 571,
+            "width": 217,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "INDIA",
+        "conf": 95.0,
+        "bbox": {
+            "left": 747,
+            "top": 572,
+            "width": 85,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "Pvt.",
+        "conf": 29.0,
+        "bbox": {
+            "left": 843,
+            "top": 572,
+            "width": 55,
+            "height": 24
+        },
+        "page": 5
+    },
+    {
+        "text": "Ltd.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 911,
+            "top": 572,
+            "width": 55,
+            "height": 24
+        },
+        "page": 5
+    },
+    {
+        "text": "Processed",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1219,
+            "top": 572,
+            "width": 177,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "at",
+        "conf": 75.0,
+        "bbox": {
+            "left": 1410,
+            "top": 573,
+            "width": 30,
+            "height": 26
+        },
+        "page": 5
+    },
+    {
+        "text": ":",
+        "conf": 70.0,
+        "bbox": {
+            "left": 1502,
+            "top": 580,
+            "width": 6,
+            "height": 21
+        },
+        "page": 5
+    },
+    {
+        "text": "LPL-BENGALURU",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1542,
+            "top": 571,
+            "width": 270,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "REFERENCE",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1825,
+            "top": 571,
+            "width": 195,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "LAB",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2032,
+            "top": 572,
+            "width": 62,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "NO.17/1,SERVICE",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1541,
+            "top": 617,
+            "width": 266,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "ROAD,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1818,
+            "top": 617,
+            "width": 99,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "THE",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1929,
+            "top": 618,
+            "width": 62,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "ADDRESS,OPP",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1540,
+            "top": 663,
+            "width": 231,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "PRESTIGE",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1783,
+            "top": 663,
+            "width": 159,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "CESSNA",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1953,
+            "top": 663,
+            "width": 131,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "PARK,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2095,
+            "top": 664,
+            "width": 96,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "OUTER",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1541,
+            "top": 709,
+            "width": 110,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "RING",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1662,
+            "top": 709,
+            "width": 77,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "ROAD",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1751,
+            "top": 709,
+            "width": 91,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": ",KADUBEESANAHALLI",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1854,
+            "top": 709,
+            "width": 348,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": ";BANGALORE-560103",
+        "conf": 46.0,
+        "bbox": {
+            "left": 1541,
+            "top": 755,
+            "width": 330,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1148,
+            "top": 875,
+            "width": 80,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "Report",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1242,
+            "top": 875,
+            "width": 124,
+            "height": 37
+        },
+        "page": 5
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 163,
+            "top": 983,
+            "width": 73,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Name",
+        "conf": 96.0,
+        "bbox": {
+            "left": 249,
+            "top": 983,
+            "width": 94,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1134,
+            "top": 979,
+            "width": 126,
+            "height": 41
+        },
+        "page": 5
+    },
+    {
+        "text": "Units",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1605,
+            "top": 979,
+            "width": 86,
+            "height": 41
+        },
+        "page": 5
+    },
+    {
+        "text": "Bio.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2018,
+            "top": 983,
+            "width": 63,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Ref.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2096,
+            "top": 983,
+            "width": 63,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "Interval",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2173,
+            "top": 983,
+            "width": 123,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 84.0,
+        "bbox": {
+            "left": 172,
+            "top": 1018,
+            "width": 3,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "LEVEL",
+        "conf": 93.0,
+        "bbox": {
+            "left": 211,
+            "top": 1023,
+            "width": 105,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 94.0,
+        "bbox": {
+            "left": 528,
+            "top": 1018,
+            "width": 3,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "REFERENCE",
+        "conf": 95.0,
+        "bbox": {
+            "left": 566,
+            "top": 1022,
+            "width": 195,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "RANGE",
+        "conf": 96.0,
+        "bbox": {
+            "left": 788,
+            "top": 1022,
+            "width": 107,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "IN",
+        "conf": 92.0,
+        "bbox": {
+            "left": 922,
+            "top": 1023,
+            "width": 39,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "nmol/L|",
+        "conf": 69.0,
+        "bbox": {
+            "left": 988,
+            "top": 1018,
+            "width": 144,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "COMMENTS",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1165,
+            "top": 1022,
+            "width": 174,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 80.0,
+        "bbox": {
+            "left": 172,
+            "top": 1059,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "---------------",
+        "conf": 78.0,
+        "bbox": {
+            "left": 189,
+            "top": 1075,
+            "width": 325,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 89.0,
+        "bbox": {
+            "left": 528,
+            "top": 1059,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "--------------2-----------",
+        "conf": 0.0,
+        "bbox": {
+            "left": 544,
+            "top": 1075,
+            "width": 571,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1128,
+            "top": 1060,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "---------------",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1153,
+            "top": 1075,
+            "width": 318,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "2-222-222-2222",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1479,
+            "top": 1075,
+            "width": 345,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "2222222222",
+        "conf": 17.0,
+        "bbox": {
+            "left": 1835,
+            "top": 1075,
+            "width": 211,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "2-22-22",
+        "conf": 0.0,
+        "bbox": {
+            "left": 2057,
+            "top": 1075,
+            "width": 170,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 81.0,
+        "bbox": {
+            "left": 2240,
+            "top": 1060,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 95.0,
+        "bbox": {
+            "left": 172,
+            "top": 1102,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "Deficient",
+        "conf": 95.0,
+        "bbox": {
+            "left": 209,
+            "top": 1102,
+            "width": 196,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 93.0,
+        "bbox": {
+            "left": 528,
+            "top": 1102,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "<",
+        "conf": 92.0,
+        "bbox": {
+            "left": 766,
+            "top": 1112,
+            "width": 18,
+            "height": 19
+        },
+        "page": 5
+    },
+    {
+        "text": "50",
+        "conf": 96.0,
+        "bbox": {
+            "left": 812,
+            "top": 1103,
+            "width": 39,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1128,
+            "top": 1103,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "High",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1166,
+            "top": 1102,
+            "width": 83,
+            "height": 37
+        },
+        "page": 5
+    },
+    {
+        "text": "risk",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1280,
+            "top": 1102,
+            "width": 82,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "for",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1388,
+            "top": 1102,
+            "width": 62,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "developing",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1476,
+            "top": 1102,
+            "width": 219,
+            "height": 37
+        },
+        "page": 5
+    },
+    {
+        "text": "bone",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1722,
+            "top": 1102,
+            "width": 84,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "disease",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1832,
+            "top": 1102,
+            "width": 152,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 91.0,
+        "bbox": {
+            "left": 2240,
+            "top": 1103,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 74.0,
+        "bbox": {
+            "left": 172,
+            "top": 1144,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "---------------",
+        "conf": 74.0,
+        "bbox": {
+            "left": 189,
+            "top": 1160,
+            "width": 325,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 89.0,
+        "bbox": {
+            "left": 528,
+            "top": 1144,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "--------------------------",
+        "conf": 51.0,
+        "bbox": {
+            "left": 544,
+            "top": 1160,
+            "width": 571,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1128,
+            "top": 1145,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "---=-----",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1153,
+            "top": 1160,
+            "width": 184,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "2-22-2222",
+        "conf": 14.0,
+        "bbox": {
+            "left": 1345,
+            "top": 1160,
+            "width": 211,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "2",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1567,
+            "top": 1160,
+            "width": 12,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "22222",
+        "conf": 21.0,
+        "bbox": {
+            "left": 1596,
+            "top": 1160,
+            "width": 94,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "nen",
+        "conf": 17.0,
+        "bbox": {
+            "left": 1713,
+            "top": 1160,
+            "width": 88,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "noe",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1818,
+            "top": 1160,
+            "width": 75,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "nee",
+        "conf": 17.0,
+        "bbox": {
+            "left": 1923,
+            "top": 1160,
+            "width": 59,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "n",
+        "conf": 0.0,
+        "bbox": {
+            "left": 2010,
+            "top": 1160,
+            "width": 13,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "nen",
+        "conf": 8.0,
+        "bbox": {
+            "left": 2034,
+            "top": 1160,
+            "width": 100,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "eee",
+        "conf": 13.0,
+        "bbox": {
+            "left": 2146,
+            "top": 1160,
+            "width": 81,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 83.0,
+        "bbox": {
+            "left": 2240,
+            "top": 1145,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 172,
+            "top": 1186,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "Insufficient",
+        "conf": 63.0,
+        "bbox": {
+            "left": 210,
+            "top": 1186,
+            "width": 262,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 74.0,
+        "bbox": {
+            "left": 528,
+            "top": 1186,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "50-74",
+        "conf": 95.0,
+        "bbox": {
+            "left": 768,
+            "top": 1187,
+            "width": 104,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1128,
+            "top": 1187,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "Vitamin",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1164,
+            "top": 1186,
+            "width": 152,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "D",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1343,
+            "top": 1192,
+            "width": 20,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "concentration",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1388,
+            "top": 1186,
+            "width": 284,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "which",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1697,
+            "top": 1186,
+            "width": 108,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "normalizes",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1833,
+            "top": 1186,
+            "width": 217,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2240,
+            "top": 1187,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 92.0,
+        "bbox": {
+            "left": 172,
+            "top": 1228,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 92.0,
+        "bbox": {
+            "left": 528,
+            "top": 1228,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1128,
+            "top": 1229,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "Parathyroid",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1167,
+            "top": 1228,
+            "width": 238,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "hormone",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1433,
+            "top": 1228,
+            "width": 150,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "concentration",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1611,
+            "top": 1228,
+            "width": 283,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 93.0,
+        "bbox": {
+            "left": 2240,
+            "top": 1229,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 72.0,
+        "bbox": {
+            "left": 172,
+            "top": 1270,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "---------------",
+        "conf": 72.0,
+        "bbox": {
+            "left": 189,
+            "top": 1286,
+            "width": 325,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 87.0,
+        "bbox": {
+            "left": 528,
+            "top": 1270,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "--------------------------",
+        "conf": 21.0,
+        "bbox": {
+            "left": 544,
+            "top": 1286,
+            "width": 571,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1128,
+            "top": 1271,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "--------------",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1145,
+            "top": 1286,
+            "width": 1082,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "222-222-222",
+        "conf": 12.0,
+        "bbox": {
+            "left": 1456,
+            "top": 1252,
+            "width": 234,
+            "height": 70
+        },
+        "page": 5
+    },
+    {
+        "text": "222-222-2222",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1707,
+            "top": 1252,
+            "width": 252,
+            "height": 70
+        },
+        "page": 5
+    },
+    {
+        "text": "-2",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1969,
+            "top": 1252,
+            "width": 36,
+            "height": 70
+        },
+        "page": 5
+    },
+    {
+        "text": "222-222",
+        "conf": 0.0,
+        "bbox": {
+            "left": 2010,
+            "top": 1252,
+            "width": 147,
+            "height": 70
+        },
+        "page": 5
+    },
+    {
+        "text": "2--",
+        "conf": 0.0,
+        "bbox": {
+            "left": 2168,
+            "top": 1252,
+            "width": 59,
+            "height": 70
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 95.0,
+        "bbox": {
+            "left": 172,
+            "top": 1313,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "Sufficient",
+        "conf": 85.0,
+        "bbox": {
+            "left": 210,
+            "top": 1313,
+            "width": 217,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 92.0,
+        "bbox": {
+            "left": 528,
+            "top": 1313,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "75-250",
+        "conf": 96.0,
+        "bbox": {
+            "left": 766,
+            "top": 1314,
+            "width": 129,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1128,
+            "top": 1314,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "Optimal",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1164,
+            "top": 1313,
+            "width": 148,
+            "height": 36
+        },
+        "page": 5
+    },
+    {
+        "text": "concentration",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1344,
+            "top": 1313,
+            "width": 283,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "for",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1655,
+            "top": 1313,
+            "width": 62,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "maximal",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1743,
+            "top": 1313,
+            "width": 147,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "health",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1922,
+            "top": 1313,
+            "width": 128,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "benefit|",
+        "conf": 92.0,
+        "bbox": {
+            "left": 2078,
+            "top": 1313,
+            "width": 166,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 76.0,
+        "bbox": {
+            "left": 172,
+            "top": 1355,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "---------------",
+        "conf": 76.0,
+        "bbox": {
+            "left": 189,
+            "top": 1371,
+            "width": 325,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 88.0,
+        "bbox": {
+            "left": 528,
+            "top": 1355,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "--------------------------",
+        "conf": 36.0,
+        "bbox": {
+            "left": 544,
+            "top": 1371,
+            "width": 571,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1128,
+            "top": 1356,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "---------",
+        "conf": 16.0,
+        "bbox": {
+            "left": 1153,
+            "top": 1371,
+            "width": 184,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "2-222-222-2222",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1345,
+            "top": 1371,
+            "width": 882,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "2222",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1707,
+            "top": 1337,
+            "width": 88,
+            "height": 70
+        },
+        "page": 5
+    },
+    {
+        "text": "nnn",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1818,
+            "top": 1337,
+            "width": 88,
+            "height": 70
+        },
+        "page": 5
+    },
+    {
+        "text": "nee",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1928,
+            "top": 1337,
+            "width": 77,
+            "height": 70
+        },
+        "page": 5
+    },
+    {
+        "text": "n",
+        "conf": 0.0,
+        "bbox": {
+            "left": 2033,
+            "top": 1337,
+            "width": 13,
+            "height": 70
+        },
+        "page": 5
+    },
+    {
+        "text": "eee",
+        "conf": 20.0,
+        "bbox": {
+            "left": 2057,
+            "top": 1337,
+            "width": 82,
+            "height": 70
+        },
+        "page": 5
+    },
+    {
+        "text": "e",
+        "conf": 0.0,
+        "bbox": {
+            "left": 2144,
+            "top": 1337,
+            "width": 19,
+            "height": 70
+        },
+        "page": 5
+    },
+    {
+        "text": "eee",
+        "conf": 18.0,
+        "bbox": {
+            "left": 2168,
+            "top": 1337,
+            "width": 59,
+            "height": 70
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 83.0,
+        "bbox": {
+            "left": 2240,
+            "top": 1356,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 172,
+            "top": 1397,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "Potential",
+        "conf": 96.0,
+        "bbox": {
+            "left": 211,
+            "top": 1397,
+            "width": 189,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 93.0,
+        "bbox": {
+            "left": 528,
+            "top": 1397,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": ">250",
+        "conf": 92.0,
+        "bbox": {
+            "left": 764,
+            "top": 1398,
+            "width": 87,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1128,
+            "top": 1398,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "High",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1166,
+            "top": 1397,
+            "width": 83,
+            "height": 37
+        },
+        "page": 5
+    },
+    {
+        "text": "risk",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1280,
+            "top": 1397,
+            "width": 82,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "for",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1388,
+            "top": 1397,
+            "width": 62,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "toxic",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1477,
+            "top": 1397,
+            "width": 106,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "effects",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1610,
+            "top": 1397,
+            "width": 151,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 91.0,
+        "bbox": {
+            "left": 2240,
+            "top": 1398,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 82.0,
+        "bbox": {
+            "left": 528,
+            "top": 1439,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 78.0,
+        "bbox": {
+            "left": 1128,
+            "top": 1440,
+            "width": 4,
+            "height": 33
+        },
+        "page": 5
+    },
+    {
+        "text": "|",
+        "conf": 93.0,
+        "bbox": {
+            "left": 172,
+            "top": 1439,
+            "width": 3,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "intoxication",
+        "conf": 95.0,
+        "bbox": {
+            "left": 210,
+            "top": 1439,
+            "width": 261,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "e",
+        "conf": 87.0,
+        "bbox": {
+            "left": 238,
+            "top": 1618,
+            "width": 14,
+            "height": 13
+        },
+        "page": 5
+    },
+    {
+        "text": "The",
+        "conf": 91.0,
+        "bbox": {
+            "left": 311,
+            "top": 1606,
+            "width": 68,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "assay",
+        "conf": 96.0,
+        "bbox": {
+            "left": 392,
+            "top": 1613,
+            "width": 104,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "measures",
+        "conf": 96.0,
+        "bbox": {
+            "left": 510,
+            "top": 1613,
+            "width": 173,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "both",
+        "conf": 96.0,
+        "bbox": {
+            "left": 698,
+            "top": 1606,
+            "width": 74,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "D2",
+        "conf": 93.0,
+        "bbox": {
+            "left": 789,
+            "top": 1606,
+            "width": 47,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "(Ergocalciferol)",
+        "conf": 92.0,
+        "bbox": {
+            "left": 851,
+            "top": 1605,
+            "width": 268,
+            "height": 39
+        },
+        "page": 5
+    },
+    {
+        "text": "and",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1132,
+            "top": 1606,
+            "width": 64,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "D3",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1212,
+            "top": 1606,
+            "width": 48,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "(Cholecalciferol)",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1275,
+            "top": 1605,
+            "width": 288,
+            "height": 39
+        },
+        "page": 5
+    },
+    {
+        "text": "metabolites",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1577,
+            "top": 1606,
+            "width": 203,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1794,
+            "top": 1605,
+            "width": 34,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "vitamin",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1838,
+            "top": 1606,
+            "width": 125,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "D.",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1979,
+            "top": 1606,
+            "width": 35,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "e",
+        "conf": 89.0,
+        "bbox": {
+            "left": 238,
+            "top": 1685,
+            "width": 14,
+            "height": 13
+        },
+        "page": 5
+    },
+    {
+        "text": "25",
+        "conf": 87.0,
+        "bbox": {
+            "left": 311,
+            "top": 1673,
+            "width": 43,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "(OH)D",
+        "conf": 87.0,
+        "bbox": {
+            "left": 369,
+            "top": 1672,
+            "width": 112,
+            "height": 39
+        },
+        "page": 5
+    },
+    {
+        "text": "is",
+        "conf": 93.0,
+        "bbox": {
+            "left": 496,
+            "top": 1673,
+            "width": 26,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "influenced",
+        "conf": 96.0,
+        "bbox": {
+            "left": 537,
+            "top": 1672,
+            "width": 179,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "by",
+        "conf": 96.0,
+        "bbox": {
+            "left": 732,
+            "top": 1673,
+            "width": 40,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "sunlight,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 785,
+            "top": 1673,
+            "width": 145,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "latitude,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 947,
+            "top": 1673,
+            "width": 136,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "skin",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1099,
+            "top": 1673,
+            "width": 68,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "pigmentation,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1183,
+            "top": 1673,
+            "width": 236,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "sunscreen",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1435,
+            "top": 1680,
+            "width": 183,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "use",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1634,
+            "top": 1680,
+            "width": 61,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "and",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1709,
+            "top": 1673,
+            "width": 63,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "hepatic",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1789,
+            "top": 1673,
+            "width": 127,
+            "height": 37
+        },
+        "page": 5
+    },
+    {
+        "text": "function.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1928,
+            "top": 1672,
+            "width": 149,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "e",
+        "conf": 70.0,
+        "bbox": {
+            "left": 238,
+            "top": 1752,
+            "width": 14,
+            "height": 13
+        },
+        "page": 5
+    },
+    {
+        "text": "Optimal",
+        "conf": 90.0,
+        "bbox": {
+            "left": 312,
+            "top": 1739,
+            "width": 135,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "calcium",
+        "conf": 95.0,
+        "bbox": {
+            "left": 462,
+            "top": 1740,
+            "width": 133,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "absorption",
+        "conf": 96.0,
+        "bbox": {
+            "left": 610,
+            "top": 1740,
+            "width": 185,
+            "height": 37
+        },
+        "page": 5
+    },
+    {
+        "text": "requires",
+        "conf": 96.0,
+        "bbox": {
+            "left": 810,
+            "top": 1740,
+            "width": 142,
+            "height": 37
+        },
+        "page": 5
+    },
+    {
+        "text": "vitamin",
+        "conf": 93.0,
+        "bbox": {
+            "left": 966,
+            "top": 1740,
+            "width": 125,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "D",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1107,
+            "top": 1740,
+            "width": 24,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "25",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1146,
+            "top": 1740,
+            "width": 42,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "(OH)",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1203,
+            "top": 1739,
+            "width": 84,
+            "height": 39
+        },
+        "page": 5
+    },
+    {
+        "text": "levels",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1302,
+            "top": 1740,
+            "width": 99,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "exceeding",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1415,
+            "top": 1740,
+            "width": 180,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "75",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1611,
+            "top": 1740,
+            "width": 42,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "nmol/L.",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1667,
+            "top": 1740,
+            "width": 127,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "e",
+        "conf": 92.0,
+        "bbox": {
+            "left": 238,
+            "top": 1819,
+            "width": 14,
+            "height": 13
+        },
+        "page": 5
+    },
+    {
+        "text": "It",
+        "conf": 72.0,
+        "bbox": {
+            "left": 313,
+            "top": 1807,
+            "width": 19,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "shows",
+        "conf": 96.0,
+        "bbox": {
+            "left": 345,
+            "top": 1807,
+            "width": 112,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "seasonal",
+        "conf": 96.0,
+        "bbox": {
+            "left": 471,
+            "top": 1807,
+            "width": 157,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "variation,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 643,
+            "top": 1807,
+            "width": 159,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "with",
+        "conf": 96.0,
+        "bbox": {
+            "left": 817,
+            "top": 1807,
+            "width": 70,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "values",
+        "conf": 96.0,
+        "bbox": {
+            "left": 901,
+            "top": 1807,
+            "width": 114,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "being",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1030,
+            "top": 1807,
+            "width": 95,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "40-50%",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1138,
+            "top": 1806,
+            "width": 137,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "lower",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1291,
+            "top": 1807,
+            "width": 94,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1398,
+            "top": 1807,
+            "width": 27,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "winter",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1439,
+            "top": 1807,
+            "width": 107,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "than",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1558,
+            "top": 1807,
+            "width": 76,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1649,
+            "top": 1807,
+            "width": 27,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "summer.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1691,
+            "top": 1814,
+            "width": 153,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "e",
+        "conf": 91.0,
+        "bbox": {
+            "left": 238,
+            "top": 1886,
+            "width": 14,
+            "height": 13
+        },
+        "page": 5
+    },
+    {
+        "text": "Levels",
+        "conf": 88.0,
+        "bbox": {
+            "left": 313,
+            "top": 1874,
+            "width": 112,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "vary",
+        "conf": 96.0,
+        "bbox": {
+            "left": 439,
+            "top": 1881,
+            "width": 75,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "with",
+        "conf": 96.0,
+        "bbox": {
+            "left": 526,
+            "top": 1874,
+            "width": 69,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "age",
+        "conf": 96.0,
+        "bbox": {
+            "left": 610,
+            "top": 1881,
+            "width": 65,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "and",
+        "conf": 96.0,
+        "bbox": {
+            "left": 688,
+            "top": 1874,
+            "width": 64,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "are",
+        "conf": 96.0,
+        "bbox": {
+            "left": 767,
+            "top": 1881,
+            "width": 56,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "increased",
+        "conf": 96.0,
+        "bbox": {
+            "left": 837,
+            "top": 1874,
+            "width": 170,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "in",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1024,
+            "top": 1874,
+            "width": 27,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "pregnancy.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1066,
+            "top": 1881,
+            "width": 195,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "e",
+        "conf": 79.0,
+        "bbox": {
+            "left": 238,
+            "top": 1953,
+            "width": 14,
+            "height": 13
+        },
+        "page": 5
+    },
+    {
+        "text": "Anew",
+        "conf": 0.0,
+        "bbox": {
+            "left": 310,
+            "top": 1941,
+            "width": 112,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "test",
+        "conf": 0.0,
+        "bbox": {
+            "left": 434,
+            "top": 1942,
+            "width": 64,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Vitamin",
+        "conf": 91.0,
+        "bbox": {
+            "left": 510,
+            "top": 1941,
+            "width": 132,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "D,",
+        "conf": 91.0,
+        "bbox": {
+            "left": 658,
+            "top": 1941,
+            "width": 35,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "Ultrasensitive",
+        "conf": 96.0,
+        "bbox": {
+            "left": 710,
+            "top": 1941,
+            "width": 238,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "by",
+        "conf": 96.0,
+        "bbox": {
+            "left": 963,
+            "top": 1941,
+            "width": 40,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "LC-MS/MS",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1017,
+            "top": 1940,
+            "width": 193,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "is",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1225,
+            "top": 1941,
+            "width": 26,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "also",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1265,
+            "top": 1941,
+            "width": 71,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "available",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1350,
+            "top": 1941,
+            "width": 157,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "THYROID",
+        "conf": 92.0,
+        "bbox": {
+            "left": 161,
+            "top": 2180,
+            "width": 160,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "PROFILE,TOTAL,",
+        "conf": 91.0,
+        "bbox": {
+            "left": 335,
+            "top": 2180,
+            "width": 290,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "SERUM",
+        "conf": 96.0,
+        "bbox": {
+            "left": 638,
+            "top": 2180,
+            "width": 126,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "(CLIA)",
+        "conf": 92.0,
+        "bbox": {
+            "left": 163,
+            "top": 2230,
+            "width": 103,
+            "height": 35
+        },
+        "page": 5
+    },
+    {
+        "text": "T3,",
+        "conf": 92.0,
+        "bbox": {
+            "left": 170,
+            "top": 2308,
+            "width": 49,
+            "height": 32
+        },
+        "page": 5
+    },
+    {
+        "text": "Total",
+        "conf": 96.0,
+        "bbox": {
+            "left": 233,
+            "top": 2308,
+            "width": 79,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "1.36",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1136,
+            "top": 2305,
+            "width": 66,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "ng/mL",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1605,
+            "top": 2308,
+            "width": 98,
+            "height": 35
+        },
+        "page": 5
+    },
+    {
+        "text": "0.70",
+        "conf": 93.0,
+        "bbox": {
+            "left": 2033,
+            "top": 2308,
+            "width": 68,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 93.0,
+        "bbox": {
+            "left": 2114,
+            "top": 2324,
+            "width": 10,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "2.04",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2137,
+            "top": 2308,
+            "width": 68,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "T4,",
+        "conf": 93.0,
+        "bbox": {
+            "left": 170,
+            "top": 2414,
+            "width": 49,
+            "height": 32
+        },
+        "page": 5
+    },
+    {
+        "text": "Total",
+        "conf": 96.0,
+        "bbox": {
+            "left": 233,
+            "top": 2414,
+            "width": 79,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "11.81",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1136,
+            "top": 2412,
+            "width": 82,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "ug/dL",
+        "conf": 9.0,
+        "bbox": {
+            "left": 1605,
+            "top": 2414,
+            "width": 89,
+            "height": 35
+        },
+        "page": 5
+    },
+    {
+        "text": "5.74",
+        "conf": 92.0,
+        "bbox": {
+            "left": 2033,
+            "top": 2416,
+            "width": 68,
+            "height": 27
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 88.0,
+        "bbox": {
+            "left": 2114,
+            "top": 2431,
+            "width": 10,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "13.03",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2139,
+            "top": 2415,
+            "width": 87,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "TSH",
+        "conf": 96.0,
+        "bbox": {
+            "left": 170,
+            "top": 2521,
+            "width": 70,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "3.15",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1134,
+            "top": 2518,
+            "width": 68,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "ylU/mL",
+        "conf": 60.0,
+        "bbox": {
+            "left": 1605,
+            "top": 2521,
+            "width": 115,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "0.34",
+        "conf": 91.0,
+        "bbox": {
+            "left": 2033,
+            "top": 2521,
+            "width": 68,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 91.0,
+        "bbox": {
+            "left": 2114,
+            "top": 2537,
+            "width": 10,
+            "height": 3
+        },
+        "page": 5
+    },
+    {
+        "text": "5.60",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2137,
+            "top": 2521,
+            "width": 68,
+            "height": 28
+        },
+        "page": 5
+    },
+    {
+        "text": "Note",
+        "conf": 96.0,
+        "bbox": {
+            "left": 165,
+            "top": 2650,
+            "width": 84,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "1.",
+        "conf": 79.0,
+        "bbox": {
+            "left": 314,
+            "top": 2714,
+            "width": 27,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "TSH",
+        "conf": 79.0,
+        "bbox": {
+            "left": 385,
+            "top": 2713,
+            "width": 77,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "levels",
+        "conf": 91.0,
+        "bbox": {
+            "left": 478,
+            "top": 2714,
+            "width": 100,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "are",
+        "conf": 96.0,
+        "bbox": {
+            "left": 592,
+            "top": 2721,
+            "width": 55,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "subject",
+        "conf": 96.0,
+        "bbox": {
+            "left": 661,
+            "top": 2714,
+            "width": 126,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "to",
+        "conf": 96.0,
+        "bbox": {
+            "left": 800,
+            "top": 2715,
+            "width": 31,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "circadian",
+        "conf": 96.0,
+        "bbox": {
+            "left": 845,
+            "top": 2714,
+            "width": 158,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "variation,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1017,
+            "top": 2714,
+            "width": 160,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "reaching",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1194,
+            "top": 2714,
+            "width": 150,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "peak",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1360,
+            "top": 2714,
+            "width": 84,
+            "height": 37
+        },
+        "page": 5
+    },
+    {
+        "text": "levels",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1458,
+            "top": 2714,
+            "width": 100,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "between",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1573,
+            "top": 2714,
+            "width": 148,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "2",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1736,
+            "top": 2714,
+            "width": 19,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "-",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1769,
+            "top": 2730,
+            "width": 11,
+            "height": 5
+        },
+        "page": 5
+    },
+    {
+        "text": "4.a.m.",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1793,
+            "top": 2714,
+            "width": 109,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "and",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1917,
+            "top": 2714,
+            "width": 64,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "ata",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1996,
+            "top": 2715,
+            "width": 64,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "minimum",
+        "conf": 96.0,
+        "bbox": {
+            "left": 386,
+            "top": 2774,
+            "width": 159,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "between",
+        "conf": 95.0,
+        "bbox": {
+            "left": 561,
+            "top": 2774,
+            "width": 148,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "6-10",
+        "conf": 96.0,
+        "bbox": {
+            "left": 724,
+            "top": 2774,
+            "width": 78,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "pm",
+        "conf": 92.0,
+        "bbox": {
+            "left": 817,
+            "top": 2781,
+            "width": 51,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": ".",
+        "conf": 92.0,
+        "bbox": {
+            "left": 885,
+            "top": 2799,
+            "width": 5,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "The",
+        "conf": 96.0,
+        "bbox": {
+            "left": 905,
+            "top": 2774,
+            "width": 68,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "variation",
+        "conf": 96.0,
+        "bbox": {
+            "left": 986,
+            "top": 2774,
+            "width": 149,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "is",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1151,
+            "top": 2774,
+            "width": 26,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "of",
+        "conf": 97.0,
+        "bbox": {
+            "left": 1190,
+            "top": 2773,
+            "width": 34,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1235,
+            "top": 2774,
+            "width": 54,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "order",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1303,
+            "top": 2774,
+            "width": 93,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1408,
+            "top": 2773,
+            "width": 34,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "50%",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1453,
+            "top": 2773,
+            "width": 77,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": ".",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1547,
+            "top": 2799,
+            "width": 5,
+            "height": 4
+        },
+        "page": 5
+    },
+    {
+        "text": "hence",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1580,
+            "top": 2774,
+            "width": 106,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "time",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1699,
+            "top": 2774,
+            "width": 75,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1787,
+            "top": 2773,
+            "width": 34,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1832,
+            "top": 2774,
+            "width": 54,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "day",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1899,
+            "top": 2774,
+            "width": 64,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "has",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1977,
+            "top": 2774,
+            "width": 61,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "influence",
+        "conf": 96.0,
+        "bbox": {
+            "left": 386,
+            "top": 2833,
+            "width": 158,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "on",
+        "conf": 96.0,
+        "bbox": {
+            "left": 558,
+            "top": 2841,
+            "width": 41,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "the",
+        "conf": 95.0,
+        "bbox": {
+            "left": 614,
+            "top": 2834,
+            "width": 54,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "measured",
+        "conf": 95.0,
+        "bbox": {
+            "left": 682,
+            "top": 2834,
+            "width": 175,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "serum",
+        "conf": 95.0,
+        "bbox": {
+            "left": 872,
+            "top": 2841,
+            "width": 109,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "TSH",
+        "conf": 96.0,
+        "bbox": {
+            "left": 995,
+            "top": 2833,
+            "width": 77,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "concentrations.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1087,
+            "top": 2834,
+            "width": 270,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "2.",
+        "conf": 94.0,
+        "bbox": {
+            "left": 311,
+            "top": 2894,
+            "width": 30,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Alteration",
+        "conf": 89.0,
+        "bbox": {
+            "left": 384,
+            "top": 2894,
+            "width": 168,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 568,
+            "top": 2894,
+            "width": 27,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "concentration",
+        "conf": 96.0,
+        "bbox": {
+            "left": 610,
+            "top": 2894,
+            "width": 238,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 863,
+            "top": 2893,
+            "width": 34,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "Thyroid",
+        "conf": 96.0,
+        "bbox": {
+            "left": 907,
+            "top": 2894,
+            "width": 132,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "hormone",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1055,
+            "top": 2894,
+            "width": 156,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "binding",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1225,
+            "top": 2894,
+            "width": 126,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "protein",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1367,
+            "top": 2894,
+            "width": 118,
+            "height": 37
+        },
+        "page": 5
+    },
+    {
+        "text": "can",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1500,
+            "top": 2901,
+            "width": 62,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "profoundly",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1577,
+            "top": 2893,
+            "width": 186,
+            "height": 39
+        },
+        "page": 5
+    },
+    {
+        "text": "affect",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1776,
+            "top": 2893,
+            "width": 97,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "Total",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1886,
+            "top": 2894,
+            "width": 86,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "T3",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1986,
+            "top": 2894,
+            "width": 45,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "and/or",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2045,
+            "top": 2894,
+            "width": 114,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "Total",
+        "conf": 93.0,
+        "bbox": {
+            "left": 385,
+            "top": 2954,
+            "width": 86,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "T4",
+        "conf": 93.0,
+        "bbox": {
+            "left": 486,
+            "top": 2954,
+            "width": 44,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "levels",
+        "conf": 96.0,
+        "bbox": {
+            "left": 545,
+            "top": 2954,
+            "width": 100,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "especially",
+        "conf": 95.0,
+        "bbox": {
+            "left": 659,
+            "top": 2954,
+            "width": 175,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 848,
+            "top": 2954,
+            "width": 27,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "pregnancy",
+        "conf": 96.0,
+        "bbox": {
+            "left": 891,
+            "top": 2961,
+            "width": 186,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "and",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1090,
+            "top": 2954,
+            "width": 63,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "in",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1169,
+            "top": 2954,
+            "width": 27,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "patients",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1212,
+            "top": 2954,
+            "width": 137,
+            "height": 37
+        },
+        "page": 5
+    },
+    {
+        "text": "on",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1363,
+            "top": 2961,
+            "width": 42,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "steroid",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1419,
+            "top": 2954,
+            "width": 118,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "therapy.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1551,
+            "top": 2954,
+            "width": 142,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "3.",
+        "conf": 93.0,
+        "bbox": {
+            "left": 312,
+            "top": 3014,
+            "width": 29,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "Unbound",
+        "conf": 93.0,
+        "bbox": {
+            "left": 387,
+            "top": 3014,
+            "width": 158,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "fraction",
+        "conf": 93.0,
+        "bbox": {
+            "left": 559,
+            "top": 3013,
+            "width": 130,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "(",
+        "conf": 92.0,
+        "bbox": {
+            "left": 705,
+            "top": 3014,
+            "width": 9,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "Free,T4",
+        "conf": 55.0,
+        "bbox": {
+            "left": 730,
+            "top": 3014,
+            "width": 137,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "/Free,T3)",
+        "conf": 84.0,
+        "bbox": {
+            "left": 880,
+            "top": 3014,
+            "width": 164,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1058,
+            "top": 3013,
+            "width": 34,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "thyroid",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1103,
+            "top": 3014,
+            "width": 117,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "hormone",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1236,
+            "top": 3014,
+            "width": 156,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "is",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1407,
+            "top": 3014,
+            "width": 25,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "biologically",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1447,
+            "top": 3014,
+            "width": 195,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "active",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1655,
+            "top": 3014,
+            "width": 103,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "form",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1770,
+            "top": 3013,
+            "width": 79,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "and",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1863,
+            "top": 3014,
+            "width": 64,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "correlate",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1942,
+            "top": 3014,
+            "width": 154,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "more",
+        "conf": 96.0,
+        "bbox": {
+            "left": 386,
+            "top": 3081,
+            "width": 89,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "closely",
+        "conf": 96.0,
+        "bbox": {
+            "left": 488,
+            "top": 3074,
+            "width": 122,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "with",
+        "conf": 96.0,
+        "bbox": {
+            "left": 622,
+            "top": 3074,
+            "width": 69,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "clinical",
+        "conf": 96.0,
+        "bbox": {
+            "left": 706,
+            "top": 3074,
+            "width": 117,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "status",
+        "conf": 96.0,
+        "bbox": {
+            "left": 838,
+            "top": 3075,
+            "width": 105,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 957,
+            "top": 3073,
+            "width": 34,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1001,
+            "top": 3074,
+            "width": 55,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "patient",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1070,
+            "top": 3074,
+            "width": 119,
+            "height": 37
+        },
+        "page": 5
+    },
+    {
+        "text": "than",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1201,
+            "top": 3074,
+            "width": 76,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "total",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1291,
+            "top": 3074,
+            "width": 73,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "T4/T3",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1378,
+            "top": 3073,
+            "width": 103,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "concentration",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1496,
+            "top": 3074,
+            "width": 238,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "4.",
+        "conf": 92.0,
+        "bbox": {
+            "left": 310,
+            "top": 3134,
+            "width": 31,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "Values",
+        "conf": 92.0,
+        "bbox": {
+            "left": 384,
+            "top": 3134,
+            "width": 122,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "<0.03",
+        "conf": 92.0,
+        "bbox": {
+            "left": 520,
+            "top": 3134,
+            "width": 99,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "ulU/mL",
+        "conf": 86.0,
+        "bbox": {
+            "left": 634,
+            "top": 3134,
+            "width": 127,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "need",
+        "conf": 96.0,
+        "bbox": {
+            "left": 775,
+            "top": 3134,
+            "width": 85,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "to",
+        "conf": 95.0,
+        "bbox": {
+            "left": 875,
+            "top": 3135,
+            "width": 32,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "be",
+        "conf": 96.0,
+        "bbox": {
+            "left": 921,
+            "top": 3134,
+            "width": 42,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "clinically",
+        "conf": 96.0,
+        "bbox": {
+            "left": 976,
+            "top": 3134,
+            "width": 149,
+            "height": 38
+        },
+        "page": 5
+    },
+    {
+        "text": "correlated",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1138,
+            "top": 3134,
+            "width": 175,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "due",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1329,
+            "top": 3134,
+            "width": 64,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "to",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1407,
+            "top": 3135,
+            "width": 31,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "presence",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1453,
+            "top": 3141,
+            "width": 163,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "of",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1629,
+            "top": 3133,
+            "width": 34,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "a",
+        "conf": 53.0,
+        "bbox": {
+            "left": 1684,
+            "top": 3141,
+            "width": 9,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "rare",
+        "conf": 53.0,
+        "bbox": {
+            "left": 1709,
+            "top": 3141,
+            "width": 68,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "TSH",
+        "conf": 59.0,
+        "bbox": {
+            "left": 1790,
+            "top": 3133,
+            "width": 77,
+            "height": 31
+        },
+        "page": 5
+    },
+    {
+        "text": "_",
+        "conf": 59.0,
+        "bbox": {
+            "left": 1872,
+            "top": 3129,
+            "width": 5,
+            "height": 47
+        },
+        "page": 5
+    },
+    {
+        "text": "variant",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1905,
+            "top": 3134,
+            "width": 119,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2038,
+            "top": 3134,
+            "width": 27,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "some",
+        "conf": 96.0,
+        "bbox": {
+            "left": 385,
+            "top": 3201,
+            "width": 96,
+            "height": 23
+        },
+        "page": 5
+    },
+    {
+        "text": "individuals",
+        "conf": 96.0,
+        "bbox": {
+            "left": 496,
+            "top": 3194,
+            "width": 185,
+            "height": 30
+        },
+        "page": 5
+    },
+    {
+        "text": "IANA",
+        "conf": 13.0,
+        "bbox": {
+            "left": 987,
+            "top": 3267,
+            "width": 300,
+            "height": 84
+        },
+        "page": 5
+    },
+    {
+        "text": "\u201cwe",
+        "conf": 20.0,
+        "bbox": {
+            "left": 2052,
+            "top": 3256,
+            "width": 204,
+            "height": 35
+        },
+        "page": 5
+    },
+    {
+        "text": "If",
+        "conf": 83.0,
+        "bbox": {
+            "left": 91,
+            "top": 3515,
+            "width": 25,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 123,
+            "top": 3515,
+            "width": 72,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 207,
+            "top": 3515,
+            "width": 115,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "are",
+        "conf": 97.0,
+        "bbox": {
+            "left": 334,
+            "top": 3524,
+            "width": 55,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "alarming",
+        "conf": 96.0,
+        "bbox": {
+            "left": 401,
+            "top": 3515,
+            "width": 156,
+            "height": 42
+        },
+        "page": 5
+    },
+    {
+        "text": "or",
+        "conf": 96.0,
+        "bbox": {
+            "left": 570,
+            "top": 3524,
+            "width": 36,
+            "height": 25
+        },
+        "page": 5
+    },
+    {
+        "text": "unexpected,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 618,
+            "top": 3515,
+            "width": 213,
+            "height": 42
+        },
+        "page": 5
+    },
+    {
+        "text": "client",
+        "conf": 96.0,
+        "bbox": {
+            "left": 839,
+            "top": 3515,
+            "width": 100,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "is",
+        "conf": 96.0,
+        "bbox": {
+            "left": 950,
+            "top": 3515,
+            "width": 26,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "advised",
+        "conf": 96.0,
+        "bbox": {
+            "left": 988,
+            "top": 3515,
+            "width": 133,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "to",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1133,
+            "top": 3520,
+            "width": 36,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "contact",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1182,
+            "top": 3520,
+            "width": 130,
+            "height": 29
+        },
+        "page": 5
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1321,
+            "top": 3515,
+            "width": 59,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "Customer",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1392,
+            "top": 3515,
+            "width": 167,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "Care",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1571,
+            "top": 3515,
+            "width": 76,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "immediately",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1661,
+            "top": 3515,
+            "width": 219,
+            "height": 42
+        },
+        "page": 5
+    },
+    {
+        "text": "for",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1888,
+            "top": 3515,
+            "width": 50,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "possible",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1950,
+            "top": 3515,
+            "width": 145,
+            "height": 42
+        },
+        "page": 5
+    },
+    {
+        "text": "remedial",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2108,
+            "top": 3515,
+            "width": 154,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "action.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2273,
+            "top": 3515,
+            "width": 117,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "Tel:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 482,
+            "top": 3567,
+            "width": 61,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "011-4988-5050,",
+        "conf": 90.0,
+        "bbox": {
+            "left": 552,
+            "top": 3567,
+            "width": 288,
+            "height": 40
+        },
+        "page": 5
+    },
+    {
+        "text": "Fax:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 847,
+            "top": 3567,
+            "width": 76,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "+91-11-2788-2134,",
+        "conf": 91.0,
+        "bbox": {
+            "left": 933,
+            "top": 3567,
+            "width": 344,
+            "height": 39
+        },
+        "page": 5
+    },
+    {
+        "text": "E-mail:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1284,
+            "top": 3567,
+            "width": 125,
+            "height": 34
+        },
+        "page": 5
+    },
+    {
+        "text": "customer.care@lalpathlabs.com",
+        "conf": 73.0,
+        "bbox": {
+            "left": 1419,
+            "top": 3567,
+            "width": 566,
+            "height": 42
+        },
+        "page": 5
+    }
+]

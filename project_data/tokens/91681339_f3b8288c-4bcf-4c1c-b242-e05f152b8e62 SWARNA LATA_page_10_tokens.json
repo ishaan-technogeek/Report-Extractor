@@ -1,0 +1,3137 @@
+[
+    {
+        "text": "BD",
+        "conf": 50.0,
+        "bbox": {
+            "left": 110,
+            "top": 32,
+            "width": 222,
+            "height": 118
+        },
+        "page": 10
+    },
+    {
+        "text": "Lal",
+        "conf": 67.0,
+        "bbox": {
+            "left": 345,
+            "top": 50,
+            "width": 170,
+            "height": 80
+        },
+        "page": 10
+    },
+    {
+        "text": "Pathlabs",
+        "conf": 65.0,
+        "bbox": {
+            "left": 537,
+            "top": 50,
+            "width": 408,
+            "height": 81
+        },
+        "page": 10
+    },
+    {
+        "text": "Regd.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1320,
+            "top": 194,
+            "width": 61,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "Office:",
+        "conf": 77.0,
+        "bbox": {
+            "left": 1389,
+            "top": 193,
+            "width": 73,
+            "height": 19
+        },
+        "page": 10
+    },
+    {
+        "text": "Dr",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1471,
+            "top": 194,
+            "width": 22,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "Lat",
+        "conf": 77.0,
+        "bbox": {
+            "left": 1501,
+            "top": 195,
+            "width": 26,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "PathLabs",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1535,
+            "top": 194,
+            "width": 86,
+            "height": 18
+        },
+        "page": 10
+    },
+    {
+        "text": "Ltd,",
+        "conf": 87.0,
+        "bbox": {
+            "left": 1629,
+            "top": 195,
+            "width": 35,
+            "height": 18
+        },
+        "page": 10
+    },
+    {
+        "text": "Block-E,",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1673,
+            "top": 194,
+            "width": 76,
+            "height": 19
+        },
+        "page": 10
+    },
+    {
+        "text": "Sector-18,",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1759,
+            "top": 194,
+            "width": 96,
+            "height": 19
+        },
+        "page": 10
+    },
+    {
+        "text": "Rohini,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1865,
+            "top": 194,
+            "width": 66,
+            "height": 19
+        },
+        "page": 10
+    },
+    {
+        "text": "New",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1940,
+            "top": 194,
+            "width": 46,
+            "height": 18
+        },
+        "page": 10
+    },
+    {
+        "text": "Dethi-1",
+        "conf": 18.0,
+        "bbox": {
+            "left": 1993,
+            "top": 194,
+            "width": 67,
+            "height": 18
+        },
+        "page": 10
+    },
+    {
+        "text": "10085",
+        "conf": 18.0,
+        "bbox": {
+            "left": 2068,
+            "top": 194,
+            "width": 59,
+            "height": 18
+        },
+        "page": 10
+    },
+    {
+        "text": "Web:",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1320,
+            "top": 231,
+            "width": 56,
+            "height": 16
+        },
+        "page": 10
+    },
+    {
+        "text": "www",
+        "conf": 84.0,
+        "bbox": {
+            "left": 1384,
+            "top": 234,
+            "width": 56,
+            "height": 13
+        },
+        "page": 10
+    },
+    {
+        "text": "iaipathiabs",
+        "conf": 39.0,
+        "bbox": {
+            "left": 1446,
+            "top": 231,
+            "width": 104,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "com,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1558,
+            "top": 234,
+            "width": 46,
+            "height": 15
+        },
+        "page": 10
+    },
+    {
+        "text": "CIN:",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1613,
+            "top": 230,
+            "width": 46,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "L74899D1L",
+        "conf": 37.0,
+        "bbox": {
+            "left": 1667,
+            "top": 231,
+            "width": 108,
+            "height": 16
+        },
+        "page": 10
+    },
+    {
+        "text": "1",
+        "conf": 70.0,
+        "bbox": {
+            "left": 1768,
+            "top": 226,
+            "width": 11,
+            "height": 31
+        },
+        "page": 10
+    },
+    {
+        "text": "795PLC065",
+        "conf": 15.0,
+        "bbox": {
+            "left": 1781,
+            "top": 230,
+            "width": 150,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "388",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1897,
+            "top": 226,
+            "width": 37,
+            "height": 31
+        },
+        "page": 10
+    },
+    {
+        "text": "Name",
+        "conf": 95.0,
+        "bbox": {
+            "left": 105,
+            "top": 344,
+            "width": 94,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 352,
+            "top": 352,
+            "width": 6,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "Mrs.",
+        "conf": 93.0,
+        "bbox": {
+            "left": 381,
+            "top": 346,
+            "width": 70,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "SWARNA",
+        "conf": 93.0,
+        "bbox": {
+            "left": 464,
+            "top": 346,
+            "width": 159,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "LATA",
+        "conf": 96.0,
+        "bbox": {
+            "left": 646,
+            "top": 346,
+            "width": 93,
+            "height": 26
+        },
+        "page": 10
+    },
+    {
+        "text": "Lab",
+        "conf": 96.0,
+        "bbox": {
+            "left": 105,
+            "top": 393,
+            "width": 60,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "No.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 178,
+            "top": 393,
+            "width": 54,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": ":",
+        "conf": 88.0,
+        "bbox": {
+            "left": 352,
+            "top": 401,
+            "width": 6,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "466917439",
+        "conf": 96.0,
+        "bbox": {
+            "left": 379,
+            "top": 391,
+            "width": 178,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Age",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1307,
+            "top": 393,
+            "width": 67,
+            "height": 33
+        },
+        "page": 10
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1591,
+            "top": 400,
+            "width": 6,
+            "height": 19
+        },
+        "page": 10
+    },
+    {
+        "text": "41",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1627,
+            "top": 393,
+            "width": 34,
+            "height": 26
+        },
+        "page": 10
+    },
+    {
+        "text": "Years",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1677,
+            "top": 393,
+            "width": 96,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Ref",
+        "conf": 95.0,
+        "bbox": {
+            "left": 105,
+            "top": 442,
+            "width": 56,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "By",
+        "conf": 95.0,
+        "bbox": {
+            "left": 172,
+            "top": 442,
+            "width": 43,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": ":",
+        "conf": 90.0,
+        "bbox": {
+            "left": 352,
+            "top": 450,
+            "width": 6,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "Self",
+        "conf": 96.0,
+        "bbox": {
+            "left": 380,
+            "top": 440,
+            "width": 66,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Gender",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1308,
+            "top": 442,
+            "width": 125,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1591,
+            "top": 449,
+            "width": 6,
+            "height": 19
+        },
+        "page": 10
+    },
+    {
+        "text": "Female",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1629,
+            "top": 440,
+            "width": 120,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Collected",
+        "conf": 96.0,
+        "bbox": {
+            "left": 104,
+            "top": 487,
+            "width": 158,
+            "height": 45
+        },
+        "page": 10
+    },
+    {
+        "text": ":",
+        "conf": 90.0,
+        "bbox": {
+            "left": 352,
+            "top": 498,
+            "width": 5,
+            "height": 19
+        },
+        "page": 10
+    },
+    {
+        "text": "8/8/2024",
+        "conf": 91.0,
+        "bbox": {
+            "left": 380,
+            "top": 489,
+            "width": 138,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "7:50:00AM",
+        "conf": 90.0,
+        "bbox": {
+            "left": 550,
+            "top": 489,
+            "width": 176,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Reported",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1309,
+            "top": 487,
+            "width": 154,
+            "height": 45
+        },
+        "page": 10
+    },
+    {
+        "text": ":",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1591,
+            "top": 498,
+            "width": 6,
+            "height": 19
+        },
+        "page": 10
+    },
+    {
+        "text": "9/8/2024",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1627,
+            "top": 486,
+            "width": 139,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "10:06:36AM",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1788,
+            "top": 486,
+            "width": 195,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Alc",
+        "conf": 84.0,
+        "bbox": {
+            "left": 103,
+            "top": 541,
+            "width": 54,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Status",
+        "conf": 96.0,
+        "bbox": {
+            "left": 169,
+            "top": 541,
+            "width": 108,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": ":P",
+        "conf": 74.0,
+        "bbox": {
+            "left": 352,
+            "top": 541,
+            "width": 50,
+            "height": 29
+        },
+        "page": 10
+    },
+    {
+        "text": "Report",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1309,
+            "top": 541,
+            "width": 113,
+            "height": 33
+        },
+        "page": 10
+    },
+    {
+        "text": "Status",
+        "conf": 55.0,
+        "bbox": {
+            "left": 1434,
+            "top": 541,
+            "width": 107,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": ":",
+        "conf": 61.0,
+        "bbox": {
+            "left": 1594,
+            "top": 548,
+            "width": 6,
+            "height": 19
+        },
+        "page": 10
+    },
+    {
+        "text": "Final",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1629,
+            "top": 539,
+            "width": 79,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Collected",
+        "conf": 96.0,
+        "bbox": {
+            "left": 104,
+            "top": 591,
+            "width": 158,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "at",
+        "conf": 73.0,
+        "bbox": {
+            "left": 275,
+            "top": 592,
+            "width": 30,
+            "height": 26
+        },
+        "page": 10
+    },
+    {
+        "text": "-",
+        "conf": 10.0,
+        "bbox": {
+            "left": 351,
+            "top": 603,
+            "width": 7,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "RELEX",
+        "conf": 90.0,
+        "bbox": {
+            "left": 380,
+            "top": 590,
+            "width": 104,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "HEALTHCARE",
+        "conf": 95.0,
+        "bbox": {
+            "left": 495,
+            "top": 589,
+            "width": 218,
+            "height": 25
+        },
+        "page": 10
+    },
+    {
+        "text": "INDIA",
+        "conf": 95.0,
+        "bbox": {
+            "left": 724,
+            "top": 590,
+            "width": 85,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "Pvt.",
+        "conf": 94.0,
+        "bbox": {
+            "left": 820,
+            "top": 590,
+            "width": 56,
+            "height": 24
+        },
+        "page": 10
+    },
+    {
+        "text": "Ltd.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 888,
+            "top": 590,
+            "width": 55,
+            "height": 24
+        },
+        "page": 10
+    },
+    {
+        "text": "Processed",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1311,
+            "top": 591,
+            "width": 177,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "at",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1501,
+            "top": 592,
+            "width": 30,
+            "height": 26
+        },
+        "page": 10
+    },
+    {
+        "text": ":",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1594,
+            "top": 598,
+            "width": 7,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "LPL-BENGALURU",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1625,
+            "top": 589,
+            "width": 271,
+            "height": 25
+        },
+        "page": 10
+    },
+    {
+        "text": "REFERENCE",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1909,
+            "top": 589,
+            "width": 194,
+            "height": 25
+        },
+        "page": 10
+    },
+    {
+        "text": "LAB",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2115,
+            "top": 590,
+            "width": 62,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "NO.17/1,SERVICE",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1625,
+            "top": 635,
+            "width": 265,
+            "height": 29
+        },
+        "page": 10
+    },
+    {
+        "text": "ROAD,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1902,
+            "top": 635,
+            "width": 99,
+            "height": 29
+        },
+        "page": 10
+    },
+    {
+        "text": "THE",
+        "conf": 93.0,
+        "bbox": {
+            "left": 2012,
+            "top": 636,
+            "width": 63,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "ADDRESS,OI",
+        "conf": 35.0,
+        "bbox": {
+            "left": 2085,
+            "top": 635,
+            "width": 196,
+            "height": 29
+        },
+        "page": 10
+    },
+    {
+        "text": "PRESTIGE",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1625,
+            "top": 681,
+            "width": 158,
+            "height": 25
+        },
+        "page": 10
+    },
+    {
+        "text": "CESSNA",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1795,
+            "top": 681,
+            "width": 131,
+            "height": 25
+        },
+        "page": 10
+    },
+    {
+        "text": "PARK,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1937,
+            "top": 682,
+            "width": 96,
+            "height": 28
+        },
+        "page": 10
+    },
+    {
+        "text": "OUTER",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2045,
+            "top": 681,
+            "width": 110,
+            "height": 25
+        },
+        "page": 10
+    },
+    {
+        "text": "RING",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2166,
+            "top": 681,
+            "width": 77,
+            "height": 25
+        },
+        "page": 10
+    },
+    {
+        "text": "Ri",
+        "conf": 31.0,
+        "bbox": {
+            "left": 2255,
+            "top": 682,
+            "width": 26,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": ",sKADUBEESANAHALLI",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1625,
+            "top": 727,
+            "width": 348,
+            "height": 29
+        },
+        "page": 10
+    },
+    {
+        "text": ",BANGALORE-5601",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1985,
+            "top": 727,
+            "width": 290,
+            "height": 29
+        },
+        "page": 10
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1123,
+            "top": 865,
+            "width": 80,
+            "height": 30
+        },
+        "page": 10
+    },
+    {
+        "text": "Report",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1218,
+            "top": 865,
+            "width": 124,
+            "height": 37
+        },
+        "page": 10
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 163,
+            "top": 961,
+            "width": 73,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Name",
+        "conf": 96.0,
+        "bbox": {
+            "left": 249,
+            "top": 961,
+            "width": 94,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1183,
+            "top": 957,
+            "width": 126,
+            "height": 42
+        },
+        "page": 10
+    },
+    {
+        "text": "Units",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1677,
+            "top": 957,
+            "width": 85,
+            "height": 42
+        },
+        "page": 10
+    },
+    {
+        "text": "Bio.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2038,
+            "top": 961,
+            "width": 63,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Ref.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2116,
+            "top": 961,
+            "width": 63,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Interval",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2193,
+            "top": 961,
+            "width": 123,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "IMPORTANT",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1069,
+            "top": 1023,
+            "width": 167,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "INSTRUCTIONS",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1246,
+            "top": 1023,
+            "width": 211,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "*Test",
+        "conf": 89.0,
+        "bbox": {
+            "left": 171,
+            "top": 1071,
+            "width": 71,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "results",
+        "conf": 94.0,
+        "bbox": {
+            "left": 267,
+            "top": 1071,
+            "width": 83,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "released",
+        "conf": 95.0,
+        "bbox": {
+            "left": 376,
+            "top": 1071,
+            "width": 109,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "pertain",
+        "conf": 94.0,
+        "bbox": {
+            "left": 511,
+            "top": 1071,
+            "width": 86,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "to",
+        "conf": 96.0,
+        "bbox": {
+            "left": 622,
+            "top": 1072,
+            "width": 23,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 669,
+            "top": 1071,
+            "width": 39,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "specimen",
+        "conf": 91.0,
+        "bbox": {
+            "left": 733,
+            "top": 1071,
+            "width": 123,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "submitted.*All",
+        "conf": 70.0,
+        "bbox": {
+            "left": 881,
+            "top": 1071,
+            "width": 186,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1092,
+            "top": 1072,
+            "width": 46,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1163,
+            "top": 1071,
+            "width": 83,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "are",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1271,
+            "top": 1076,
+            "width": 40,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "dependent",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1336,
+            "top": 1071,
+            "width": 137,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "on",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1497,
+            "top": 1076,
+            "width": 30,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "the",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1552,
+            "top": 1071,
+            "width": 39,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "quality",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1616,
+            "top": 1071,
+            "width": 83,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1723,
+            "top": 1070,
+            "width": 24,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1770,
+            "top": 1071,
+            "width": 39,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "sample",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1835,
+            "top": 1071,
+            "width": 92,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "received",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1952,
+            "top": 1071,
+            "width": 108,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "by",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2086,
+            "top": 1071,
+            "width": 29,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2139,
+            "top": 1071,
+            "width": 39,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "Laboratory.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2203,
+            "top": 1071,
+            "width": 151,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "*Laboratory",
+        "conf": 91.0,
+        "bbox": {
+            "left": 171,
+            "top": 1119,
+            "width": 154,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "investigations",
+        "conf": 96.0,
+        "bbox": {
+            "left": 347,
+            "top": 1119,
+            "width": 175,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "are",
+        "conf": 96.0,
+        "bbox": {
+            "left": 544,
+            "top": 1124,
+            "width": 41,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "only",
+        "conf": 96.0,
+        "bbox": {
+            "left": 607,
+            "top": 1119,
+            "width": 53,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "a",
+        "conf": 96.0,
+        "bbox": {
+            "left": 681,
+            "top": 1124,
+            "width": 14,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "tool",
+        "conf": 95.0,
+        "bbox": {
+            "left": 718,
+            "top": 1119,
+            "width": 45,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "to",
+        "conf": 95.0,
+        "bbox": {
+            "left": 786,
+            "top": 1120,
+            "width": 23,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "facilitate",
+        "conf": 95.0,
+        "bbox": {
+            "left": 830,
+            "top": 1118,
+            "width": 106,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 960,
+            "top": 1119,
+            "width": 19,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "arriving",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1002,
+            "top": 1119,
+            "width": 94,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "at",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1118,
+            "top": 1120,
+            "width": 24,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "a",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1163,
+            "top": 1124,
+            "width": 14,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "diagnosis",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1200,
+            "top": 1119,
+            "width": 122,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "and",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1344,
+            "top": 1119,
+            "width": 47,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "should",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1414,
+            "top": 1119,
+            "width": 83,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "be",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1521,
+            "top": 1119,
+            "width": 30,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "clinically",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1573,
+            "top": 1119,
+            "width": 108,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "correlated",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1703,
+            "top": 1119,
+            "width": 128,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "by",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1854,
+            "top": 1119,
+            "width": 29,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1905,
+            "top": 1119,
+            "width": 39,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "Referring",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1967,
+            "top": 1118,
+            "width": 118,
+            "height": 28
+        },
+        "page": 10
+    },
+    {
+        "text": "Physician",
+        "conf": 93.0,
+        "bbox": {
+            "left": 2109,
+            "top": 1119,
+            "width": 122,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": ".*Report",
+        "conf": 66.0,
+        "bbox": {
+            "left": 2245,
+            "top": 1119,
+            "width": 111,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "delivery",
+        "conf": 96.0,
+        "bbox": {
+            "left": 169,
+            "top": 1168,
+            "width": 100,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "may",
+        "conf": 96.0,
+        "bbox": {
+            "left": 295,
+            "top": 1173,
+            "width": 54,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "be",
+        "conf": 95.0,
+        "bbox": {
+            "left": 375,
+            "top": 1168,
+            "width": 30,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "delayed",
+        "conf": 95.0,
+        "bbox": {
+            "left": 431,
+            "top": 1168,
+            "width": 100,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "due",
+        "conf": 96.0,
+        "bbox": {
+            "left": 558,
+            "top": 1168,
+            "width": 47,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "to",
+        "conf": 96.0,
+        "bbox": {
+            "left": 631,
+            "top": 1169,
+            "width": 23,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "unforeseen",
+        "conf": 91.0,
+        "bbox": {
+            "left": 680,
+            "top": 1167,
+            "width": 144,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "circumstances.",
+        "conf": 91.0,
+        "bbox": {
+            "left": 851,
+            "top": 1168,
+            "width": 192,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "Inconvenience",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1072,
+            "top": 1168,
+            "width": 186,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "is",
+        "conf": 87.0,
+        "bbox": {
+            "left": 1285,
+            "top": 1168,
+            "width": 19,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "regretted.*Certain",
+        "conf": 81.0,
+        "bbox": {
+            "left": 1331,
+            "top": 1167,
+            "width": 240,
+            "height": 28
+        },
+        "page": 10
+    },
+    {
+        "text": "tests",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1598,
+            "top": 1169,
+            "width": 60,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "may",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1686,
+            "top": 1173,
+            "width": 53,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "require",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1765,
+            "top": 1168,
+            "width": 89,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "further",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1880,
+            "top": 1167,
+            "width": 84,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "testing",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1989,
+            "top": 1168,
+            "width": 84,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "at",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2100,
+            "top": 1169,
+            "width": 23,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "additional",
+        "conf": 94.0,
+        "bbox": {
+            "left": 2149,
+            "top": 1168,
+            "width": 123,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "cost",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2299,
+            "top": 1169,
+            "width": 53,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "for",
+        "conf": 94.0,
+        "bbox": {
+            "left": 169,
+            "top": 1215,
+            "width": 34,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "derivation",
+        "conf": 94.0,
+        "bbox": {
+            "left": 237,
+            "top": 1216,
+            "width": 125,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "of",
+        "conf": 94.0,
+        "bbox": {
+            "left": 398,
+            "top": 1215,
+            "width": 24,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "exact",
+        "conf": 94.0,
+        "bbox": {
+            "left": 456,
+            "top": 1217,
+            "width": 69,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "value.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 560,
+            "top": 1216,
+            "width": 75,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "Kindly",
+        "conf": 96.0,
+        "bbox": {
+            "left": 673,
+            "top": 1216,
+            "width": 77,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "submit",
+        "conf": 95.0,
+        "bbox": {
+            "left": 786,
+            "top": 1216,
+            "width": 84,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "request",
+        "conf": 93.0,
+        "bbox": {
+            "left": 906,
+            "top": 1217,
+            "width": 96,
+            "height": 26
+        },
+        "page": 10
+    },
+    {
+        "text": "within",
+        "conf": 39.0,
+        "bbox": {
+            "left": 1036,
+            "top": 1216,
+            "width": 73,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "72hours",
+        "conf": 82.0,
+        "bbox": {
+            "left": 1150,
+            "top": 1216,
+            "width": 112,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "post",
+        "conf": 73.0,
+        "bbox": {
+            "left": 1299,
+            "top": 1217,
+            "width": 53,
+            "height": 26
+        },
+        "page": 10
+    },
+    {
+        "text": "reporting.*Test",
+        "conf": 37.0,
+        "bbox": {
+            "left": 1388,
+            "top": 1216,
+            "width": 197,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "results",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1621,
+            "top": 1216,
+            "width": 84,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "may",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1741,
+            "top": 1221,
+            "width": 53,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "show",
+        "conf": 78.0,
+        "bbox": {
+            "left": 1830,
+            "top": 1216,
+            "width": 66,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "interlaboratory",
+        "conf": 77.0,
+        "bbox": {
+            "left": 1933,
+            "top": 1216,
+            "width": 185,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "variations",
+        "conf": 38.0,
+        "bbox": {
+            "left": 2141,
+            "top": 1211,
+            "width": 135,
+            "height": 37
+        },
+        "page": 10
+    },
+    {
+        "text": ".*The",
+        "conf": 38.0,
+        "bbox": {
+            "left": 2286,
+            "top": 1216,
+            "width": 69,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "Courts/Forum",
+        "conf": 91.0,
+        "bbox": {
+            "left": 170,
+            "top": 1263,
+            "width": 176,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "at",
+        "conf": 96.0,
+        "bbox": {
+            "left": 370,
+            "top": 1265,
+            "width": 24,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "Delhi",
+        "conf": 96.0,
+        "bbox": {
+            "left": 417,
+            "top": 1264,
+            "width": 64,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "shall",
+        "conf": 94.0,
+        "bbox": {
+            "left": 505,
+            "top": 1264,
+            "width": 58,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "have",
+        "conf": 94.0,
+        "bbox": {
+            "left": 588,
+            "top": 1264,
+            "width": 61,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "exclusive",
+        "conf": 96.0,
+        "bbox": {
+            "left": 672,
+            "top": 1264,
+            "width": 119,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "jurisdiction",
+        "conf": 96.0,
+        "bbox": {
+            "left": 812,
+            "top": 1264,
+            "width": 138,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 975,
+            "top": 1264,
+            "width": 20,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "all",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1019,
+            "top": 1264,
+            "width": 26,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "disputes/claims",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1070,
+            "top": 1264,
+            "width": 203,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "concerning",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1296,
+            "top": 1264,
+            "width": 141,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "the",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1461,
+            "top": 1264,
+            "width": 39,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "test(s)",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1524,
+            "top": 1264,
+            "width": 82,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "&",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1629,
+            "top": 1263,
+            "width": 18,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "or",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1671,
+            "top": 1269,
+            "width": 25,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1720,
+            "top": 1264,
+            "width": 83,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "of",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1827,
+            "top": 1263,
+            "width": 24,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "test(s).\u00a2Test",
+        "conf": 22.0,
+        "bbox": {
+            "left": 1873,
+            "top": 1264,
+            "width": 164,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2061,
+            "top": 1264,
+            "width": 84,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "are",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2168,
+            "top": 1269,
+            "width": 41,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "not",
+        "conf": 88.0,
+        "bbox": {
+            "left": 2234,
+            "top": 1265,
+            "width": 38,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "valid",
+        "conf": 88.0,
+        "bbox": {
+            "left": 2295,
+            "top": 1264,
+            "width": 58,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "for",
+        "conf": 83.0,
+        "bbox": {
+            "left": 169,
+            "top": 1312,
+            "width": 34,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "medico",
+        "conf": 83.0,
+        "bbox": {
+            "left": 245,
+            "top": 1313,
+            "width": 92,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "legal",
+        "conf": 88.0,
+        "bbox": {
+            "left": 380,
+            "top": 1313,
+            "width": 59,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "purposes.*This",
+        "conf": 88.0,
+        "bbox": {
+            "left": 483,
+            "top": 1313,
+            "width": 200,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "is",
+        "conf": 84.0,
+        "bbox": {
+            "left": 726,
+            "top": 1313,
+            "width": 19,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "computer",
+        "conf": 84.0,
+        "bbox": {
+            "left": 787,
+            "top": 1314,
+            "width": 122,
+            "height": 26
+        },
+        "page": 10
+    },
+    {
+        "text": "generated",
+        "conf": 93.0,
+        "bbox": {
+            "left": 950,
+            "top": 1313,
+            "width": 130,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "medical",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1124,
+            "top": 1313,
+            "width": 97,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "diagnostic",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1264,
+            "top": 1313,
+            "width": 131,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "report",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1438,
+            "top": 1314,
+            "width": 74,
+            "height": 26
+        },
+        "page": 10
+    },
+    {
+        "text": "that",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1554,
+            "top": 1313,
+            "width": 48,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "has",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1645,
+            "top": 1313,
+            "width": 44,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "been",
+        "conf": 42.0,
+        "bbox": {
+            "left": 1733,
+            "top": 1313,
+            "width": 62,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "validated",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1838,
+            "top": 1313,
+            "width": 115,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "by",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1997,
+            "top": 1313,
+            "width": 29,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Authorized",
+        "conf": 83.0,
+        "bbox": {
+            "left": 2067,
+            "top": 1313,
+            "width": 139,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "Medical",
+        "conf": 89.0,
+        "bbox": {
+            "left": 2250,
+            "top": 1313,
+            "width": 97,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "Practitioner/Doctor.*The",
+        "conf": 72.0,
+        "bbox": {
+            "left": 170,
+            "top": 1361,
+            "width": 317,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "report",
+        "conf": 96.0,
+        "bbox": {
+            "left": 498,
+            "top": 1362,
+            "width": 74,
+            "height": 26
+        },
+        "page": 10
+    },
+    {
+        "text": "does",
+        "conf": 96.0,
+        "bbox": {
+            "left": 581,
+            "top": 1361,
+            "width": 62,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "not",
+        "conf": 96.0,
+        "bbox": {
+            "left": 654,
+            "top": 1362,
+            "width": 39,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "need",
+        "conf": 96.0,
+        "bbox": {
+            "left": 703,
+            "top": 1361,
+            "width": 62,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "physical",
+        "conf": 95.0,
+        "bbox": {
+            "left": 776,
+            "top": 1361,
+            "width": 102,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "signature.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 890,
+            "top": 1361,
+            "width": 125,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "(#)",
+        "conf": 92.0,
+        "bbox": {
+            "left": 170,
+            "top": 1406,
+            "width": 34,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "Sample",
+        "conf": 96.0,
+        "bbox": {
+            "left": 214,
+            "top": 1405,
+            "width": 97,
+            "height": 28
+        },
+        "page": 10
+    },
+    {
+        "text": "drawn",
+        "conf": 96.0,
+        "bbox": {
+            "left": 321,
+            "top": 1406,
+            "width": 77,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "from",
+        "conf": 96.0,
+        "bbox": {
+            "left": 408,
+            "top": 1405,
+            "width": 57,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "outside",
+        "conf": 96.0,
+        "bbox": {
+            "left": 475,
+            "top": 1406,
+            "width": 93,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "source.",
+        "conf": 94.0,
+        "bbox": {
+            "left": 578,
+            "top": 1411,
+            "width": 93,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "If",
+        "conf": 81.0,
+        "bbox": {
+            "left": 171,
+            "top": 1451,
+            "width": 14,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 194,
+            "top": 1452,
+            "width": 55,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 260,
+            "top": 1452,
+            "width": 83,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "are",
+        "conf": 96.0,
+        "bbox": {
+            "left": 353,
+            "top": 1457,
+            "width": 41,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "alarming",
+        "conf": 96.0,
+        "bbox": {
+            "left": 404,
+            "top": 1452,
+            "width": 110,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "or",
+        "conf": 96.0,
+        "bbox": {
+            "left": 524,
+            "top": 1457,
+            "width": 25,
+            "height": 17
+        },
+        "page": 10
+    },
+    {
+        "text": "unexpected,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 559,
+            "top": 1452,
+            "width": 156,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "client",
+        "conf": 94.0,
+        "bbox": {
+            "left": 726,
+            "top": 1452,
+            "width": 67,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "is",
+        "conf": 94.0,
+        "bbox": {
+            "left": 804,
+            "top": 1452,
+            "width": 18,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "advised",
+        "conf": 96.0,
+        "bbox": {
+            "left": 832,
+            "top": 1452,
+            "width": 99,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "to",
+        "conf": 96.0,
+        "bbox": {
+            "left": 941,
+            "top": 1453,
+            "width": 23,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "contact",
+        "conf": 96.0,
+        "bbox": {
+            "left": 974,
+            "top": 1453,
+            "width": 93,
+            "height": 21
+        },
+        "page": 10
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1076,
+            "top": 1452,
+            "width": 39,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "Customer",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1126,
+            "top": 1451,
+            "width": 125,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "Care",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1261,
+            "top": 1451,
+            "width": 61,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "immediately",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1333,
+            "top": 1452,
+            "width": 154,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "for",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1496,
+            "top": 1451,
+            "width": 34,
+            "height": 23
+        },
+        "page": 10
+    },
+    {
+        "text": "possible",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1540,
+            "top": 1452,
+            "width": 104,
+            "height": 27
+        },
+        "page": 10
+    },
+    {
+        "text": "remedial",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1655,
+            "top": 1452,
+            "width": 109,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "action.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1775,
+            "top": 1452,
+            "width": 83,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "Tel:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 169,
+            "top": 1497,
+            "width": 46,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "+91-11-49885050",
+        "conf": 71.0,
+        "bbox": {
+            "left": 227,
+            "top": 1497,
+            "width": 222,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "Fax:",
+        "conf": 71.0,
+        "bbox": {
+            "left": 464,
+            "top": 1492,
+            "width": 56,
+            "height": 37
+        },
+        "page": 10
+    },
+    {
+        "text": "-",
+        "conf": 92.0,
+        "bbox": {
+            "left": 532,
+            "top": 1509,
+            "width": 8,
+            "height": 3
+        },
+        "page": 10
+    },
+    {
+        "text": "+91-11-2788-2134,",
+        "conf": 91.0,
+        "bbox": {
+            "left": 550,
+            "top": 1497,
+            "width": 246,
+            "height": 24
+        },
+        "page": 10
+    },
+    {
+        "text": "E-mail:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 809,
+            "top": 1497,
+            "width": 87,
+            "height": 22
+        },
+        "page": 10
+    },
+    {
+        "text": "lalpathlabs@lalpathlabs.com",
+        "conf": 82.0,
+        "bbox": {
+            "left": 907,
+            "top": 1496,
+            "width": 371,
+            "height": 29
+        },
+        "page": 10
+    },
+    {
+        "text": "MUA",
+        "conf": 20.0,
+        "bbox": {
+            "left": 987,
+            "top": 3264,
+            "width": 161,
+            "height": 84
+        },
+        "page": 10
+    },
+    {
+        "text": "\u201c_e",
+        "conf": 15.0,
+        "bbox": {
+            "left": 2052,
+            "top": 3256,
+            "width": 225,
+            "height": 35
+        },
+        "page": 10
+    },
+    {
+        "text": "If",
+        "conf": 80.0,
+        "bbox": {
+            "left": 91,
+            "top": 3515,
+            "width": 25,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 123,
+            "top": 3515,
+            "width": 72,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 207,
+            "top": 3515,
+            "width": 115,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "are",
+        "conf": 96.0,
+        "bbox": {
+            "left": 334,
+            "top": 3524,
+            "width": 55,
+            "height": 25
+        },
+        "page": 10
+    },
+    {
+        "text": "alarming",
+        "conf": 96.0,
+        "bbox": {
+            "left": 401,
+            "top": 3515,
+            "width": 156,
+            "height": 42
+        },
+        "page": 10
+    },
+    {
+        "text": "or",
+        "conf": 96.0,
+        "bbox": {
+            "left": 570,
+            "top": 3524,
+            "width": 36,
+            "height": 25
+        },
+        "page": 10
+    },
+    {
+        "text": "unexpected,",
+        "conf": 95.0,
+        "bbox": {
+            "left": 618,
+            "top": 3515,
+            "width": 213,
+            "height": 42
+        },
+        "page": 10
+    },
+    {
+        "text": "client",
+        "conf": 96.0,
+        "bbox": {
+            "left": 839,
+            "top": 3515,
+            "width": 100,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "is",
+        "conf": 96.0,
+        "bbox": {
+            "left": 950,
+            "top": 3515,
+            "width": 26,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "advised",
+        "conf": 96.0,
+        "bbox": {
+            "left": 988,
+            "top": 3515,
+            "width": 133,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "to",
+        "conf": 97.0,
+        "bbox": {
+            "left": 1133,
+            "top": 3520,
+            "width": 36,
+            "height": 29
+        },
+        "page": 10
+    },
+    {
+        "text": "contact",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1182,
+            "top": 3520,
+            "width": 130,
+            "height": 29
+        },
+        "page": 10
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1321,
+            "top": 3515,
+            "width": 59,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "Customer",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1392,
+            "top": 3515,
+            "width": 167,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "Care",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1571,
+            "top": 3515,
+            "width": 76,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "immediately",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1661,
+            "top": 3515,
+            "width": 219,
+            "height": 42
+        },
+        "page": 10
+    },
+    {
+        "text": "for",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1888,
+            "top": 3515,
+            "width": 50,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "possible",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1950,
+            "top": 3515,
+            "width": 145,
+            "height": 42
+        },
+        "page": 10
+    },
+    {
+        "text": "remedial",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2108,
+            "top": 3515,
+            "width": 154,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "action.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2273,
+            "top": 3515,
+            "width": 117,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "Tel:",
+        "conf": 88.0,
+        "bbox": {
+            "left": 482,
+            "top": 3567,
+            "width": 61,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "011-4988-5050,",
+        "conf": 88.0,
+        "bbox": {
+            "left": 552,
+            "top": 3567,
+            "width": 288,
+            "height": 40
+        },
+        "page": 10
+    },
+    {
+        "text": "Fax:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 847,
+            "top": 3567,
+            "width": 76,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "+91-11-2788-2134,",
+        "conf": 92.0,
+        "bbox": {
+            "left": 933,
+            "top": 3567,
+            "width": 344,
+            "height": 40
+        },
+        "page": 10
+    },
+    {
+        "text": "E-mail:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1284,
+            "top": 3567,
+            "width": 125,
+            "height": 34
+        },
+        "page": 10
+    },
+    {
+        "text": "customer.care@lalpathlabs.com",
+        "conf": 69.0,
+        "bbox": {
+            "left": 1419,
+            "top": 3567,
+            "width": 566,
+            "height": 42
+        },
+        "page": 10
+    }
+]

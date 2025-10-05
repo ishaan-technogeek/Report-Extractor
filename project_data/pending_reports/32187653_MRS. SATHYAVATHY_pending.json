@@ -1,14 +1,14 @@
 {
     "patient_info": {
-        "Lab. Id": "P0893801 Hosp. UHID Reg. Date \u2014: 16-Sep-2025 / 12:26 PM",
-        "Name": "MRS. SATHYAVATHY Collection + 16-Sep-2025 / 12:27 PM",
-        "Collected At": "Emami Frank Ross Limited Report : 16-Sep-2025 / 15:03 PM",
-        "Referral Dr": "Report Status : Final Print :",
-        "Method": "Biuret Premature 3.6-6.0",
-        "TOTAL PROTEIN 7.1 g/dL Umbilical cord =": "4.8-8.8 Serum",
-        "New born": "4.6-7.0",
-        "Age": "7ZOY",
-        "Gender": "Female Received : 16-Sep-2025 / 13:09 PM"
+        "Lab. Id": "P0893801                      Hosp. UHID                                                             Reg. Date         \u2014:  16-Sep-2025 / 12:26 PM",
+        "Name": "MRS. SATHYAVATHY                                                                                 Collection        + 16-Sep-2025 / 12:27 PM",
+        "Gender": "7ZOY / Female",
+        "Received": "16-Sep-2025 / 13:09 PM",
+        "Collected At": "Emami Frank Ross Limited",
+        "Report": "16-Sep-2025 / 15:03 PM",
+        "Referral Dr": "Report Status : Final",
+        "Method": "Biuret                                                                                                                      Premature    3.6-6.0",
+        "New born": "4.6-7.0"
     },
     "lab_results": [
         {
@@ -145,28 +145,6 @@
         },
         {
             "Investigation": {
-                "value": "A/G RATIO",
-                "confidence": 96.0
-            },
-            "Observed Value": {
-                "value": "1.22",
-                "confidence": 95.0
-            },
-            "Unit": {
-                "value": "",
-                "confidence": 100.0
-            },
-            "Biological Ref. Interval": {
-                "value": "1-2",
-                "confidence": 88.0
-            },
-            "Specimen": {
-                "value": "Serum",
-                "confidence": 96.0
-            }
-        },
-        {
-            "Investigation": {
                 "value": "SGPT (ALT)",
                 "confidence": 94.0
             },
@@ -234,7 +212,7 @@
     ],
     "metadata": {
         "extraction_method": "dynamic_rule_based_v6",
-        "num_tests_extracted": 10,
+        "num_tests_extracted": 9,
         "detected_columns": [
             "Investigation",
             "Observed Value",

@@ -7,9 +7,12 @@ from fastapi.responses import HTMLResponse, JSONResponse
 from typing import List
 
 
-from main_processor import (run_inference_pipeline,
-DATA_DIR, INPUT_DIR, CLEANED_DIR, TOKEN_DIR, EXTRACTED_REPORTS_DIR, CORRECTIONS_DIR, DUMMY_PDF_PATH)
+from e_inference import (run_inference_pipeline,
+DATA_DIR, CLEANED_DIR, TOKEN_DIR, EXTRACTED_REPORTS_DIR, CORRECTIONS_DIR, DUMMY_PDF_PATH)
 
+INPUT_DIR = "project_data/input"
+if not os.path.exists(INPUT_DIR):
+    os.makedirs(INPUT_DIR, exist_ok=True)
 
 app = FastAPI()
 
@@ -33,6 +36,7 @@ async def upload_and_process_report(file: UploadFile = File(...)):
     
     try:
         extracted_data = run_inference_pipeline(file_path)
+        print(extracted_data)
         # Check if the pipeline returned an error
         if "error" in extracted_data:
             return JSONResponse(status_code=400, content=extracted_data)

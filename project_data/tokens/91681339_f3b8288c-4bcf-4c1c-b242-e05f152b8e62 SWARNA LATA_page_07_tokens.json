@@ -1,0 +1,3599 @@
+[
+    {
+        "text": "BD",
+        "conf": 45.0,
+        "bbox": {
+            "left": 110,
+            "top": 32,
+            "width": 185,
+            "height": 118
+        },
+        "page": 7
+    },
+    {
+        "text": "Lal",
+        "conf": 64.0,
+        "bbox": {
+            "left": 362,
+            "top": 28,
+            "width": 150,
+            "height": 128
+        },
+        "page": 7
+    },
+    {
+        "text": "Pathlabs",
+        "conf": 58.0,
+        "bbox": {
+            "left": 537,
+            "top": 50,
+            "width": 408,
+            "height": 81
+        },
+        "page": 7
+    },
+    {
+        "text": "Name",
+        "conf": 95.0,
+        "bbox": {
+            "left": 105,
+            "top": 352,
+            "width": 94,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": ":",
+        "conf": 90.0,
+        "bbox": {
+            "left": 352,
+            "top": 360,
+            "width": 6,
+            "height": 21
+        },
+        "page": 7
+    },
+    {
+        "text": "Mrs.",
+        "conf": 90.0,
+        "bbox": {
+            "left": 381,
+            "top": 354,
+            "width": 70,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "SWARNA",
+        "conf": 90.0,
+        "bbox": {
+            "left": 464,
+            "top": 354,
+            "width": 159,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "LATA",
+        "conf": 96.0,
+        "bbox": {
+            "left": 646,
+            "top": 354,
+            "width": 93,
+            "height": 26
+        },
+        "page": 7
+    },
+    {
+        "text": "Lab",
+        "conf": 96.0,
+        "bbox": {
+            "left": 105,
+            "top": 401,
+            "width": 60,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "No.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 178,
+            "top": 401,
+            "width": 54,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": ":",
+        "conf": 91.0,
+        "bbox": {
+            "left": 352,
+            "top": 409,
+            "width": 6,
+            "height": 21
+        },
+        "page": 7
+    },
+    {
+        "text": "466917439",
+        "conf": 96.0,
+        "bbox": {
+            "left": 379,
+            "top": 399,
+            "width": 178,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "Ref",
+        "conf": 95.0,
+        "bbox": {
+            "left": 105,
+            "top": 450,
+            "width": 56,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "By",
+        "conf": 95.0,
+        "bbox": {
+            "left": 172,
+            "top": 450,
+            "width": 43,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": ":",
+        "conf": 90.0,
+        "bbox": {
+            "left": 352,
+            "top": 458,
+            "width": 6,
+            "height": 21
+        },
+        "page": 7
+    },
+    {
+        "text": "Self",
+        "conf": 96.0,
+        "bbox": {
+            "left": 380,
+            "top": 448,
+            "width": 66,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "Collected",
+        "conf": 96.0,
+        "bbox": {
+            "left": 104,
+            "top": 494,
+            "width": 158,
+            "height": 43
+        },
+        "page": 7
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 352,
+            "top": 506,
+            "width": 5,
+            "height": 19
+        },
+        "page": 7
+    },
+    {
+        "text": "8/8/2024",
+        "conf": 91.0,
+        "bbox": {
+            "left": 380,
+            "top": 497,
+            "width": 138,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "7:50:00AM",
+        "conf": 91.0,
+        "bbox": {
+            "left": 550,
+            "top": 497,
+            "width": 176,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "Alc",
+        "conf": 86.0,
+        "bbox": {
+            "left": 103,
+            "top": 548,
+            "width": 54,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "Status",
+        "conf": 95.0,
+        "bbox": {
+            "left": 169,
+            "top": 548,
+            "width": 107,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": ":P",
+        "conf": 81.0,
+        "bbox": {
+            "left": 352,
+            "top": 548,
+            "width": 50,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "Collected",
+        "conf": 95.0,
+        "bbox": {
+            "left": 104,
+            "top": 603,
+            "width": 158,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "at",
+        "conf": 82.0,
+        "bbox": {
+            "left": 275,
+            "top": 604,
+            "width": 30,
+            "height": 26
+        },
+        "page": 7
+    },
+    {
+        "text": ":",
+        "conf": 67.0,
+        "bbox": {
+            "left": 352,
+            "top": 612,
+            "width": 6,
+            "height": 21
+        },
+        "page": 7
+    },
+    {
+        "text": "RELEX",
+        "conf": 91.0,
+        "bbox": {
+            "left": 381,
+            "top": 604,
+            "width": 104,
+            "height": 23
+        },
+        "page": 7
+    },
+    {
+        "text": "HEALTHCARE",
+        "conf": 95.0,
+        "bbox": {
+            "left": 496,
+            "top": 603,
+            "width": 218,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "INDIA",
+        "conf": 95.0,
+        "bbox": {
+            "left": 725,
+            "top": 604,
+            "width": 85,
+            "height": 23
+        },
+        "page": 7
+    },
+    {
+        "text": "Pvt.",
+        "conf": 71.0,
+        "bbox": {
+            "left": 821,
+            "top": 604,
+            "width": 55,
+            "height": 24
+        },
+        "page": 7
+    },
+    {
+        "text": "Ltd.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 889,
+            "top": 604,
+            "width": 55,
+            "height": 24
+        },
+        "page": 7
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 160,
+            "top": 1002,
+            "width": 73,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "Name",
+        "conf": 96.0,
+        "bbox": {
+            "left": 246,
+            "top": 1002,
+            "width": 94,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "HbA1c",
+        "conf": 89.0,
+        "bbox": {
+            "left": 171,
+            "top": 1060,
+            "width": 111,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "(GLYCOSYLATED",
+        "conf": 96.0,
+        "bbox": {
+            "left": 294,
+            "top": 1060,
+            "width": 304,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "HEMOGLOBIN),",
+        "conf": 96.0,
+        "bbox": {
+            "left": 612,
+            "top": 1060,
+            "width": 264,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "BLOOD",
+        "conf": 96.0,
+        "bbox": {
+            "left": 891,
+            "top": 1060,
+            "width": 125,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "(HPLC,",
+        "conf": 93.0,
+        "bbox": {
+            "left": 171,
+            "top": 1105,
+            "width": 116,
+            "height": 35
+        },
+        "page": 7
+    },
+    {
+        "text": "NGSP",
+        "conf": 92.0,
+        "bbox": {
+            "left": 302,
+            "top": 1105,
+            "width": 100,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "certified)",
+        "conf": 96.0,
+        "bbox": {
+            "left": 415,
+            "top": 1105,
+            "width": 138,
+            "height": 35
+        },
+        "page": 7
+    },
+    {
+        "text": "HbA1c",
+        "conf": 59.0,
+        "bbox": {
+            "left": 163,
+            "top": 1220,
+            "width": 106,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "Estimated",
+        "conf": 96.0,
+        "bbox": {
+            "left": 163,
+            "top": 1327,
+            "width": 158,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "average",
+        "conf": 96.0,
+        "bbox": {
+            "left": 334,
+            "top": 1334,
+            "width": 130,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "glucose",
+        "conf": 93.0,
+        "bbox": {
+            "left": 476,
+            "top": 1328,
+            "width": 125,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "(eAG)",
+        "conf": 92.0,
+        "bbox": {
+            "left": 614,
+            "top": 1327,
+            "width": 95,
+            "height": 35
+        },
+        "page": 7
+    },
+    {
+        "text": "Interpretation",
+        "conf": 96.0,
+        "bbox": {
+            "left": 148,
+            "top": 1472,
+            "width": 250,
+            "height": 37
+        },
+        "page": 7
+    },
+    {
+        "text": "Regd.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1320,
+            "top": 194,
+            "width": 61,
+            "height": 23
+        },
+        "page": 7
+    },
+    {
+        "text": "Office:",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1389,
+            "top": 193,
+            "width": 73,
+            "height": 19
+        },
+        "page": 7
+    },
+    {
+        "text": "Dr",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1471,
+            "top": 194,
+            "width": 22,
+            "height": 17
+        },
+        "page": 7
+    },
+    {
+        "text": "Lal",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1501,
+            "top": 195,
+            "width": 26,
+            "height": 17
+        },
+        "page": 7
+    },
+    {
+        "text": "Path",
+        "conf": 61.0,
+        "bbox": {
+            "left": 1538,
+            "top": 194,
+            "width": 42,
+            "height": 18
+        },
+        "page": 7
+    },
+    {
+        "text": "abs",
+        "conf": 68.0,
+        "bbox": {
+            "left": 1591,
+            "top": 189,
+            "width": 25,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "Ltd,",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1629,
+            "top": 195,
+            "width": 35,
+            "height": 18
+        },
+        "page": 7
+    },
+    {
+        "text": "Block-E,",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1673,
+            "top": 194,
+            "width": 76,
+            "height": 19
+        },
+        "page": 7
+    },
+    {
+        "text": "Sector-18,",
+        "conf": 85.0,
+        "bbox": {
+            "left": 1759,
+            "top": 194,
+            "width": 96,
+            "height": 19
+        },
+        "page": 7
+    },
+    {
+        "text": "Rohini,",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1865,
+            "top": 194,
+            "width": 65,
+            "height": 19
+        },
+        "page": 7
+    },
+    {
+        "text": "New",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1940,
+            "top": 194,
+            "width": 46,
+            "height": 18
+        },
+        "page": 7
+    },
+    {
+        "text": "Dethi-1",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1993,
+            "top": 194,
+            "width": 67,
+            "height": 17
+        },
+        "page": 7
+    },
+    {
+        "text": "10085",
+        "conf": 0.0,
+        "bbox": {
+            "left": 2068,
+            "top": 194,
+            "width": 59,
+            "height": 18
+        },
+        "page": 7
+    },
+    {
+        "text": "Web:",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1320,
+            "top": 231,
+            "width": 56,
+            "height": 16
+        },
+        "page": 7
+    },
+    {
+        "text": "www",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1384,
+            "top": 234,
+            "width": 56,
+            "height": 12
+        },
+        "page": 7
+    },
+    {
+        "text": "iaipathiabs",
+        "conf": 72.0,
+        "bbox": {
+            "left": 1446,
+            "top": 231,
+            "width": 104,
+            "height": 21
+        },
+        "page": 7
+    },
+    {
+        "text": "com,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1558,
+            "top": 234,
+            "width": 46,
+            "height": 15
+        },
+        "page": 7
+    },
+    {
+        "text": "CIN:",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1613,
+            "top": 230,
+            "width": 46,
+            "height": 17
+        },
+        "page": 7
+    },
+    {
+        "text": "L74899DL",
+        "conf": 54.0,
+        "bbox": {
+            "left": 1667,
+            "top": 231,
+            "width": 108,
+            "height": 16
+        },
+        "page": 7
+    },
+    {
+        "text": "1",
+        "conf": 54.0,
+        "bbox": {
+            "left": 1768,
+            "top": 226,
+            "width": 11,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "99SPLC065",
+        "conf": 34.0,
+        "bbox": {
+            "left": 1781,
+            "top": 230,
+            "width": 150,
+            "height": 17
+        },
+        "page": 7
+    },
+    {
+        "text": "388",
+        "conf": 71.0,
+        "bbox": {
+            "left": 1896,
+            "top": 226,
+            "width": 38,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "Age",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1234,
+            "top": 401,
+            "width": 66,
+            "height": 32
+        },
+        "page": 7
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1518,
+            "top": 408,
+            "width": 5,
+            "height": 19
+        },
+        "page": 7
+    },
+    {
+        "text": "41",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1553,
+            "top": 401,
+            "width": 34,
+            "height": 26
+        },
+        "page": 7
+    },
+    {
+        "text": "Years",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1604,
+            "top": 401,
+            "width": 95,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "Gender",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1235,
+            "top": 450,
+            "width": 124,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1518,
+            "top": 457,
+            "width": 5,
+            "height": 19
+        },
+        "page": 7
+    },
+    {
+        "text": "Female",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1555,
+            "top": 448,
+            "width": 120,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "Reported",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1236,
+            "top": 495,
+            "width": 153,
+            "height": 41
+        },
+        "page": 7
+    },
+    {
+        "text": ":",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1518,
+            "top": 506,
+            "width": 5,
+            "height": 19
+        },
+        "page": 7
+    },
+    {
+        "text": "9/8/2024",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1554,
+            "top": 497,
+            "width": 138,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "10:06:36AM",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1715,
+            "top": 497,
+            "width": 195,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "Report",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1236,
+            "top": 548,
+            "width": 113,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "Status:",
+        "conf": 27.0,
+        "bbox": {
+            "left": 1360,
+            "top": 548,
+            "width": 163,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "Final",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1555,
+            "top": 546,
+            "width": 79,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": ":",
+        "conf": 79.0,
+        "bbox": {
+            "left": 1520,
+            "top": 611,
+            "width": 6,
+            "height": 21
+        },
+        "page": 7
+    },
+    {
+        "text": "LPL-BENGALURU",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1553,
+            "top": 602,
+            "width": 271,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "REFERENCE",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1837,
+            "top": 602,
+            "width": 194,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "LAB",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2043,
+            "top": 603,
+            "width": 62,
+            "height": 23
+        },
+        "page": 7
+    },
+    {
+        "text": "NO.17/1,SERVICE",
+        "conf": 82.0,
+        "bbox": {
+            "left": 1553,
+            "top": 648,
+            "width": 265,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "ROAD,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1830,
+            "top": 648,
+            "width": 99,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "THE",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1940,
+            "top": 649,
+            "width": 63,
+            "height": 23
+        },
+        "page": 7
+    },
+    {
+        "text": "ADDRESS,OPP",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1551,
+            "top": 694,
+            "width": 232,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "PRESTIGE",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1794,
+            "top": 694,
+            "width": 159,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "CESSNA",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1964,
+            "top": 694,
+            "width": 132,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "PARK,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2107,
+            "top": 695,
+            "width": 95,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "OUTER",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1552,
+            "top": 740,
+            "width": 110,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "RING",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1673,
+            "top": 740,
+            "width": 77,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "ROAD",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1762,
+            "top": 740,
+            "width": 91,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": ",KADUBEESANAHALLI",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1865,
+            "top": 740,
+            "width": 348,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "s;BANGALORE-560103",
+        "conf": 8.0,
+        "bbox": {
+            "left": 1553,
+            "top": 787,
+            "width": 329,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "Processed",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1235,
+            "top": 603,
+            "width": 177,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "at",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1425,
+            "top": 604,
+            "width": 31,
+            "height": 26
+        },
+        "page": 7
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1146,
+            "top": 914,
+            "width": 81,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "Report",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1241,
+            "top": 914,
+            "width": 124,
+            "height": 37
+        },
+        "page": 7
+    },
+    {
+        "text": "Results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1157,
+            "top": 998,
+            "width": 126,
+            "height": 42
+        },
+        "page": 7
+    },
+    {
+        "text": "Units",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1588,
+            "top": 998,
+            "width": 85,
+            "height": 42
+        },
+        "page": 7
+    },
+    {
+        "text": "Bio.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2009,
+            "top": 1002,
+            "width": 64,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "Ref.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2087,
+            "top": 1002,
+            "width": 63,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "Interval",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2165,
+            "top": 1002,
+            "width": 123,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "5.4",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1169,
+            "top": 1217,
+            "width": 48,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "%",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1587,
+            "top": 1216,
+            "width": 29,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "4.00",
+        "conf": 92.0,
+        "bbox": {
+            "left": 2007,
+            "top": 1216,
+            "width": 70,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "-",
+        "conf": 92.0,
+        "bbox": {
+            "left": 2089,
+            "top": 1232,
+            "width": 11,
+            "height": 3
+        },
+        "page": 7
+    },
+    {
+        "text": "5.60",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2113,
+            "top": 1216,
+            "width": 68,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "108",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1171,
+            "top": 1323,
+            "width": 56,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "mg/dL",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1588,
+            "top": 1323,
+            "width": 98,
+            "height": 35
+        },
+        "page": 7
+    },
+    {
+        "text": "HbA\u2018c",
+        "conf": 53.0,
+        "bbox": {
+            "left": 148,
+            "top": 1528,
+            "width": 118,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "result",
+        "conf": 95.0,
+        "bbox": {
+            "left": 280,
+            "top": 1528,
+            "width": 96,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "is",
+        "conf": 96.0,
+        "bbox": {
+            "left": 390,
+            "top": 1528,
+            "width": 25,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "suggestive",
+        "conf": 96.0,
+        "bbox": {
+            "left": 429,
+            "top": 1528,
+            "width": 191,
+            "height": 38
+        },
+        "page": 7
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 633,
+            "top": 1527,
+            "width": 34,
+            "height": 31
+        },
+        "page": 7
+    },
+    {
+        "text": "non",
+        "conf": 96.0,
+        "bbox": {
+            "left": 679,
+            "top": 1535,
+            "width": 63,
+            "height": 23
+        },
+        "page": 7
+    },
+    {
+        "text": "diabetic",
+        "conf": 96.0,
+        "bbox": {
+            "left": 757,
+            "top": 1528,
+            "width": 137,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "adults",
+        "conf": 93.0,
+        "bbox": {
+            "left": 907,
+            "top": 1528,
+            "width": 105,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "(>=18",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1027,
+            "top": 1528,
+            "width": 102,
+            "height": 38
+        },
+        "page": 7
+    },
+    {
+        "text": "years)/",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1142,
+            "top": 1528,
+            "width": 123,
+            "height": 38
+        },
+        "page": 7
+    },
+    {
+        "text": "well",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1276,
+            "top": 1528,
+            "width": 67,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "controlled",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1358,
+            "top": 1528,
+            "width": 171,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "Diabetes",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1546,
+            "top": 1528,
+            "width": 155,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1716,
+            "top": 1528,
+            "width": 27,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "a",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1757,
+            "top": 1535,
+            "width": 19,
+            "height": 23
+        },
+        "page": 7
+    },
+    {
+        "text": "known",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1792,
+            "top": 1528,
+            "width": 112,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "Diabetic",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1920,
+            "top": 1528,
+            "width": 143,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "Interpretation",
+        "conf": 95.0,
+        "bbox": {
+            "left": 168,
+            "top": 1588,
+            "width": 250,
+            "height": 37
+        },
+        "page": 7
+    },
+    {
+        "text": "as",
+        "conf": 96.0,
+        "bbox": {
+            "left": 433,
+            "top": 1596,
+            "width": 41,
+            "height": 22
+        },
+        "page": 7
+    },
+    {
+        "text": "per",
+        "conf": 96.0,
+        "bbox": {
+            "left": 489,
+            "top": 1596,
+            "width": 59,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "American",
+        "conf": 96.0,
+        "bbox": {
+            "left": 559,
+            "top": 1588,
+            "width": 178,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "Diabetes",
+        "conf": 96.0,
+        "bbox": {
+            "left": 752,
+            "top": 1588,
+            "width": 161,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "Association",
+        "conf": 96.0,
+        "bbox": {
+            "left": 926,
+            "top": 1588,
+            "width": 222,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "(ADA)",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1163,
+            "top": 1588,
+            "width": 108,
+            "height": 38
+        },
+        "page": 7
+    },
+    {
+        "text": "Guidelines",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1286,
+            "top": 1588,
+            "width": 198,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 175,
+            "top": 1739,
+            "width": 3,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "Reference",
+        "conf": 96.0,
+        "bbox": {
+            "left": 213,
+            "top": 1739,
+            "width": 195,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "Group",
+        "conf": 96.0,
+        "bbox": {
+            "left": 434,
+            "top": 1744,
+            "width": 108,
+            "height": 31
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 575,
+            "top": 1740,
+            "width": 4,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "Non",
+        "conf": 96.0,
+        "bbox": {
+            "left": 613,
+            "top": 1745,
+            "width": 61,
+            "height": 24
+        },
+        "page": 7
+    },
+    {
+        "text": "diabetic",
+        "conf": 95.0,
+        "bbox": {
+            "left": 701,
+            "top": 1739,
+            "width": 174,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1020,
+            "top": 1739,
+            "width": 3,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 58.0,
+        "bbox": {
+            "left": 575,
+            "top": 1777,
+            "width": 4,
+            "height": 70
+        },
+        "page": 7
+    },
+    {
+        "text": "adults",
+        "conf": 91.0,
+        "bbox": {
+            "left": 613,
+            "top": 1776,
+            "width": 128,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": ">=18",
+        "conf": 91.0,
+        "bbox": {
+            "left": 767,
+            "top": 1777,
+            "width": 86,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "years",
+        "conf": 96.0,
+        "bbox": {
+            "left": 879,
+            "top": 1785,
+            "width": 106,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1020,
+            "top": 1776,
+            "width": 3,
+            "height": 71
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 80.0,
+        "bbox": {
+            "left": 575,
+            "top": 1851,
+            "width": 4,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 80.0,
+        "bbox": {
+            "left": 1020,
+            "top": 1850,
+            "width": 3,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "At",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1056,
+            "top": 1744,
+            "width": 41,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "risk",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1127,
+            "top": 1739,
+            "width": 82,
+            "height": 42
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1376,
+            "top": 1739,
+            "width": 3,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "Diagnosing",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1413,
+            "top": 1739,
+            "width": 218,
+            "height": 42
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1687,
+            "top": 1739,
+            "width": 3,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "Therapeutic",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1722,
+            "top": 1739,
+            "width": 242,
+            "height": 42
+        },
+        "page": 7
+    },
+    {
+        "text": "goals",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1991,
+            "top": 1739,
+            "width": 106,
+            "height": 37
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 94.0,
+        "bbox": {
+            "left": 2198,
+            "top": 1740,
+            "width": 4,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "(Prediabetes)",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1061,
+            "top": 1776,
+            "width": 277,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1376,
+            "top": 1776,
+            "width": 3,
+            "height": 71
+        },
+        "page": 7
+    },
+    {
+        "text": "Diabetes",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1413,
+            "top": 1781,
+            "width": 173,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1687,
+            "top": 1776,
+            "width": 3,
+            "height": 71
+        },
+        "page": 7
+    },
+    {
+        "text": "for",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1725,
+            "top": 1776,
+            "width": 62,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "glycemic",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1813,
+            "top": 1785,
+            "width": 174,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "control",
+        "conf": 83.0,
+        "bbox": {
+            "left": 2014,
+            "top": 1776,
+            "width": 145,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 92.0,
+        "bbox": {
+            "left": 2198,
+            "top": 1777,
+            "width": 3,
+            "height": 70
+        },
+        "page": 7
+    },
+    {
+        "text": "5.7-6.4",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1060,
+            "top": 1851,
+            "width": 149,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1376,
+            "top": 1850,
+            "width": 3,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": ">=",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1412,
+            "top": 1860,
+            "width": 42,
+            "height": 18
+        },
+        "page": 7
+    },
+    {
+        "text": "6.5",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1480,
+            "top": 1851,
+            "width": 61,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1687,
+            "top": 1850,
+            "width": 3,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "<7.0",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1725,
+            "top": 1851,
+            "width": 85,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 85.0,
+        "bbox": {
+            "left": 2198,
+            "top": 1851,
+            "width": 4,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "Note:",
+        "conf": 96.0,
+        "bbox": {
+            "left": 168,
+            "top": 1994,
+            "width": 95,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "Presence",
+        "conf": 96.0,
+        "bbox": {
+            "left": 280,
+            "top": 1994,
+            "width": 167,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 461,
+            "top": 1993,
+            "width": 33,
+            "height": 31
+        },
+        "page": 7
+    },
+    {
+        "text": "Hemoglobin",
+        "conf": 96.0,
+        "bbox": {
+            "left": 507,
+            "top": 1994,
+            "width": 210,
+            "height": 38
+        },
+        "page": 7
+    },
+    {
+        "text": "variants",
+        "conf": 96.0,
+        "bbox": {
+            "left": 731,
+            "top": 1994,
+            "width": 140,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "and/or",
+        "conf": 96.0,
+        "bbox": {
+            "left": 884,
+            "top": 1994,
+            "width": 114,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "conditions",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1010,
+            "top": 1994,
+            "width": 179,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "that",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1203,
+            "top": 1994,
+            "width": 66,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "affect",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1282,
+            "top": 1993,
+            "width": 97,
+            "height": 31
+        },
+        "page": 7
+    },
+    {
+        "text": "red",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1393,
+            "top": 1994,
+            "width": 53,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "cell",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1461,
+            "top": 1994,
+            "width": 57,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "turnover",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1532,
+            "top": 1995,
+            "width": 148,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "must",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1693,
+            "top": 1995,
+            "width": 85,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "be",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1792,
+            "top": 1994,
+            "width": 41,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "considered,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1847,
+            "top": 1994,
+            "width": 204,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "particularly",
+        "conf": 95.0,
+        "bbox": {
+            "left": 168,
+            "top": 2049,
+            "width": 192,
+            "height": 38
+        },
+        "page": 7
+    },
+    {
+        "text": "when",
+        "conf": 96.0,
+        "bbox": {
+            "left": 372,
+            "top": 2049,
+            "width": 94,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "the",
+        "conf": 93.0,
+        "bbox": {
+            "left": 480,
+            "top": 2049,
+            "width": 54,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "HbA1C",
+        "conf": 91.0,
+        "bbox": {
+            "left": 550,
+            "top": 2048,
+            "width": 125,
+            "height": 31
+        },
+        "page": 7
+    },
+    {
+        "text": "result",
+        "conf": 95.0,
+        "bbox": {
+            "left": 690,
+            "top": 2049,
+            "width": 96,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "does",
+        "conf": 95.0,
+        "bbox": {
+            "left": 799,
+            "top": 2049,
+            "width": 85,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "not",
+        "conf": 96.0,
+        "bbox": {
+            "left": 899,
+            "top": 2050,
+            "width": 53,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "correlate",
+        "conf": 96.0,
+        "bbox": {
+            "left": 965,
+            "top": 2049,
+            "width": 155,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "with",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1133,
+            "top": 2049,
+            "width": 69,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1216,
+            "top": 2049,
+            "width": 54,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "patient's",
+        "conf": 0.0,
+        "bbox": {
+            "left": 1285,
+            "top": 2049,
+            "width": 147,
+            "height": 37
+        },
+        "page": 7
+    },
+    {
+        "text": "blood",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1446,
+            "top": 2049,
+            "width": 94,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "glucose",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1555,
+            "top": 2049,
+            "width": 137,
+            "height": 38
+        },
+        "page": 7
+    },
+    {
+        "text": "levels.",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1707,
+            "top": 2049,
+            "width": 109,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 94.0,
+        "bbox": {
+            "left": 175,
+            "top": 2188,
+            "width": 3,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "FACTORS",
+        "conf": 96.0,
+        "bbox": {
+            "left": 214,
+            "top": 2193,
+            "width": 150,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "THAT",
+        "conf": 95.0,
+        "bbox": {
+            "left": 388,
+            "top": 2194,
+            "width": 88,
+            "height": 23
+        },
+        "page": 7
+    },
+    {
+        "text": "INTERFERE",
+        "conf": 96.0,
+        "bbox": {
+            "left": 502,
+            "top": 2194,
+            "width": 195,
+            "height": 23
+        },
+        "page": 7
+    },
+    {
+        "text": "WITH",
+        "conf": 93.0,
+        "bbox": {
+            "left": 722,
+            "top": 2194,
+            "width": 86,
+            "height": 23
+        },
+        "page": 7
+    },
+    {
+        "text": "HbA1C",
+        "conf": 89.0,
+        "bbox": {
+            "left": 835,
+            "top": 2188,
+            "width": 107,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 93.0,
+        "bbox": {
+            "left": 175,
+            "top": 2227,
+            "width": 3,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "MEASUREMENT",
+        "conf": 95.0,
+        "bbox": {
+            "left": 211,
+            "top": 2232,
+            "width": 243,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "Hemoglobin",
+        "conf": 93.0,
+        "bbox": {
+            "left": 212,
+            "top": 2304,
+            "width": 217,
+            "height": 37
+        },
+        "page": 7
+    },
+    {
+        "text": "variants,elevated",
+        "conf": 91.0,
+        "bbox": {
+            "left": 456,
+            "top": 2304,
+            "width": 374,
+            "height": 35
+        },
+        "page": 7
+    },
+    {
+        "text": "fetal",
+        "conf": 96.0,
+        "bbox": {
+            "left": 858,
+            "top": 2304,
+            "width": 101,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "hemoglobin",
+        "conf": 93.0,
+        "bbox": {
+            "left": 213,
+            "top": 2342,
+            "width": 216,
+            "height": 37
+        },
+        "page": 7
+    },
+    {
+        "text": "(HbF)",
+        "conf": 81.0,
+        "bbox": {
+            "left": 460,
+            "top": 2342,
+            "width": 100,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "and",
+        "conf": 96.0,
+        "bbox": {
+            "left": 590,
+            "top": 2342,
+            "width": 62,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "chemically",
+        "conf": 96.0,
+        "bbox": {
+            "left": 680,
+            "top": 2342,
+            "width": 218,
+            "height": 36
+        },
+        "page": 7
+    },
+    {
+        "text": "modified",
+        "conf": 96.0,
+        "bbox": {
+            "left": 211,
+            "top": 2381,
+            "width": 174,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "derivatives",
+        "conf": 95.0,
+        "bbox": {
+            "left": 412,
+            "top": 2381,
+            "width": 240,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 679,
+            "top": 2381,
+            "width": 42,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "hemoglobin",
+        "conf": 96.0,
+        "bbox": {
+            "left": 746,
+            "top": 2381,
+            "width": 217,
+            "height": 37
+        },
+        "page": 7
+    },
+    {
+        "text": "(e.g.",
+        "conf": 93.0,
+        "bbox": {
+            "left": 216,
+            "top": 2420,
+            "width": 97,
+            "height": 36
+        },
+        "page": 7
+    },
+    {
+        "text": "carbamylated",
+        "conf": 90.0,
+        "bbox": {
+            "left": 346,
+            "top": 2419,
+            "width": 262,
+            "height": 36
+        },
+        "page": 7
+    },
+    {
+        "text": "Hb",
+        "conf": 96.0,
+        "bbox": {
+            "left": 635,
+            "top": 2419,
+            "width": 41,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "in",
+        "conf": 96.0,
+        "bbox": {
+            "left": 702,
+            "top": 2419,
+            "width": 39,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "patients",
+        "conf": 96.0,
+        "bbox": {
+            "left": 769,
+            "top": 2419,
+            "width": 172,
+            "height": 36
+        },
+        "page": 7
+    },
+    {
+        "text": "with",
+        "conf": 95.0,
+        "bbox": {
+            "left": 210,
+            "top": 2458,
+            "width": 86,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "renal",
+        "conf": 96.0,
+        "bbox": {
+            "left": 326,
+            "top": 2458,
+            "width": 99,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "failure)",
+        "conf": 95.0,
+        "bbox": {
+            "left": 457,
+            "top": 2458,
+            "width": 170,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "can",
+        "conf": 96.0,
+        "bbox": {
+            "left": 658,
+            "top": 2467,
+            "width": 60,
+            "height": 21
+        },
+        "page": 7
+    },
+    {
+        "text": "affect",
+        "conf": 96.0,
+        "bbox": {
+            "left": 746,
+            "top": 2458,
+            "width": 129,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 902,
+            "top": 2458,
+            "width": 62,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "accuracy",
+        "conf": 96.0,
+        "bbox": {
+            "left": 212,
+            "top": 2505,
+            "width": 174,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "of",
+        "conf": 93.0,
+        "bbox": {
+            "left": 412,
+            "top": 2496,
+            "width": 42,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "HbAlc",
+        "conf": 91.0,
+        "bbox": {
+            "left": 479,
+            "top": 2496,
+            "width": 107,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "measurements",
+        "conf": 95.0,
+        "bbox": {
+            "left": 612,
+            "top": 2501,
+            "width": 262,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "FACTORS",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1082,
+            "top": 2193,
+            "width": 149,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "THAT",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1255,
+            "top": 2194,
+            "width": 89,
+            "height": 23
+        },
+        "page": 7
+    },
+    {
+        "text": "AFFECT",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1367,
+            "top": 2193,
+            "width": 132,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "INTERPRETATION",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1525,
+            "top": 2193,
+            "width": 306,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1998,
+            "top": 2189,
+            "width": 4,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "OF",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1078,
+            "top": 2232,
+            "width": 42,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "HBA1C",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1146,
+            "top": 2229,
+            "width": 108,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "RESULTS",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1280,
+            "top": 2232,
+            "width": 151,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1998,
+            "top": 2228,
+            "width": 4,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "Any",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1078,
+            "top": 2310,
+            "width": 65,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "condition",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1169,
+            "top": 2304,
+            "width": 194,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "that",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1391,
+            "top": 2304,
+            "width": 84,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "shortens",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1503,
+            "top": 2304,
+            "width": 172,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "erythrocyte",
+        "conf": 47.0,
+        "bbox": {
+            "left": 1702,
+            "top": 2304,
+            "width": 240,
+            "height": 36
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 83.0,
+        "bbox": {
+            "left": 1998,
+            "top": 2305,
+            "width": 4,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "survival",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1081,
+            "top": 2342,
+            "width": 167,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "or",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1279,
+            "top": 2351,
+            "width": 41,
+            "height": 21
+        },
+        "page": 7
+    },
+    {
+        "text": "decreases",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1346,
+            "top": 2342,
+            "width": 195,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "mean",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1568,
+            "top": 2351,
+            "width": 84,
+            "height": 21
+        },
+        "page": 7
+    },
+    {
+        "text": "erythrocyte",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1680,
+            "top": 2342,
+            "width": 240,
+            "height": 36
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1998,
+            "top": 2343,
+            "width": 4,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "age",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1080,
+            "top": 2390,
+            "width": 62,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "(e.g.,recovery",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1172,
+            "top": 2382,
+            "width": 304,
+            "height": 36
+        },
+        "page": 7
+    },
+    {
+        "text": "from",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1503,
+            "top": 2381,
+            "width": 84,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "acute",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1613,
+            "top": 2386,
+            "width": 107,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "blood",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1747,
+            "top": 2381,
+            "width": 106,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "loss,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1881,
+            "top": 2381,
+            "width": 121,
+            "height": 35
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1987,
+            "top": 2377,
+            "width": 19,
+            "height": 45
+        },
+        "page": 7
+    },
+    {
+        "text": "hemolytic",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1080,
+            "top": 2419,
+            "width": 195,
+            "height": 36
+        },
+        "page": 7
+    },
+    {
+        "text": "anemia,",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1302,
+            "top": 2419,
+            "width": 145,
+            "height": 35
+        },
+        "page": 7
+    },
+    {
+        "text": "HbSS,",
+        "conf": 90.0,
+        "bbox": {
+            "left": 1480,
+            "top": 2419,
+            "width": 101,
+            "height": 35
+        },
+        "page": 7
+    },
+    {
+        "text": "HbCC,",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1613,
+            "top": 2419,
+            "width": 101,
+            "height": 35
+        },
+        "page": 7
+    },
+    {
+        "text": "and",
+        "conf": 91.0,
+        "bbox": {
+            "left": 1747,
+            "top": 2419,
+            "width": 62,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "HbSc)",
+        "conf": 79.0,
+        "bbox": {
+            "left": 1836,
+            "top": 2419,
+            "width": 103,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1998,
+            "top": 2420,
+            "width": 4,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "will",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1078,
+            "top": 2458,
+            "width": 81,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "falsely",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1191,
+            "top": 2458,
+            "width": 152,
+            "height": 36
+        },
+        "page": 7
+    },
+    {
+        "text": "lower",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1370,
+            "top": 2458,
+            "width": 106,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "HbAlc",
+        "conf": 89.0,
+        "bbox": {
+            "left": 1502,
+            "top": 2458,
+            "width": 107,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1635,
+            "top": 2463,
+            "width": 85,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1750,
+            "top": 2458,
+            "width": 147,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1998,
+            "top": 2459,
+            "width": 4,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "regardless",
+        "conf": 68.0,
+        "bbox": {
+            "left": 1083,
+            "top": 2496,
+            "width": 214,
+            "height": 37
+        },
+        "page": 7
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1324,
+            "top": 2496,
+            "width": 42,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1391,
+            "top": 2496,
+            "width": 62,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "assay",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1480,
+            "top": 2505,
+            "width": 107,
+            "height": 27
+        },
+        "page": 7
+    },
+    {
+        "text": "method",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1612,
+            "top": 2496,
+            "width": 130,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "used.Iron",
+        "conf": 82.0,
+        "bbox": {
+            "left": 1769,
+            "top": 2496,
+            "width": 195,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1998,
+            "top": 2497,
+            "width": 4,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "deficiency",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1079,
+            "top": 2535,
+            "width": 219,
+            "height": 36
+        },
+        "page": 7
+    },
+    {
+        "text": "anemia",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1324,
+            "top": 2535,
+            "width": 130,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "is",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1481,
+            "top": 2535,
+            "width": 38,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "associated",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1547,
+            "top": 2535,
+            "width": 217,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "with",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1789,
+            "top": 2535,
+            "width": 86,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 94.0,
+        "bbox": {
+            "left": 1998,
+            "top": 2536,
+            "width": 4,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "higher",
+        "conf": 92.0,
+        "bbox": {
+            "left": 1080,
+            "top": 2573,
+            "width": 129,
+            "height": 37
+        },
+        "page": 7
+    },
+    {
+        "text": "HbAlc",
+        "conf": 88.0,
+        "bbox": {
+            "left": 1235,
+            "top": 2573,
+            "width": 107,
+            "height": 30
+        },
+        "page": 7
+    },
+    {
+        "text": "|",
+        "conf": 72.0,
+        "bbox": {
+            "left": 1998,
+            "top": 2574,
+            "width": 4,
+            "height": 33
+        },
+        "page": 7
+    },
+    {
+        "text": "If",
+        "conf": 83.0,
+        "bbox": {
+            "left": 91,
+            "top": 3515,
+            "width": 25,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "Test",
+        "conf": 96.0,
+        "bbox": {
+            "left": 123,
+            "top": 3515,
+            "width": 72,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "results",
+        "conf": 96.0,
+        "bbox": {
+            "left": 207,
+            "top": 3515,
+            "width": 115,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "are",
+        "conf": 97.0,
+        "bbox": {
+            "left": 334,
+            "top": 3524,
+            "width": 55,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "alarming",
+        "conf": 96.0,
+        "bbox": {
+            "left": 401,
+            "top": 3515,
+            "width": 156,
+            "height": 42
+        },
+        "page": 7
+    },
+    {
+        "text": "or",
+        "conf": 96.0,
+        "bbox": {
+            "left": 570,
+            "top": 3524,
+            "width": 36,
+            "height": 25
+        },
+        "page": 7
+    },
+    {
+        "text": "unexpected,",
+        "conf": 96.0,
+        "bbox": {
+            "left": 618,
+            "top": 3515,
+            "width": 213,
+            "height": 42
+        },
+        "page": 7
+    },
+    {
+        "text": "client",
+        "conf": 96.0,
+        "bbox": {
+            "left": 839,
+            "top": 3515,
+            "width": 100,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "is",
+        "conf": 96.0,
+        "bbox": {
+            "left": 950,
+            "top": 3515,
+            "width": 26,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "advised",
+        "conf": 96.0,
+        "bbox": {
+            "left": 988,
+            "top": 3515,
+            "width": 133,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "to",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1133,
+            "top": 3520,
+            "width": 36,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "contact",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1182,
+            "top": 3520,
+            "width": 130,
+            "height": 29
+        },
+        "page": 7
+    },
+    {
+        "text": "the",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1321,
+            "top": 3515,
+            "width": 59,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "Customer",
+        "conf": 95.0,
+        "bbox": {
+            "left": 1392,
+            "top": 3515,
+            "width": 167,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "Care",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1571,
+            "top": 3515,
+            "width": 76,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "immediately",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1661,
+            "top": 3515,
+            "width": 219,
+            "height": 42
+        },
+        "page": 7
+    },
+    {
+        "text": "for",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1888,
+            "top": 3515,
+            "width": 50,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "possible",
+        "conf": 96.0,
+        "bbox": {
+            "left": 1950,
+            "top": 3515,
+            "width": 145,
+            "height": 42
+        },
+        "page": 7
+    },
+    {
+        "text": "remedial",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2108,
+            "top": 3515,
+            "width": 154,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "action.",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2273,
+            "top": 3515,
+            "width": 117,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "Page",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2052,
+            "top": 3256,
+            "width": 112,
+            "height": 35
+        },
+        "page": 7
+    },
+    {
+        "text": "7",
+        "conf": 95.0,
+        "bbox": {
+            "left": 2141,
+            "top": 3252,
+            "width": 19,
+            "height": 43
+        },
+        "page": 7
+    },
+    {
+        "text": "of",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2177,
+            "top": 3256,
+            "width": 29,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "10",
+        "conf": 96.0,
+        "bbox": {
+            "left": 2220,
+            "top": 3256,
+            "width": 36,
+            "height": 28
+        },
+        "page": 7
+    },
+    {
+        "text": "Tel:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 482,
+            "top": 3567,
+            "width": 61,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "011-4988-5050,",
+        "conf": 90.0,
+        "bbox": {
+            "left": 552,
+            "top": 3567,
+            "width": 288,
+            "height": 40
+        },
+        "page": 7
+    },
+    {
+        "text": "Fax:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 847,
+            "top": 3567,
+            "width": 76,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "+91-11-2788-2134,",
+        "conf": 91.0,
+        "bbox": {
+            "left": 933,
+            "top": 3567,
+            "width": 344,
+            "height": 39
+        },
+        "page": 7
+    },
+    {
+        "text": "E-mail:",
+        "conf": 93.0,
+        "bbox": {
+            "left": 1284,
+            "top": 3567,
+            "width": 125,
+            "height": 34
+        },
+        "page": 7
+    },
+    {
+        "text": "customer.care@lalpathlabs.com",
+        "conf": 73.0,
+        "bbox": {
+            "left": 1419,
+            "top": 3567,
+            "width": 566,
+            "height": 42
+        },
+        "page": 7
+    }
+]
